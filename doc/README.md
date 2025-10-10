@@ -13,10 +13,15 @@ Este projeto tem como objetivo demonstrar um processo completo de ETL (Extract, 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/) - para extração de dados.
 
 ## Estrutura do Repositório
-Spotify-ETL/
-│
-├─ .gitignore
-└─ README.md
+tp01-12345/
+├── README.md
+├── doc/
+├── dataint/
+│   └── Spotify-ETL/
+├── data/
+│   ├── input/
+│   └── output/
+└── src/
 
 ## Funcionalidades
 - Extração de dados de playlists, artistas e faixas do Spotify.
@@ -25,8 +30,25 @@ Spotify-ETL/
 - Logging e monitorização do workflow.
 - Possível integração com dashboards para visualização.
 
-## Como Executar
-1. Abrir o workflow no Knime.
+## Requisitos e Configuração do Ambiente
+
+Este workflow do KNIME tem dependências externas para funcionar corretamente, incluindo extensões KNIME e um caminho de ficheiro específico para os dados. Siga os passos abaixo antes de executar o workflow principal.
+
+### 1. Instalação das Extensões KNIME (Obrigatório)
+
+O workflow utiliza um nó de scripting para a autenticação Base64 (Autorização **Basic**), o que requer as seguintes extensões:
+
+* **KNIME Python Integration** (Versão 5.7.0 ou superior).
+* **KNIME Conda Integration** (Versão 5.6.0 ou superior).
+
+**Como Instalar:**
+
+1.  No KNIME Analytics Platform, vá a **Menu** > **Install Extensions...**.
+2.  Procure por **"python"**.
+3.  **Selecione** os dois itens acima.
+4.  Prossiga com a instalação e **reinicie** o KNIME.
+
+
 
 ## Autor
 Pedro – Aluno de Engenharia de Sistemas Informáticos, Disciplina ISI

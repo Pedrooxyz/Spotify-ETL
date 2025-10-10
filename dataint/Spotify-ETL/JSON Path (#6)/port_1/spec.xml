@@ -63,7 +63,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="BQAPC9kG88qpAJz9vpP2Fmw53wSABk-gc4iLhczTeMjzpjxR6XWBFxccUO1-QLSgEVic-atBmqiJ-xcYLnZmY2ebg20NnGsycEcauOhNRQRL9kmWXZn1in4xlsUr_u7CbjHcua4kInE"/>
+                        <entry key="StringCell" type="xstring" value="BQAhAKjdh0nHuT9sNaC4l0na9S9FMQpUWcd7AKDY2Pq2BgVUOBZ-VnJyYmp51BxdYRIaxBtltFGYfZ-EMwtOqZ1Zm5iQoBcA3EyrCBMZYtwAT5UmKSy-pUyy1tCWGZvbWfVOYIwov04"/>
                     </config>
                 </config>
             </config>

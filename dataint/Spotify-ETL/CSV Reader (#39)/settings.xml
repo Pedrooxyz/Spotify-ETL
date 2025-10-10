@@ -15,8 +15,8 @@
                 <config key="file_system_chooser__Internals">
                     <entry key="has_fs_port" type="xboolean" value="false"/>
                     <entry key="overwritten_by_variable" type="xboolean" value="false"/>
-                    <entry key="convenience_fs_category" type="xstring" value="LOCAL"/>
-                    <entry key="relative_to" type="xstring" value="knime.workflow.data"/>
+                    <entry key="convenience_fs_category" type="xstring" value="RELATIVE"/>
+                    <entry key="relative_to" type="xstring" value="knime.workflow"/>
                     <entry key="mountpoint" type="xstring" value="knime-temp-space"/>
                     <entry key="spaceId" type="xstring" value=""/>
                     <entry key="spaceName" type="xstring" value=""/>
@@ -25,15 +25,16 @@
                 </config>
                 <config key="path">
                     <entry key="location_present" type="xboolean" value="true"/>
-                    <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="C:\Users\Pedro M Ribeiro\knime-workspace\Spotify-ETL\input"/>
+                    <entry key="file_system_type" type="xstring" value="RELATIVE"/>
+                    <entry key="file_system_specifier" type="xstring" value="knime.workflow"/>
+                    <entry key="path" type="xstring" value="../../data/input/..\..\data\input\inputplaylisttxt.txt"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
                     <entry key="EnabledStatus" type="xboolean" value="true"/>
                 </config>
                 <config key="filter_mode">
-                    <entry key="filter_mode" type="xstring" value="FILES_IN_FOLDERS"/>
+                    <entry key="filter_mode" type="xstring" value="FILE"/>
                     <entry key="include_subfolders" type="xboolean" value="false"/>
                     <config key="filter_options">
                         <entry key="filter_files_extension" type="xboolean" value="false"/>
@@ -70,7 +71,7 @@
         <config key="table_spec_config_Internals">
             <entry key="version" type="xstring" value="V4_4"/>
             <config key="individual_specs">
-                <config key="C:\Users\Pedro M Ribeiro\knime-workspace\Spotify-ETL\input\inputplaylisttxt.txt">
+                <config key="../../data/input/..\..\data\input\inputplaylisttxt.txt">
                     <entry key="num_columns" type="xint" value="1"/>
                     <config key="0">
                         <entry key="name" type="xstring" value="Column0"/>
@@ -122,7 +123,7 @@
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
-            <entry key="source_group_id" type="xstring" value="C:\Users\Pedro M Ribeiro\knime-workspace\Spotify-ETL\input"/>
+            <entry key="source_group_id" type="xstring" value="../../data/input/..\..\data\input\inputplaylisttxt.txt"/>
             <config key="config_id">
                 <config key="multi_table_read">
                     <config key="settings">
@@ -217,6 +218,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="265a5c13-d474-4815-9a14-ce8f2c8e37b7"/>
+        <entry key="file_store_id" type="xstring" value="dffece5a-5ae7-4ef2-9ca0-83a012c1ce1c"/>
     </config>
 </config>

@@ -54,7 +54,7 @@
         </config>
         <entry key="Body column name" type="xstring" value="body"/>
         <config key="None"/>
-        <entry key="None_enabled" type="xboolean" value="false"/>
+        <entry key="None_enabled" type="xboolean" value="true"/>
         <config key="Basic">
             <config key="BASIC auth_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
@@ -62,12 +62,12 @@
             </config>
             <config key="BASIC auth">
                 <entry key="credentials" type="xstring" isnull="true" value=""/>
-                <entry key="username" type="xstring" value="643c5db58717487e88f6656200b76d16"/>
-                <entry key="password" type="xpassword" value="02IAAAAGMq_QxveL1vZ0EBj08T0TYMXggk2WsXuo5OaQpEW635qjyLZV6f4uj5vlwMsMlM4g=="/>
+                <entry key="username" type="xstring" value=""/>
+                <entry key="password" type="xpassword" value=""/>
                 <entry key="selectedType" type="xstring" value="USER_PWD"/>
             </config>
         </config>
-        <entry key="Basic_enabled" type="xboolean" value="true"/>
+        <entry key="Basic_enabled" type="xboolean" value="false"/>
         <config key="Digest">
             <config key="Digest auth_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
@@ -177,6 +177,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="dd025b9b-c122-4db3-b41d-9023f6760048"/>
+        <entry key="file_store_id" type="xstring" value="cffe0bae-9887-4a95-964f-db886ea35857"/>
     </config>
 </config>
