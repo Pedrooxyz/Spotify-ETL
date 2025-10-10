@@ -10,7 +10,7 @@
         <config key="matchingCriteria">
             <config key="0">
                 <config key="leftTableColumnV2">
-                    <entry key="regularChoice" type="xstring" value="Unique concatenate(Cantores)"/>
+                    <entry key="regularChoice" type="xstring" value="Cantore(s)"/>
                     <entry key="specialChoice_Internals" type="xstring" isnull="true" value=""/>
                 </config>
                 <config key="rightTableColumnV2">
@@ -137,6 +137,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b943161a-e94e-4281-b18f-26f9534dc0ba"/>
+        <entry key="file_store_id" type="xstring" value="59739a21-0390-4da6-81dd-c4acc559cdb9"/>
     </config>
 </config>

@@ -72,16 +72,9 @@
             <entry key="version" type="xstring" value="V4_4"/>
             <config key="individual_specs">
                 <config key="../../data/input/credentials.txt">
-                    <entry key="num_columns" type="xint" value="2"/>
+                    <entry key="num_columns" type="xint" value="1"/>
                     <config key="0">
                         <entry key="name" type="xstring" value="Column0"/>
-                        <entry key="has_type" type="xboolean" value="true"/>
-                        <config key="type">
-                            <entry key="class" type="xstring" value="java.lang.String"/>
-                        </config>
-                    </config>
-                    <config key="1">
-                        <entry key="name" type="xstring" value="Column1"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
@@ -99,7 +92,7 @@
                                 <entry key="class" type="xstring" value="java.lang.String"/>
                             </config>
                         </config>
-                        <entry key="name" type="xstring" value="Client ID"/>
+                        <entry key="name" type="xstring" value="BASE64"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="0"/>
                         <config key="production_path">
@@ -115,42 +108,17 @@
                             <config key="_producer_config"/>
                         </config>
                     </config>
-                    <config key="1">
-                        <config key="external_spec">
-                            <entry key="name" type="xstring" value="Column1"/>
-                            <entry key="has_type" type="xboolean" value="true"/>
-                            <config key="type">
-                                <entry key="class" type="xstring" value="java.lang.String"/>
-                            </config>
-                        </config>
-                        <entry key="name" type="xstring" value="Client secret"/>
-                        <entry key="keep" type="xboolean" value="true"/>
-                        <entry key="position" type="xint" value="1"/>
-                        <config key="production_path">
-                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-                            <entry key="_converter_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_converter_dst" type="xstring" value="String"/>
-                            <entry key="_converter_name" type="xstring" value="String"/>
-                            <config key="_converter_config"/>
-                            <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-                            <entry key="_producer_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_producer_dst" type="xstring" value="java.lang.String"/>
-                            <entry key="_producer_name" type="xstring" value="java.lang.String"/>
-                            <config key="_producer_config"/>
-                        </config>
-                    </config>
-                    <entry key="num_columns" type="xint" value="2"/>
+                    <entry key="num_columns" type="xint" value="1"/>
                     <config key="intersection_indices">
-                        <entry key="array-size" type="xint" value="2"/>
+                        <entry key="array-size" type="xint" value="1"/>
                         <entry key="0" type="xint" value="0"/>
-                        <entry key="1" type="xint" value="1"/>
                     </config>
                 </config>
                 <entry key="skip_empty_columns" type="xboolean" value="false"/>
                 <entry key="enforce_types" type="xboolean" value="true"/>
                 <entry key="column_filter_mode" type="xstring" value="UNION"/>
                 <config key="unknown_columns_transformation">
-                    <entry key="position" type="xint" value="2"/>
+                    <entry key="position" type="xint" value="1"/>
                     <entry key="keep" type="xboolean" value="true"/>
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
@@ -244,12 +212,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 2"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="38ab60f9-0168-468b-8621-a8336ce22dc2"/>
+        <entry key="file_store_id" type="xstring" value="ac02bf02-a899-4c35-a86e-d29cbd522f63"/>
     </config>
 </config>

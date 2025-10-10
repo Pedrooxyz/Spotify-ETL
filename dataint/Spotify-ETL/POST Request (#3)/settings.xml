@@ -22,12 +22,12 @@
         </config>
         <config key="Request header key selector">
             <entry key="array-size" type="xint" value="2"/>
-            <entry key="0" type="xstring" value="Basic NjQzYzVkYjU4NzE3NDg3ZTg4ZjY2NTYyMDBiNzZkMTY6MTM5NGMzZjllNmYxNDM3Mjg0YmNmODE4YWM1ZTUzMWQ="/>
+            <entry key="0" type="xstring" value="BASE64"/>
             <entry key="1" type="xstring" value="application/x-www-form-urlencoded"/>
         </config>
         <config key="Request header key kind">
             <entry key="array-size" type="xint" value="2"/>
-            <entry key="0" type="xstring" value="Constant"/>
+            <entry key="0" type="xstring" value="FlowVariable"/>
             <entry key="1" type="xstring" value="Constant"/>
         </config>
         <entry key="Extract all response fields" type="xboolean" value="false"/>
@@ -177,6 +177,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="cffe0bae-9887-4a95-964f-db886ea35857"/>
+        <entry key="file_store_id" type="xstring" value="9a3fb8dc-aba1-41e7-bd33-3961b24be5a9"/>
     </config>
 </config>

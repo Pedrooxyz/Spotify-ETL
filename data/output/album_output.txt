@@ -1,0 +1,13 @@
+"Numero","Nome","Duracao"
+1,"Airbag",4.8
+2,"Paranoid Android",6.45
+3,"Subterranean Homesick Alien",4.46
+4,"Exit Music (For A Film)",4.45
+5,"Let Down",4.99
+6,"Karma Police",4.4
+7,"Fitter Happier",1.96
+8,"Electioneering",3.84
+9,"Climbing Up the Walls",4.75
+10,"No Surprises",3.82
+11,"Lucky",4.31
+12,"The Tourist",5.44
