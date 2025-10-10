@@ -76,7 +76,7 @@ Para que o ETL saiba qual playlist extrair, o URL deve ser inserido no ficheiro 
 
     > **NOTA IMPORTANTE:** O *workflow* requer playlists com um criador utilizador. **Não utilize playlists automáticas** geradas pelo Spotify (ex: "Daily Mix", "Radar de Novidades").
 
-### Passo 3: Executar o Workflow
+### Passo 4: Executar o Workflow
 
 1.  Abra o *workflow* no **KNIME**.
 2.  Execute o *workflow* para iniciar o processo ETL.
