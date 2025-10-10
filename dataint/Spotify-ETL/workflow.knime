@@ -8,7 +8,7 @@
         <entry key="authored-by" type="xstring" value="Pedro M Ribeiro"/>
         <entry key="authored-when" type="xstring" value="2025-10-04 14:56:52 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="Pedro M Ribeiro"/>
-        <entry key="lastEdited-when" type="xstring" value="2025-10-10 23:55:05 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2025-10-11 00:34:15 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -686,13 +686,13 @@
         </config>
         <config key="connection_2">
             <entry key="sourceID" type="xint" value="7"/>
-            <entry key="destID" type="xint" value="19"/>
+            <entry key="destID" type="xint" value="8"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="0"/>
         </config>
         <config key="connection_3">
             <entry key="sourceID" type="xint" value="7"/>
-            <entry key="destID" type="xint" value="8"/>
+            <entry key="destID" type="xint" value="19"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="0"/>
         </config>
@@ -904,13 +904,13 @@
         </config>
         <config key="connection_37">
             <entry key="sourceID" type="xint" value="55"/>
-            <entry key="destID" type="xint" value="25"/>
+            <entry key="destID" type="xint" value="38"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
         <config key="connection_38">
             <entry key="sourceID" type="xint" value="55"/>
-            <entry key="destID" type="xint" value="38"/>
+            <entry key="destID" type="xint" value="25"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>

@@ -63,7 +63,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="BQAFVnrRfn4DZhCv4nyccX58fRfiPGNT809aTXrQv7J5zz8qxXTVmIGhtirfimEjbunPzMR7vEq5xhJNgSW-CBWCvWIZTNvz_hFWGO2cWrHgltbmBNe5F_2nINPSXeCT6quB7lVNFms"/>
+                        <entry key="StringCell" type="xstring" value="BQAZGapBxqj34JXCvTcWsi_JGqrc70ZYId0Xqf_qnXtgmaggc0myt04jboWbtUGzkFeZFHibgnc4r2e3vR2lNB2hwmFl0BKGMQag7k589sOmYPqkbB8s6abDqj4ZLJkZIOrNPPTfmsk"/>
                     </config>
                 </config>
             </config>
@@ -85,7 +85,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Bearer BQAFVnrRfn4DZhCv4nyccX58fRfiPGNT809aTXrQv7J5zz8qxXTVmIGhtirfimEjbunPzMR7vEq5xhJNgSW-CBWCvWIZTNvz_hFWGO2cWrHgltbmBNe5F_2nINPSXeCT6quB7lVNFms"/>
+                        <entry key="StringCell" type="xstring" value="Bearer BQAZGapBxqj34JXCvTcWsi_JGqrc70ZYId0Xqf_qnXtgmaggc0myt04jboWbtUGzkFeZFHibgnc4r2e3vR2lNB2hwmFl0BKGMQag7k589sOmYPqkbB8s6abDqj4ZLJkZIOrNPPTfmsk"/>
                     </config>
                 </config>
             </config>
