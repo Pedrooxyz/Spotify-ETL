@@ -1,0 +1,13 @@
+
+*/target/
+dataint/*/workflow.knime
+dataint/*/workflow.knimes
+dataint/*/node_*/data/
+dataint/*/node_*/port_*/data/
+
+*.log
+
+.DS_Store
+
+Thumbs.db
+Desktop.ini
