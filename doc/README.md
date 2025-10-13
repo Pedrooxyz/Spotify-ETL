@@ -240,7 +240,7 @@ jdbc:sqlserver://<localhost>\<instancia>:<porta>;databaseName=ETL_TP1;encrypt=fa
 ---
 
 ## Autor
-Pedro – Aluno de Engenharia de Sistemas Informáticos, Disciplina ISI
+Pedro Miguel Cardoso Ribeiro – Aluno de Engenharia de Sistemas Informáticos, Disciplina ISI
 
 ## Referências
 - [Knime Documentation](https://docs.knime.com/)
