@@ -13,17 +13,84 @@ Este projeto tem como objetivo demonstrar um processo completo de ETL (Extract, 
 ## Ferramentas Utilizadas
 - **[Knime](https://www.knime.com/)** - para desenvolvimento do workflow ETL.
 - **[Spotify Web API](https://developer.spotify.com/documentation/web-api/)** - para extração de dados.
+- **[Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)** - para armazenamento e gestão de dados no backend.
 
-## Estrutura do Repositório
-tp01-12345/
-├── README.md
-├── doc/
-├── dataint/
-│   └── Spotify-ETL/
+---
+
+## Estrutura do Projeto
+
+A estrutura do projeto está organizada nas seguintes pastas principais:
+
+Spotify-ETL/
 ├── data/
-│   ├── input/
-│   └── output/
-└── src/
+│ ├── input/
+│ └── output/
+├── dataint/
+├── src/
+├── doc/
+└── .gitignore
+
+### Descrição dos Componentes
+
+#### 1. Pasta `dataint/` (Lógica Principal - KNIME)
+
+Esta pasta contém os workflows do KNIME, que implementam a lógica principal de Extração, Transformação e Carregamento (ETL).
+
+| Ficheiro KNIME         | Função |
+|------------------------|--------|
+| knime Spotify_ETL       | É o Workflow Principal do projeto. Contém toda a lógica principal do processo ETL, dividida em componentes (componentes KNIME) para modularidade. Este workflow orquestra a extração da API e inicia o processo de transformação. |
+| knime Component_Album   | É um Componente Auxiliar dedicado. A sua lógica é iniciada a partir do workflow principal que exporta dados intermédios (provavelmente para um CSV ou ficheiro de texto temporário). Este componente lê esses dados, continua a transformação específica para informações de álbum e exporta os dados finais corretamente transformados. |
+
+#### 2. Pasta `src/` (Código Auxiliar)
+
+Esta pasta contém o código Python utilizado para funções de suporte que não são facilmente implementadas diretamente no KNIME.
+
+| Ficheiro                  | Função |
+|----------------------------|--------|
+| spotify_auth_encoder.py    | Script auxiliar que contém a lógica para codificar dois dados em formato Base64. Esta codificação é essencial para o processo de autenticação (OAuth) e obtenção de um token de acesso para a API do Spotify. |
+
+#### 3. Pasta `data/` (Gestão de Dados)
+
+Esta pasta é o local central para gerir os dados utilizados e gerados pelo pipeline ETL, dividida em `input` e `output`.
+
+##### `data/input` (Ficheiros de Configuração e Links)
+
+Contém os ficheiros de texto ou de configuração que alimentam o início do workflow, fornecendo os parâmetros necessários para a extração dos dados.
+
+| Ficheiro              | Função |
+|-----------------------|--------|
+| album_link.txt        | Contém os links ou identificadores necessários para a extração de dados relacionados com álbuns. O commit indica a implementação da lógica de exportação das tabelas para ficheiros, sugerindo que o ficheiro pode conter links/IDs de álbuns a serem processados. |
+| credentials.txt       | Contém as credenciais ou dados de configuração (como Client ID e Client Secret) necessários para autenticação na API do Spotify. O commit aponta para alterações leves na formatação das tabelas (dados). |
+| playlist_link.txt     | Contém os links ou identificadores de playlists a serem extraídos. O commit indica a automatização do processo de geração de token, o que sugere que o ficheiro é lido pelo KNIME para iniciar o processo de extração após a autenticação bem-sucedida. |
+
+##### `data/output` (Resultados Finais e Intermédios)
+
+Contém os dados transformados e exportados no final da pipeline, prontos para análise ou carregamento final (Load). Os dados são exportados em formato de texto (`.txt`) e em XML.
+
+| Ficheiro                      | Função |
+|-------------------------------|--------|
+| json_album_intermediate.txt    | Ficheiro intermédio que armazena dados de álbum antes da transformação final. |
+| album_output.txt               | Output final dos dados de álbum em formato de texto (provavelmente CSV ou JSON simples, sem formatação XML). |
+| album_output_xml.txt           | Output final dos dados de álbum exportados no formato XML. |
+| playlist_output.txt            | Output final dos dados de playlists em formato de texto. |
+| playlist_output_xml.txt        | Output final dos dados de playlists exportados no formato XML. |
+| playlist_artists_output.txt    | Output final dos dados de artistas associados às playlists, em formato de texto. |
+| playlist_artists_output_xml.txt| Output final dos dados de artistas associados às playlists, exportados no formato XML. |
+
+#### 4. Pasta `doc/` (Documentação)
+
+Esta pasta contém a documentação do trabalho realizado, em diferentes formatos.
+
+| Ficheiro           | Função |
+|--------------------|--------|
+| README.md          | Documento explicativo sobre o projeto e instruções de utilização. |
+| 27960_doc.pdf       | Documento em PDF que descreve detalhadamente o trabalho realizado, metodologia, resultados e conclusões. |
+
+#### 5. Outros Ficheiros
+
+| Ficheiro     | Função |
+|--------------|--------|
+| .gitignore   | Ficheiro de configuração do Git que lista todos os ficheiros e pastas que o sistema de controlo de versões deve ignorar, evitando que sejam incluídos no repositório (ex: ficheiros `.env` com segredos, logs ou ficheiros temporários). |
 
 ---
 
@@ -76,7 +143,14 @@ Para que o ETL saiba qual playlist extrair, o URL deve ser inserido no ficheiro 
 
     > **NOTA IMPORTANTE:** O *workflow* requer playlists com um criador utilizador. **Não utilize playlists automáticas** geradas pelo Spotify (ex: "Daily Mix", "Radar de Novidades").
 
-### Passo 4: Executar o Workflow
+### Passo 4: Definir o Album Alvo (Ficheiro `album_link.txt`) (Opcional)
+
+Para que o ETL saiba qual Album extrair, o URL deve ser inserido no ficheiro `album_link.txt`.
+
+1.  Edite o ficheiro **`data/input/album_link.txt`**.
+2.  Insira apenas o **URL completo** da playlist que deseja processar.
+
+### Passo 5: Executar o Workflow
 
 1.  Abra o *workflow* no **KNIME**.
 2.  Execute o *workflow* para iniciar o processo ETL.
@@ -90,11 +164,9 @@ Certifique-se de que tem o seguinte software instalado:
 1. **SQL Server Management Studio (SSMS)** — Para gerir a base de dados.  
 3. **Microsoft JDBC Driver for SQL Server** — O ficheiro `.jar` é necessário para a ligação.  
 
----
+###  1: Configuração do SQL Server (Base de Dados e Acesso)
 
-##  1: Configuração do SQL Server (Base de Dados e Acesso)
-
-###  1.1: Criar a Base de Dados e o Utilizador de Serviço
+####  1.1: Criar a Base de Dados e o Utilizador de Serviço
 
 Abra o SSMS e execute o seguinte script na sua instância `<localhost>\<instancia>` para criar a base de dados `ETL_TP1` e o utilizador `knime_user`.
 
@@ -128,7 +200,7 @@ GO
 ALTER ROLE db_owner ADD MEMBER knime_user;
 GO
 ```
-### 1.2: Configuração do Driver JDBC no KNIME
+#### 1.2: Configuração do Driver JDBC no KNIME
 
 >Instalar o Driver no KNIME
 
@@ -146,9 +218,7 @@ GO
 
 4. Clique em **OK** e depois em **Apply and Close**.
 
----
-
-## 1.3: Conexão no KNIME (DB Connector)
+#### 1.3: Conexão no KNIME (DB Connector)
 
 >Configurar o Nó de Ligação
 
