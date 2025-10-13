@@ -8,10 +8,15 @@
         <entry key="authored-by" type="xstring" value="Pedro M Ribeiro"/>
         <entry key="authored-when" type="xstring" value="2025-10-04 14:56:52 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="Pedro M Ribeiro"/>
-        <entry key="lastEdited-when" type="xstring" value="2025-10-13 09:29:51 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2025-10-13 09:42:40 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="ERROR"/>
+        <entry key="message" type="xstring" value="Contains 2 nodes with execution failure"/>
+        <entry key="issue" type="xstring" value="DB Connector #59: The TCP/IP connection to the host DESKTOP-OFDBEUT, port 1433 has failed. Error: &quot;Connection refused: no further information. Verify the connection properties. Make sure that an instance of SQL Server is running on the host and accepting TCP/IP connections at the port. Make sure that TCP connections to the port are not blocked by a firewall.&quot;."/>
+    </config>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_3">
@@ -679,8 +684,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="960"/>
-                    <entry key="1" type="xint" value="-641"/>
+                    <entry key="0" type="xint" value="955"/>
+                    <entry key="1" type="xint" value="-636"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
@@ -697,6 +702,54 @@
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="1030"/>
                     <entry key="1" type="xint" value="-716"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
+        <config key="node_61">
+            <entry key="id" type="xint" value="61"/>
+            <entry key="node_settings_file" type="xstring" value="Send Email (#61)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="false"/>
+            <entry key="node_type" type="xstring" value="NativeNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="-125"/>
+                    <entry key="1" type="xint" value="-1116"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
+        <config key="node_62">
+            <entry key="id" type="xint" value="62"/>
+            <entry key="node_settings_file" type="xstring" value="Table Creator (#62)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="false"/>
+            <entry key="node_type" type="xstring" value="NativeNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="-395"/>
+                    <entry key="1" type="xint" value="-1116"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
+        <config key="node_63">
+            <entry key="id" type="xint" value="63"/>
+            <entry key="node_settings_file" type="xstring" value="Table Row to Variable (#63)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="false"/>
+            <entry key="node_type" type="xstring" value="NativeNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="-255"/>
+                    <entry key="1" type="xint" value="-1116"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
@@ -969,6 +1022,18 @@
             <entry key="destID" type="xint" value="60"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="2"/>
+        </config>
+        <config key="connection_43">
+            <entry key="sourceID" type="xint" value="62"/>
+            <entry key="destID" type="xint" value="63"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
+        </config>
+        <config key="connection_44">
+            <entry key="sourceID" type="xint" value="63"/>
+            <entry key="destID" type="xint" value="61"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
         </config>
     </config>
     <config key="workflow_editor_settings">

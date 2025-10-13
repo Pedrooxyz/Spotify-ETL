@@ -20,7 +20,7 @@
             <entry key="version" type="xint" value="7"/>
             <entry key="db_type" type="xstring" value="mssqlserver"/>
             <entry key="db_dialect" type="xstring" value="mssqlserver"/>
-            <entry key="db_driver" type="xstring" value="jTDS for Microsoft SQL Server"/>
+            <entry key="db_driver" type="xstring" value="sqlserver_driver"/>
             <entry key="db_driver_latest" type="xboolean" value="false"/>
             <config key="attributes"/>
             <entry key="db_url" type="xstring" value="jdbc:sqlserver://DESKTOP-OFDBEUT:1433;databaseName=ETL_TP1;instanceName=MSSQLSERVER_4PR;"/>
@@ -912,14 +912,8 @@
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="CONFIGURED"/>
     <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Selected database driver is deprecated."/>
-        <entry key="issue" type="xstring" value="The selected database driver is outdated and might contain security vulnerabilities. It will be moved to a separate extension that requires manual installation with one of the next releases."/>
-        <config key="resolutions">
-            <entry key="array-size" type="xint" value="2"/>
-            <entry key="0" type="xstring" value="Install the KNIME Microsoft JDBC Driver For SQL Server extension."/>
-            <entry key="1" type="xstring" value="Register your own driver."/>
-        </config>
+        <entry key="type" type="xstring" value="ERROR"/>
+        <entry key="message" type="xstring" value="Execute failed: The TCP/IP connection to the host DESKTOP-OFDBEUT, port 1433 has failed. Error: &quot;Connection refused: no further information. Verify the connection properties. Make sure that an instance of SQL Server is running on the host and accepting TCP/IP connections at the port. Make sure that TCP connections to the port are not blocked by a firewall.&quot;."/>
     </config>
     <entry key="factory" type="xstring" value="org.knime.database.node.connector.generic.DBConnectorNodeFactory"/>
     <entry key="node-name" type="xstring" value="DB Connector"/>
