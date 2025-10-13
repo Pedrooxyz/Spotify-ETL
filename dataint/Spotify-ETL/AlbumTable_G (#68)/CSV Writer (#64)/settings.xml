@@ -27,7 +27,7 @@
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="RELATIVE"/>
                     <entry key="file_system_specifier" type="xstring" value="knime.workflow"/>
-                    <entry key="path" type="xstring" value="../../data/output/json_album.txt"/>
+                    <entry key="path" type="xstring" value="../../data/output/json_album_intermediate.txt"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -89,6 +89,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="6b314634-0597-49c7-816b-2e2a5d4f6b13"/>
+        <entry key="file_store_id" type="xstring" value="2cf7a134-1054-4730-8fef-9553fc0c8b37"/>
     </config>
 </config>

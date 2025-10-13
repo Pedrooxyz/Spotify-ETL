@@ -8,13 +8,13 @@
         <entry key="authored-by" type="xstring" value="Pedro M Ribeiro"/>
         <entry key="authored-when" type="xstring" value="2025-10-04 14:56:52 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="Pedro M Ribeiro"/>
-        <entry key="lastEdited-when" type="xstring" value="2025-10-13 12:31:10 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2025-10-13 14:23:25 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="IDLE"/>
     <config key="nodecontainer_message">
         <entry key="type" type="xstring" value="ERROR"/>
-        <entry key="message" type="xstring" value="Contains one node with execution failure (EmailIntegration #73)"/>
+        <entry key="message" type="xstring" value="Contains 2 nodes with execution failure"/>
         <entry key="issue" type="xstring" value="EmailIntegration #73: Contains one node with execution failure (Send Email #61)"/>
     </config>
     <config key="workflow_credentials"/>
@@ -167,13 +167,13 @@
     <config key="connections">
         <config key="connection_0">
             <entry key="sourceID" type="xint" value="65"/>
-            <entry key="destID" type="xint" value="68"/>
+            <entry key="destID" type="xint" value="69"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
         <config key="connection_1">
             <entry key="sourceID" type="xint" value="65"/>
-            <entry key="destID" type="xint" value="69"/>
+            <entry key="destID" type="xint" value="68"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
@@ -195,15 +195,15 @@
         </config>
         <config key="connection_4">
             <entry key="sourceID" type="xint" value="69"/>
-            <entry key="destID" type="xint" value="70"/>
-            <entry key="sourcePort" type="xint" value="1"/>
-            <entry key="destPort" type="xint" value="1"/>
-        </config>
-        <config key="connection_5">
-            <entry key="sourceID" type="xint" value="69"/>
             <entry key="destID" type="xint" value="71"/>
             <entry key="sourcePort" type="xint" value="2"/>
             <entry key="destPort" type="xint" value="2"/>
+        </config>
+        <config key="connection_5">
+            <entry key="sourceID" type="xint" value="69"/>
+            <entry key="destID" type="xint" value="70"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
         </config>
         <config key="connection_6">
             <entry key="sourceID" type="xint" value="70"/>

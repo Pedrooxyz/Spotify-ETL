@@ -33,6 +33,11 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="CONFIGURED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="ERROR"/>
+        <entry key="message" type="xstring" value="Errors in workflow - Contains one node with execution failure (DB Connector #59)"/>
+        <entry key="issue" type="xstring" value="DB Connector #59: The TCP/IP connection to the host DESKTOP-OFDBEUT, port 1433 has failed. Error: &quot;Connection refused: no further information. Verify the connection properties. Make sure that an instance of SQL Server is running on the host and accepting TCP/IP connections at the port. Make sure that TCP connections to the port are not blocked by a firewall.&quot;."/>
+    </config>
     <entry key="isDeletable" type="xboolean" value="false"/>
     <entry key="factory" type="xstring" value="org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeOutputNodeFactory"/>
     <entry key="node-name" type="xstring" value="Component Output"/>

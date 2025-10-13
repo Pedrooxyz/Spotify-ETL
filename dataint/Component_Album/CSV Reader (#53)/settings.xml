@@ -27,7 +27,7 @@
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="RELATIVE"/>
                     <entry key="file_system_specifier" type="xstring" value="knime.workflow"/>
-                    <entry key="path" type="xstring" value="../../data/output/json_album.txt"/>
+                    <entry key="path" type="xstring" value="../../data/output/json_album_intermediate.txt"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -71,7 +71,7 @@
         <config key="table_spec_config_Internals">
             <entry key="version" type="xstring" value="V4_4"/>
             <config key="individual_specs">
-                <config key="../../data/output/json_album.txt">
+                <config key="../../data/output/json_album_intermediate.txt">
                     <entry key="num_columns" type="xint" value="3"/>
                     <config key="0">
                         <entry key="name" type="xstring" value="Status"/>
@@ -187,7 +187,7 @@
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
-            <entry key="source_group_id" type="xstring" value="../../data/output/json_album.txt"/>
+            <entry key="source_group_id" type="xstring" value="../../data/output/json_album_intermediate.txt"/>
             <config key="config_id">
                 <config key="multi_table_read">
                     <config key="settings">
@@ -282,6 +282,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e09bcefb-1792-485e-8781-288d1ad14eac"/>
+        <entry key="file_store_id" type="xstring" value="8089183c-c000-458c-9b51-d3edfbd363fe"/>
     </config>
 </config>
