@@ -2,7 +2,7 @@
 "Airplanes (feat. Hayley Williams of Paramore)",3.01,78,"B.o.B Presents: The Adventures of Bobby Ray","2010-04-27","2021-02-17T23:17:47Z","B.o.B, Hayley Williams"
 "Battle Scars (with Guy Sebastian)",4.17,64,"Food & Liquor II: The Great American Rap Album, Pt. 1","2012-09-25","2021-02-17T23:18:21Z","Lupe Fiasco, Guy Sebastian"
 "Below My Feet - Live",4.74,29,"The Road To Red Rocks Live","2012-01-01","2021-02-17T23:19:35Z","Mumford & Sons"
-"Best Day Of My Life",3.24,79,"Oh, What A Life","2014-01-01","2021-02-17T23:18:14Z","American Authors"
+"Best Day Of My Life",3.24,78,"Oh, What A Life","2014-01-01","2021-02-17T23:18:14Z","American Authors"
 "Counting Stars",4.29,87,"Native","2013-01-01","2021-02-17T23:17:21Z","OneRepublic"
 "Drive By",3.27,78,"California 37","2012-04-17","2021-02-17T23:17:52Z","Train"
 "Glad You Came (The Sun Goes Down the Stars Come Out)",3.3,37,"On Tour (Since More Than 100 Years and Locked Out of Heaven)","2012-11-20","2021-02-17T23:21:57Z","The Worst Cover Band Of The World"
