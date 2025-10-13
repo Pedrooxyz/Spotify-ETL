@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <entry key="input.column" type="xstring" value="JSON"/>
+        <entry key="remove.input.column" type="xboolean" value="false"/>
+        <entry key="new.column.name" type="xstring" value="XML"/>
+        <entry key="array.prefix" type="xstring" value="Array"/>
+        <entry key="boolean.prefix" type="xstring" value="Boolean"/>
+        <entry key="decimal.prefix" type="xstring" value="Decimal"/>
+        <entry key="integer.prefix" type="xstring" value="Integer"/>
+        <entry key="array.item.element" type="xstring" value="item"/>
+        <entry key="namespace" type="xstring" isnull="true" value=""/>
+        <entry key="null.prefix" type="xstring" value="null"/>
+        <entry key="root.element" type="xstring" value="root"/>
+        <entry key="string.prefix" type="xstring" value="String"/>
+        <entry key="keep.type.information" type="xboolean" value="false"/>
+        <entry key="specify.namespace" type="xboolean" value="false"/>
+        <entry key="create.text.for.specific.keys" type="xboolean" value="true"/>
+        <entry key="key.for.text" type="xstring" value="#text"/>
+        <entry key="parent.key.as.element.name" type="xboolean" value="false"/>
+        <entry key="translate.#comment.as.element" type="xboolean" value="true"/>
+        <entry key="translate.?prefix.as.element" type="xboolean" value="true"/>
+        <entry key="value.remove.invalid.chars" type="xboolean" value="true"/>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.json.node.toxml.JSONToXMLNodeFactory"/>
+    <entry key="node-name" type="xstring" value="JSON to XML"/>
+    <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.6.0.v202507151411"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.6.0.v202507151411"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="JSON to XML"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 2"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="d9fe94e7-1304-4830-82f3-f307c4478110"/>
+    </config>
+</config>

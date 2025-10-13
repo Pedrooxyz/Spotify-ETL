@@ -8,14 +8,14 @@
         <entry key="authored-by" type="xstring" value="Pedro M Ribeiro"/>
         <entry key="authored-when" type="xstring" value="2025-10-04 14:56:52 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="Pedro M Ribeiro"/>
-        <entry key="lastEdited-when" type="xstring" value="2025-10-13 14:23:25 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2025-10-13 16:19:03 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="IDLE"/>
     <config key="nodecontainer_message">
         <entry key="type" type="xstring" value="ERROR"/>
-        <entry key="message" type="xstring" value="Contains 2 nodes with execution failure"/>
-        <entry key="issue" type="xstring" value="EmailIntegration #73: Contains one node with execution failure (Send Email #61)"/>
+        <entry key="message" type="xstring" value="Contains one node with execution failure (DatabaseIntegration #72)"/>
+        <entry key="issue" type="xstring" value="DatabaseIntegration #72: Contains one node with execution failure (DB Connector #59)"/>
     </config>
     <config key="workflow_credentials"/>
     <config key="nodes">

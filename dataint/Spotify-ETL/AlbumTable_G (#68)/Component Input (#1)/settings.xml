@@ -6,7 +6,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="flow_accesstoken"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Bearer BQBCrwHmcn1fCU30B3K79XH5IVO69Ko5HXJbS_S4gbJDoISgHZatIu8QgGv83b-WOITTQ2W5ojUSW3vvXesqa-mnRqQ93G_weJ36cU9ZOeNhN9qacDDbA_uKhIxwOpP1Zq_vodC6mFs"/>
+            <entry key="value" type="xstring" value="Bearer BQD7UOtnxTyezDeCOa4nFT6_dlOF1Kqs5Z5O1BAVJy3v3JbJmIIrP3aczxezTNcPJbPcQyiLqx5st9YoGbcbnr6mCxEqaQtWyeZduv6M-c6rkD2S3UjldlckRxXwBtsQl6qd8fV8MTo"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
@@ -15,24 +15,6 @@
             <entry key="value" type="xstring" value="https://api.spotify.com/v1/albums/6dVIqQ8qmQ5GBnJ9shOYGE?si=OcAhkTBoSFiJMXgRuUscZw"/>
         </config>
         <config key="Variable_2">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="new column"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="https://api.spotify.com/v1/playlists/4tkqf01Oh4BvsnOgBjety8?si=f2bc34033eb14210"/>
-        </config>
-        <config key="Variable_3">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="flow_accesstoken"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Bearer BQBCrwHmcn1fCU30B3K79XH5IVO69Ko5HXJbS_S4gbJDoISgHZatIu8QgGv83b-WOITTQ2W5ojUSW3vvXesqa-mnRqQ93G_weJ36cU9ZOeNhN9qacDDbA_uKhIxwOpP1Zq_vodC6mFs"/>
-        </config>
-        <config key="Variable_4">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="linkalbum"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="https://api.spotify.com/v1/albums/6dVIqQ8qmQ5GBnJ9shOYGE?si=OcAhkTBoSFiJMXgRuUscZw"/>
-        </config>
-        <config key="Variable_5">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="new column"/>
             <entry key="class" type="xstring" value="STRING"/>
@@ -74,7 +56,7 @@
         <entry key="sub-node-description" type="xstring" value=""/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="isDeletable" type="xboolean" value="false"/>
     <entry key="factory" type="xstring" value="org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeInputNodeFactory"/>
     <entry key="node-name" type="xstring" value="Component Input"/>
@@ -96,21 +78,16 @@
         </config>
     </config>
     <entry key="name" type="xstring" value="Component Input"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
-            <entry key="port_object_summary" type="xstring" value="Variables connection"/>
-            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7d7f6d70-d0d5-489d-a4ad-8df0b981db6b"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
