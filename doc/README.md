@@ -41,13 +41,17 @@ Esta pasta contém os workflows do KNIME, que implementam a lógica principal de
 | knime Spotify_ETL       | É o Workflow Principal do projeto. Contém toda a lógica principal do processo ETL, dividida em componentes (componentes KNIME) para modularidade. Este workflow orquestra a extração da API e inicia o processo de transformação. |
 | knime Component_Album   | É um Componente Auxiliar dedicado. A sua lógica é iniciada a partir do workflow principal que exporta dados intermédios (provavelmente para um CSV ou ficheiro de texto temporário). Este componente lê esses dados, continua a transformação específica para informações de álbum e exporta os dados finais corretamente transformados. |
 
-#### 2. Pasta `src/` (Código Auxiliar)
+#### 2. Pasta `src/` (Código Auxiliar e Estrutura SQL)
 
-Esta pasta contém o código Python utilizado para funções de suporte que não são facilmente implementadas diretamente no KNIME.
+Esta pasta contém os scripts SQL utilizados para a criação da estrutura da base de dados (Esquema) e o código Python utilizado para funções de suporte que não são facilmente implementadas diretamente no KNIME.
 
-| Ficheiro                  | Função |
-|----------------------------|--------|
-| spotify_auth_encoder.py    | Script auxiliar que contém a lógica para codificar dois dados em formato Base64. Esta codificação é essencial para o processo de autenticação (OAuth) e obtenção de um token de acesso para a API do Spotify. |
+| Ficheiro | Função |
+| :--- | :--- |
+| `AlbumTable.sql` | Define a estrutura (esquema) da tabela para armazenar dados relativos aos álbuns obtidos da API. |
+| `ArtistTable.sql` | Define a estrutura (esquema) da tabela para armazenar dados detalhados dos artistas. |
+| `PlaylistArtistTable.sql` | Define a estrutura (esquema) para a tabela que armazena a relação entre Playlists, Músicas e Artistas. |
+| `PlaylistTable.sql` | Define a estrutura (esquema) da tabela principal para armazenar dados das Playlists. |
+| `spotify_auth_encoder.py` | Script auxiliar que contém a lógica para codificar dois dados em formato Base64. Esta codificação é essencial para o processo de autenticação (OAuth) e obtenção de um token de acesso para a API do Spotify. |
 
 #### 3. Pasta `data/` (Gestão de Dados)
 
