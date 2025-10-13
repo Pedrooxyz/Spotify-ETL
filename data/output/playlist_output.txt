@@ -14,5 +14,5 @@
 "I Will Wait",4.61,51,"Babel (Deluxe Version)","2012-09-21","2021-02-17T23:19:00Z","Mumford & Sons"
 "Little Talks",4.44,81,"My Head Is An Animal","2012-01-01","2021-02-17T23:18:48Z","Of Monsters and Men"
 "Some Nights",4.62,69,"Some Nights","2012-02-14","2021-02-17T23:17:58Z","fun."
-"Superheroes",4.09,77,"No Sound Without Silence","2014-09-15","2021-02-17T23:16:43Z","The Script"
+"Superheroes",4.09,76,"No Sound Without Silence","2014-09-15","2021-02-17T23:16:43Z","The Script"
 "We Are Young (feat. Janelle Monáe)",4.18,78,"Some Nights","2012-02-14","2021-02-17T23:17:59Z","fun., Janelle Monáe"

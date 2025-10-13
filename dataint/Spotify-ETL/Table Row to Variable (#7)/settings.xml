@@ -24,7 +24,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="flow_accesstoken"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Bearer BQAZGapBxqj34JXCvTcWsi_JGqrc70ZYId0Xqf_qnXtgmaggc0myt04jboWbtUGzkFeZFHibgnc4r2e3vR2lNB2hwmFl0BKGMQag7k589sOmYPqkbB8s6abDqj4ZLJkZIOrNPPTfmsk"/>
+            <entry key="value" type="xstring" value="Bearer BQCsUO6qHQrJAGl8ruEgKLBZC56rlF9UmJi7FtIqjiJGU8HAQ8RXrTWPjZ-dKl2ebWoCyCsueFdx5Xsz80ciQbjL9w-86IJ0MYwrbySTR6kgIO160WGfuO83NTh-54jIImJ_0S7iidQ"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -95,6 +95,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0e2dbf04-cde8-40f5-b4db-0d3c066a02dc"/>
+        <entry key="file_store_id" type="xstring" value="e69a22e4-bdd1-4ed5-91cb-8ab269544236"/>
     </config>
 </config>
