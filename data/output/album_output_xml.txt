@@ -1,6 +1,136 @@
 "JSON","XML"
-"[ { } ]","<?xml version=""1.0"" encoding=""UTF-8""?>
+"[ {
+  ""id"" : ""1"",
+  ""Nome"" : ""Airbag"",
+  ""Numero"" : 1,
+  ""Duracao"" : 4.8
+}, {
+  ""id"" : ""2"",
+  ""Nome"" : ""Paranoid Android"",
+  ""Numero"" : 2,
+  ""Duracao"" : 6.45
+}, {
+  ""id"" : ""3"",
+  ""Nome"" : ""Subterranean Homesick Alien"",
+  ""Numero"" : 3,
+  ""Duracao"" : 4.46
+}, {
+  ""id"" : ""4"",
+  ""Nome"" : ""Exit Music (For A Film)"",
+  ""Numero"" : 4,
+  ""Duracao"" : 4.45
+}, {
+  ""id"" : ""5"",
+  ""Nome"" : ""Let Down"",
+  ""Numero"" : 5,
+  ""Duracao"" : 4.99
+}, {
+  ""id"" : ""6"",
+  ""Nome"" : ""Karma Police"",
+  ""Numero"" : 6,
+  ""Duracao"" : 4.4
+}, {
+  ""id"" : ""7"",
+  ""Nome"" : ""Fitter Happier"",
+  ""Numero"" : 7,
+  ""Duracao"" : 1.96
+}, {
+  ""id"" : ""8"",
+  ""Nome"" : ""Electioneering"",
+  ""Numero"" : 8,
+  ""Duracao"" : 3.84
+}, {
+  ""id"" : ""9"",
+  ""Nome"" : ""Climbing Up the Walls"",
+  ""Numero"" : 9,
+  ""Duracao"" : 4.75
+}, {
+  ""id"" : ""10"",
+  ""Nome"" : ""No Surprises"",
+  ""Numero"" : 10,
+  ""Duracao"" : 3.82
+}, {
+  ""id"" : ""11"",
+  ""Nome"" : ""Lucky"",
+  ""Numero"" : 11,
+  ""Duracao"" : 4.31
+}, {
+  ""id"" : ""12"",
+  ""Nome"" : ""The Tourist"",
+  ""Numero"" : 12,
+  ""Duracao"" : 5.44
+} ]","<?xml version=""1.0"" encoding=""UTF-8""?>
 <root>
     <item>
+        <id>1</id>
+        <Nome>Airbag</Nome>
+        <Numero>1</Numero>
+        <Duracao>4.8</Duracao>
+    </item>
+    <item>
+        <id>2</id>
+        <Nome>Paranoid Android</Nome>
+        <Numero>2</Numero>
+        <Duracao>6.45</Duracao>
+    </item>
+    <item>
+        <id>3</id>
+        <Nome>Subterranean Homesick Alien</Nome>
+        <Numero>3</Numero>
+        <Duracao>4.46</Duracao>
+    </item>
+    <item>
+        <id>4</id>
+        <Nome>Exit Music (For A Film)</Nome>
+        <Numero>4</Numero>
+        <Duracao>4.45</Duracao>
+    </item>
+    <item>
+        <id>5</id>
+        <Nome>Let Down</Nome>
+        <Numero>5</Numero>
+        <Duracao>4.99</Duracao>
+    </item>
+    <item>
+        <id>6</id>
+        <Nome>Karma Police</Nome>
+        <Numero>6</Numero>
+        <Duracao>4.4</Duracao>
+    </item>
+    <item>
+        <id>7</id>
+        <Nome>Fitter Happier</Nome>
+        <Numero>7</Numero>
+        <Duracao>1.96</Duracao>
+    </item>
+    <item>
+        <id>8</id>
+        <Nome>Electioneering</Nome>
+        <Numero>8</Numero>
+        <Duracao>3.84</Duracao>
+    </item>
+    <item>
+        <id>9</id>
+        <Nome>Climbing Up the Walls</Nome>
+        <Numero>9</Numero>
+        <Duracao>4.75</Duracao>
+    </item>
+    <item>
+        <id>10</id>
+        <Nome>No Surprises</Nome>
+        <Numero>10</Numero>
+        <Duracao>3.82</Duracao>
+    </item>
+    <item>
+        <id>11</id>
+        <Nome>Lucky</Nome>
+        <Numero>11</Numero>
+        <Duracao>4.31</Duracao>
+    </item>
+    <item>
+        <id>12</id>
+        <Nome>The Tourist</Nome>
+        <Numero>12</Numero>
+        <Duracao>5.44</Duracao>
     </item>
 </root>"

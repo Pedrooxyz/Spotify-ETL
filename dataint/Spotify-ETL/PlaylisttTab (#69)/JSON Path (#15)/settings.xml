@@ -9,27 +9,29 @@
         <entry key="input.column" type="xstring" value="body"/>
         <entry key="remove.input.column" type="xboolean" value="true"/>
         <config key="newColumnName">
-            <entry key="array-size" type="xint" value="7"/>
-            <entry key="0" type="xstring" value="Nome"/>
-            <entry key="1" type="xstring" value="Duracao"/>
-            <entry key="2" type="xstring" value="Popularidade"/>
-            <entry key="3" type="xstring" value="Album"/>
-            <entry key="4" type="xstring" value="Data do Album"/>
-            <entry key="5" type="xstring" value="Adicionado a:"/>
-            <entry key="6" type="xstring" value="name"/>
+            <entry key="array-size" type="xint" value="8"/>
+            <entry key="0" type="xstring" value="id"/>
+            <entry key="1" type="xstring" value="Nome"/>
+            <entry key="2" type="xstring" value="name"/>
+            <entry key="3" type="xstring" value="Duracao"/>
+            <entry key="4" type="xstring" value="Popularidade"/>
+            <entry key="5" type="xstring" value="Album"/>
+            <entry key="6" type="xstring" value="Data do Album"/>
+            <entry key="7" type="xstring" value="Adicionado a:"/>
         </config>
         <config key="jsonpath">
-            <entry key="array-size" type="xint" value="7"/>
-            <entry key="0" type="xstring" value="$.tracks.items[*].track.name"/>
-            <entry key="1" type="xstring" value="$.tracks.items[*].track.duration_ms"/>
-            <entry key="2" type="xstring" value="$.tracks.items[*].track.popularity"/>
-            <entry key="3" type="xstring" value="$.tracks.items[*].track.album.name"/>
-            <entry key="4" type="xstring" value="$.tracks.items[*].track.album.release_date"/>
-            <entry key="5" type="xstring" value="$.tracks.items[*].added_at"/>
-            <entry key="6" type="xstring" value="$.tracks.items[*].track.artists"/>
+            <entry key="array-size" type="xint" value="8"/>
+            <entry key="0" type="xstring" value="$.tracks.items.[*].track.id"/>
+            <entry key="1" type="xstring" value="$.tracks.items[*].track.name"/>
+            <entry key="2" type="xstring" value="$.tracks.items[*].track.artists"/>
+            <entry key="3" type="xstring" value="$.tracks.items[*].track.duration_ms"/>
+            <entry key="4" type="xstring" value="$.tracks.items[*].track.popularity"/>
+            <entry key="5" type="xstring" value="$.tracks.items[*].track.album.name"/>
+            <entry key="6" type="xstring" value="$.tracks.items[*].track.album.release_date"/>
+            <entry key="7" type="xstring" value="$.tracks.items[*].added_at"/>
         </config>
         <config key="result.is.list">
-            <entry key="array-size" type="xint" value="7"/>
+            <entry key="array-size" type="xint" value="8"/>
             <entry key="0" type="xboolean" value="true"/>
             <entry key="1" type="xboolean" value="true"/>
             <entry key="2" type="xboolean" value="true"/>
@@ -37,9 +39,10 @@
             <entry key="4" type="xboolean" value="true"/>
             <entry key="5" type="xboolean" value="true"/>
             <entry key="6" type="xboolean" value="true"/>
+            <entry key="7" type="xboolean" value="true"/>
         </config>
         <config key="return.paths.instead.of.values">
-            <entry key="array-size" type="xint" value="7"/>
+            <entry key="array-size" type="xint" value="8"/>
             <entry key="0" type="xboolean" value="false"/>
             <entry key="1" type="xboolean" value="false"/>
             <entry key="2" type="xboolean" value="false"/>
@@ -47,20 +50,22 @@
             <entry key="4" type="xboolean" value="false"/>
             <entry key="5" type="xboolean" value="false"/>
             <entry key="6" type="xboolean" value="false"/>
+            <entry key="7" type="xboolean" value="false"/>
         </config>
         <config key="returnType">
-            <entry key="array-size" type="xint" value="7"/>
+            <entry key="array-size" type="xint" value="8"/>
             <entry key="0" type="xstring" value="String"/>
-            <entry key="1" type="xstring" value="Integer"/>
-            <entry key="2" type="xstring" value="Integer"/>
-            <entry key="3" type="xstring" value="Json"/>
-            <entry key="4" type="xstring" value="String"/>
-            <entry key="5" type="xstring" value="String"/>
-            <entry key="6" type="xstring" value="Json"/>
+            <entry key="1" type="xstring" value="String"/>
+            <entry key="2" type="xstring" value="Json"/>
+            <entry key="3" type="xstring" value="Integer"/>
+            <entry key="4" type="xstring" value="Integer"/>
+            <entry key="5" type="xstring" value="Json"/>
+            <entry key="6" type="xstring" value="String"/>
+            <entry key="7" type="xstring" value="String"/>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <entry key="factory" type="xstring" value="org.knime.json.node.jsonpath.multi.JSONPathNodeFactory"/>
     <entry key="node-name" type="xstring" value="JSON Path"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
@@ -73,19 +78,16 @@
     <entry key="node-feature-version" type="xstring" value="5.6.0.v202507151411"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="JSON Path"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 9"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="993bed99-1849-46b9-8eb3-ad6496118819"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
