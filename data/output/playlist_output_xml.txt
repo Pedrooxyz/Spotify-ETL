@@ -1,177 +1,21 @@
 "JSON","XML"
 "[ {
-  ""Id Musica"" : ""0KAiuUOrLTIkzkpfpn9jb9"",
-  ""Nome"" : ""Drive By"",
-  ""Duracao"" : 3.27,
-  ""Popularidade"" : 78,
-  ""Album"" : ""California 37"",
-  ""Data do Album"" : ""2012-04-17"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:52Z"",
-  ""Cantore(s)"" : ""Train""
-}, {
-  ""Id Musica"" : ""1J6bub4kiTe4h0RCo9IszE"",
-  ""Nome"" : ""Home"",
-  ""Duracao"" : 3.5,
-  ""Popularidade"" : 0,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:06Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
-}, {
-  ""Id Musica"" : ""1K3LRUEcUz5FMtPYyg0F45"",
-  ""Nome"" : ""Ho Hey"",
-  ""Duracao"" : 2.72,
-  ""Popularidade"" : 6,
-  ""Album"" : ""The Lumineers (Deluxe Edition)"",
-  ""Data do Album"" : ""2012"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:04Z"",
-  ""Cantore(s)"" : ""The Lumineers""
-}, {
-  ""Id Musica"" : ""1X1DWw2pcNZ8zSub3uhlNz"",
-  ""Nome"" : ""Hall of Fame (feat. will.i.am)"",
-  ""Duracao"" : 3.38,
-  ""Popularidade"" : 68,
-  ""Album"" : ""#3"",
-  ""Data do Album"" : ""2012-09-10"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:09Z"",
-  ""Cantore(s)"" : ""The Script""
-}, {
-  ""Id Musica"" : ""1X1DWw2pcNZ8zSub3uhlNz"",
-  ""Nome"" : ""Hall of Fame (feat. will.i.am)"",
-  ""Duracao"" : 3.38,
-  ""Popularidade"" : 68,
-  ""Album"" : ""#3"",
-  ""Data do Album"" : ""2012-09-10"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:09Z"",
-  ""Cantore(s)"" : ""will.i.am""
-}, {
-  ""Id Musica"" : ""1hWYT0w2R0J19rlVkiez7X"",
-  ""Nome"" : ""Battle Scars (with Guy Sebastian)"",
-  ""Duracao"" : 4.17,
-  ""Popularidade"" : 64,
-  ""Album"" : ""Food & Liquor II: The Great American Rap Album, Pt. 1"",
-  ""Data do Album"" : ""2012-09-25"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:21Z"",
-  ""Cantore(s)"" : ""Guy Sebastian""
-}, {
-  ""Id Musica"" : ""1hWYT0w2R0J19rlVkiez7X"",
-  ""Nome"" : ""Battle Scars (with Guy Sebastian)"",
-  ""Duracao"" : 4.17,
-  ""Popularidade"" : 64,
-  ""Album"" : ""Food & Liquor II: The Great American Rap Album, Pt. 1"",
-  ""Data do Album"" : ""2012-09-25"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:21Z"",
-  ""Cantore(s)"" : ""Lupe Fiasco""
-}, {
-  ""Id Musica"" : ""2ihCaVdNZmnHZWt0fvAM7B"",
-  ""Nome"" : ""Little Talks"",
-  ""Duracao"" : 4.44,
-  ""Popularidade"" : 81,
-  ""Album"" : ""My Head Is An Animal"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:48Z"",
-  ""Cantore(s)"" : ""Of Monsters and Men""
-}, {
-  ""Id Musica"" : ""2qHiyBpxyOXnRGG3t2iE96"",
-  ""Nome"" : ""Gone, Gone, Gone"",
-  ""Duracao"" : 3.49,
-  ""Popularidade"" : 1,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:17Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
-}, {
-  ""Id Musica"" : ""2tpWsVSb9UEmDRxAl1zhX1"",
-  ""Nome"" : ""Counting Stars"",
-  ""Duracao"" : 4.29,
-  ""Popularidade"" : 87,
-  ""Album"" : ""Native"",
-  ""Data do Album"" : ""2013-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:21Z"",
-  ""Cantore(s)"" : ""OneRepublic""
-}, {
-  ""Id Musica"" : ""37sINbJZcFdHFAsVNsPq1i"",
-  ""Nome"" : ""Superheroes"",
-  ""Duracao"" : 4.09,
-  ""Popularidade"" : 76,
-  ""Album"" : ""No Sound Without Silence"",
-  ""Data do Album"" : ""2014-09-15"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:43Z"",
-  ""Cantore(s)"" : ""The Script""
-}, {
-  ""Id Musica"" : ""4dfLrcSJpjvoRlgkHZEqz1"",
-  ""Nome"" : ""Hopeless Wanderer"",
-  ""Duracao"" : 5.13,
-  ""Popularidade"" : 53,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:14Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
-}, {
-  ""Id Musica"" : ""4kbYevkszYmMhoQcwnR7cZ"",
-  ""Nome"" : ""I Will Wait"",
-  ""Duracao"" : 4.61,
-  ""Popularidade"" : 51,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:00Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
-}, {
-  ""Id Musica"" : ""5Hroj5K7vLpIG4FNCRIjbP"",
-  ""Nome"" : ""Best Day Of My Life"",
-  ""Duracao"" : 3.24,
-  ""Popularidade"" : 78,
-  ""Album"" : ""Oh, What A Life"",
-  ""Data do Album"" : ""2014-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:14Z"",
-  ""Cantore(s)"" : ""American Authors""
-}, {
-  ""Id Musica"" : ""5rgy6ghBq1eRApCkeUdJXf"",
-  ""Nome"" : ""We Are Young (feat. Janelle Monáe)"",
-  ""Duracao"" : 4.18,
-  ""Popularidade"" : 78,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:59Z"",
-  ""Cantore(s)"" : ""Janelle Monáe""
-}, {
-  ""Id Musica"" : ""5rgy6ghBq1eRApCkeUdJXf"",
-  ""Nome"" : ""We Are Young (feat. Janelle Monáe)"",
-  ""Duracao"" : 4.18,
-  ""Popularidade"" : 78,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:59Z"",
-  ""Cantore(s)"" : ""fun.""
-}, {
-  ""Id Musica"" : ""67WTwafOMgegV6ABnBQxcE"",
-  ""Nome"" : ""Some Nights"",
-  ""Duracao"" : 4.62,
-  ""Popularidade"" : 69,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:58Z"",
-  ""Cantore(s)"" : ""fun.""
-}, {
-  ""Id Musica"" : ""6lV2MSQmRIkycDScNtrBXO"",
   ""Nome"" : ""Airplanes (feat. Hayley Williams of Paramore)"",
   ""Duracao"" : 3.01,
   ""Popularidade"" : 78,
   ""Album"" : ""B.o.B Presents: The Adventures of Bobby Ray"",
   ""Data do Album"" : ""2010-04-27"",
   ""Adicionado a:"" : ""2021-02-17T23:17:47Z"",
-  ""Cantore(s)"" : ""B.o.B""
+  ""Cantore(s)"" : ""B.o.B, Hayley Williams""
 }, {
-  ""Id Musica"" : ""6lV2MSQmRIkycDScNtrBXO"",
-  ""Nome"" : ""Airplanes (feat. Hayley Williams of Paramore)"",
-  ""Duracao"" : 3.01,
-  ""Popularidade"" : 78,
-  ""Album"" : ""B.o.B Presents: The Adventures of Bobby Ray"",
-  ""Data do Album"" : ""2010-04-27"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:47Z"",
-  ""Cantore(s)"" : ""Hayley Williams""
+  ""Nome"" : ""Battle Scars (with Guy Sebastian)"",
+  ""Duracao"" : 4.17,
+  ""Popularidade"" : 63,
+  ""Album"" : ""Food & Liquor II: The Great American Rap Album, Pt. 1"",
+  ""Data do Album"" : ""2012-09-25"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:21Z"",
+  ""Cantore(s)"" : ""Lupe Fiasco, Guy Sebastian""
 }, {
-  ""Id Musica"" : ""6ooLvXtEIjydgBzlsz7tgw"",
   ""Nome"" : ""Below My Feet - Live"",
   ""Duracao"" : 4.74,
   ""Popularidade"" : 29,
@@ -180,7 +24,30 @@
   ""Adicionado a:"" : ""2021-02-17T23:19:35Z"",
   ""Cantore(s)"" : ""Mumford & Sons""
 }, {
-  ""Id Musica"" : ""6xSzZ2CqIjpP78L3osGClx"",
+  ""Nome"" : ""Best Day Of My Life"",
+  ""Duracao"" : 3.24,
+  ""Popularidade"" : 78,
+  ""Album"" : ""Oh, What A Life"",
+  ""Data do Album"" : ""2014-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:14Z"",
+  ""Cantore(s)"" : ""American Authors""
+}, {
+  ""Nome"" : ""Counting Stars"",
+  ""Duracao"" : 4.29,
+  ""Popularidade"" : 87,
+  ""Album"" : ""Native"",
+  ""Data do Album"" : ""2013-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:21Z"",
+  ""Cantore(s)"" : ""OneRepublic""
+}, {
+  ""Nome"" : ""Drive By"",
+  ""Duracao"" : 3.27,
+  ""Popularidade"" : 78,
+  ""Album"" : ""California 37"",
+  ""Data do Album"" : ""2012-04-17"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:52Z"",
+  ""Cantore(s)"" : ""Train""
+}, {
   ""Nome"" : ""Glad You Came (The Sun Goes Down the Stars Come Out)"",
   ""Duracao"" : 3.3,
   ""Popularidade"" : 37,
@@ -188,200 +55,107 @@
   ""Data do Album"" : ""2012-11-20"",
   ""Adicionado a:"" : ""2021-02-17T23:21:57Z"",
   ""Cantore(s)"" : ""The Worst Cover Band Of The World""
+}, {
+  ""Nome"" : ""Gone, Gone, Gone"",
+  ""Duracao"" : 3.49,
+  ""Popularidade"" : 1,
+  ""Album"" : ""The World From The Side Of The Moon"",
+  ""Data do Album"" : ""2012-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:20:17Z"",
+  ""Cantore(s)"" : ""Phillip Phillips""
+}, {
+  ""Nome"" : ""Hall of Fame (feat. will.i.am)"",
+  ""Duracao"" : 3.38,
+  ""Popularidade"" : 68,
+  ""Album"" : ""#3"",
+  ""Data do Album"" : ""2012-09-10"",
+  ""Adicionado a:"" : ""2021-02-17T23:16:09Z"",
+  ""Cantore(s)"" : ""The Script, will.i.am""
+}, {
+  ""Nome"" : ""Ho Hey"",
+  ""Duracao"" : 2.72,
+  ""Popularidade"" : 6,
+  ""Album"" : ""The Lumineers (Deluxe Edition)"",
+  ""Data do Album"" : ""2012"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:04Z"",
+  ""Cantore(s)"" : ""The Lumineers""
+}, {
+  ""Nome"" : ""Home"",
+  ""Duracao"" : 3.5,
+  ""Popularidade"" : 0,
+  ""Album"" : ""The World From The Side Of The Moon"",
+  ""Data do Album"" : ""2012-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:20:06Z"",
+  ""Cantore(s)"" : ""Phillip Phillips""
+}, {
+  ""Nome"" : ""Hopeless Wanderer"",
+  ""Duracao"" : 5.13,
+  ""Popularidade"" : 53,
+  ""Album"" : ""Babel (Deluxe Version)"",
+  ""Data do Album"" : ""2012-09-21"",
+  ""Adicionado a:"" : ""2021-02-17T23:19:14Z"",
+  ""Cantore(s)"" : ""Mumford & Sons""
+}, {
+  ""Nome"" : ""I Will Wait"",
+  ""Duracao"" : 4.61,
+  ""Popularidade"" : 51,
+  ""Album"" : ""Babel (Deluxe Version)"",
+  ""Data do Album"" : ""2012-09-21"",
+  ""Adicionado a:"" : ""2021-02-17T23:19:00Z"",
+  ""Cantore(s)"" : ""Mumford & Sons""
+}, {
+  ""Nome"" : ""Little Talks"",
+  ""Duracao"" : 4.44,
+  ""Popularidade"" : 81,
+  ""Album"" : ""My Head Is An Animal"",
+  ""Data do Album"" : ""2012-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:48Z"",
+  ""Cantore(s)"" : ""Of Monsters and Men""
+}, {
+  ""Nome"" : ""Some Nights"",
+  ""Duracao"" : 4.62,
+  ""Popularidade"" : 69,
+  ""Album"" : ""Some Nights"",
+  ""Data do Album"" : ""2012-02-14"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:58Z"",
+  ""Cantore(s)"" : ""fun.""
+}, {
+  ""Nome"" : ""Superheroes"",
+  ""Duracao"" : 4.09,
+  ""Popularidade"" : 76,
+  ""Album"" : ""No Sound Without Silence"",
+  ""Data do Album"" : ""2014-09-15"",
+  ""Adicionado a:"" : ""2021-02-17T23:16:43Z"",
+  ""Cantore(s)"" : ""The Script""
+}, {
+  ""Nome"" : ""We Are Young (feat. Janelle Monáe)"",
+  ""Duracao"" : 4.18,
+  ""Popularidade"" : 78,
+  ""Album"" : ""Some Nights"",
+  ""Data do Album"" : ""2012-02-14"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:59Z"",
+  ""Cantore(s)"" : ""fun., Janelle Monáe""
 } ]","<?xml version=""1.0"" encoding=""UTF-8""?>
 <root xmlns:ns=""http://www.knime.org/json2xml/originalKey/"">
     <item>
-        <IdMusica ns:originalKey=""Id Musica"">0KAiuUOrLTIkzkpfpn9jb9</IdMusica>
-        <Nome>Drive By</Nome>
-        <Duracao>3.27</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>California 37</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-04-17</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:52Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Train</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">1J6bub4kiTe4h0RCo9IszE</IdMusica>
-        <Nome>Home</Nome>
-        <Duracao>3.5</Duracao>
-        <Popularidade>0</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:06Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">1K3LRUEcUz5FMtPYyg0F45</IdMusica>
-        <Nome>Ho Hey</Nome>
-        <Duracao>2.72</Duracao>
-        <Popularidade>6</Popularidade>
-        <Album>The Lumineers (Deluxe Edition)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:04Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Lumineers</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">1X1DWw2pcNZ8zSub3uhlNz</IdMusica>
-        <Nome>Hall of Fame (feat. will.i.am)</Nome>
-        <Duracao>3.38</Duracao>
-        <Popularidade>68</Popularidade>
-        <Album>#3</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-10</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:09Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">1X1DWw2pcNZ8zSub3uhlNz</IdMusica>
-        <Nome>Hall of Fame (feat. will.i.am)</Nome>
-        <Duracao>3.38</Duracao>
-        <Popularidade>68</Popularidade>
-        <Album>#3</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-10</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:09Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">will.i.am</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">1hWYT0w2R0J19rlVkiez7X</IdMusica>
-        <Nome>Battle Scars (with Guy Sebastian)</Nome>
-        <Duracao>4.17</Duracao>
-        <Popularidade>64</Popularidade>
-        <Album>Food &amp; Liquor II: The Great American Rap Album, Pt. 1</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-25</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Guy Sebastian</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">1hWYT0w2R0J19rlVkiez7X</IdMusica>
-        <Nome>Battle Scars (with Guy Sebastian)</Nome>
-        <Duracao>4.17</Duracao>
-        <Popularidade>64</Popularidade>
-        <Album>Food &amp; Liquor II: The Great American Rap Album, Pt. 1</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-25</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Lupe Fiasco</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">2ihCaVdNZmnHZWt0fvAM7B</IdMusica>
-        <Nome>Little Talks</Nome>
-        <Duracao>4.44</Duracao>
-        <Popularidade>81</Popularidade>
-        <Album>My Head Is An Animal</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:48Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Of Monsters and Men</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">2qHiyBpxyOXnRGG3t2iE96</IdMusica>
-        <Nome>Gone, Gone, Gone</Nome>
-        <Duracao>3.49</Duracao>
-        <Popularidade>1</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:17Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">2tpWsVSb9UEmDRxAl1zhX1</IdMusica>
-        <Nome>Counting Stars</Nome>
-        <Duracao>4.29</Duracao>
-        <Popularidade>87</Popularidade>
-        <Album>Native</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2013-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">OneRepublic</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">37sINbJZcFdHFAsVNsPq1i</IdMusica>
-        <Nome>Superheroes</Nome>
-        <Duracao>4.09</Duracao>
-        <Popularidade>76</Popularidade>
-        <Album>No Sound Without Silence</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-09-15</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:43Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">4dfLrcSJpjvoRlgkHZEqz1</IdMusica>
-        <Nome>Hopeless Wanderer</Nome>
-        <Duracao>5.13</Duracao>
-        <Popularidade>53</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">4kbYevkszYmMhoQcwnR7cZ</IdMusica>
-        <Nome>I Will Wait</Nome>
-        <Duracao>4.61</Duracao>
-        <Popularidade>51</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:00Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">5Hroj5K7vLpIG4FNCRIjbP</IdMusica>
-        <Nome>Best Day Of My Life</Nome>
-        <Duracao>3.24</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>Oh, What A Life</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">American Authors</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">5rgy6ghBq1eRApCkeUdJXf</IdMusica>
-        <Nome>We Are Young (feat. Janelle Monáe)</Nome>
-        <Duracao>4.18</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:59Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Janelle Monáe</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">5rgy6ghBq1eRApCkeUdJXf</IdMusica>
-        <Nome>We Are Young (feat. Janelle Monáe)</Nome>
-        <Duracao>4.18</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:59Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">67WTwafOMgegV6ABnBQxcE</IdMusica>
-        <Nome>Some Nights</Nome>
-        <Duracao>4.62</Duracao>
-        <Popularidade>69</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:58Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
-    </item>
-    <item>
-        <IdMusica ns:originalKey=""Id Musica"">6lV2MSQmRIkycDScNtrBXO</IdMusica>
         <Nome>Airplanes (feat. Hayley Williams of Paramore)</Nome>
         <Duracao>3.01</Duracao>
         <Popularidade>78</Popularidade>
         <Album>B.o.B Presents: The Adventures of Bobby Ray</Album>
         <DatadoAlbum ns:originalKey=""Data do Album"">2010-04-27</DatadoAlbum>
         <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:47Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">B.o.B</Cantores>
+        <Cantores ns:originalKey=""Cantore(s)"">B.o.B, Hayley Williams</Cantores>
     </item>
     <item>
-        <IdMusica ns:originalKey=""Id Musica"">6lV2MSQmRIkycDScNtrBXO</IdMusica>
-        <Nome>Airplanes (feat. Hayley Williams of Paramore)</Nome>
-        <Duracao>3.01</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>B.o.B Presents: The Adventures of Bobby Ray</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2010-04-27</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:47Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Hayley Williams</Cantores>
+        <Nome>Battle Scars (with Guy Sebastian)</Nome>
+        <Duracao>4.17</Duracao>
+        <Popularidade>63</Popularidade>
+        <Album>Food &amp; Liquor II: The Great American Rap Album, Pt. 1</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:21Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lupe Fiasco, Guy Sebastian</Cantores>
     </item>
     <item>
-        <IdMusica ns:originalKey=""Id Musica"">6ooLvXtEIjydgBzlsz7tgw</IdMusica>
         <Nome>Below My Feet - Live</Nome>
         <Duracao>4.74</Duracao>
         <Popularidade>29</Popularidade>
@@ -391,7 +165,33 @@
         <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
     </item>
     <item>
-        <IdMusica ns:originalKey=""Id Musica"">6xSzZ2CqIjpP78L3osGClx</IdMusica>
+        <Nome>Best Day Of My Life</Nome>
+        <Duracao>3.24</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>Oh, What A Life</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2014-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:14Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">American Authors</Cantores>
+    </item>
+    <item>
+        <Nome>Counting Stars</Nome>
+        <Duracao>4.29</Duracao>
+        <Popularidade>87</Popularidade>
+        <Album>Native</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2013-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:21Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">OneRepublic</Cantores>
+    </item>
+    <item>
+        <Nome>Drive By</Nome>
+        <Duracao>3.27</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>California 37</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-04-17</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Train</Cantores>
+    </item>
+    <item>
         <Nome>Glad You Came (The Sun Goes Down the Stars Come Out)</Nome>
         <Duracao>3.3</Duracao>
         <Popularidade>37</Popularidade>
@@ -399,5 +199,95 @@
         <DatadoAlbum ns:originalKey=""Data do Album"">2012-11-20</DatadoAlbum>
         <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:21:57Z</Adicionadoa>
         <Cantores ns:originalKey=""Cantore(s)"">The Worst Cover Band Of The World</Cantores>
+    </item>
+    <item>
+        <Nome>Gone, Gone, Gone</Nome>
+        <Duracao>3.49</Duracao>
+        <Popularidade>1</Popularidade>
+        <Album>The World From The Side Of The Moon</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:17Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
+    </item>
+    <item>
+        <Nome>Hall of Fame (feat. will.i.am)</Nome>
+        <Duracao>3.38</Duracao>
+        <Popularidade>68</Popularidade>
+        <Album>#3</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-10</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:09Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Script, will.i.am</Cantores>
+    </item>
+    <item>
+        <Nome>Ho Hey</Nome>
+        <Duracao>2.72</Duracao>
+        <Popularidade>6</Popularidade>
+        <Album>The Lumineers (Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:04Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Lumineers</Cantores>
+    </item>
+    <item>
+        <Nome>Home</Nome>
+        <Duracao>3.5</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>The World From The Side Of The Moon</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:06Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
+    </item>
+    <item>
+        <Nome>Hopeless Wanderer</Nome>
+        <Duracao>5.13</Duracao>
+        <Popularidade>53</Popularidade>
+        <Album>Babel (Deluxe Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:14Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+    </item>
+    <item>
+        <Nome>I Will Wait</Nome>
+        <Duracao>4.61</Duracao>
+        <Popularidade>51</Popularidade>
+        <Album>Babel (Deluxe Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:00Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+    </item>
+    <item>
+        <Nome>Little Talks</Nome>
+        <Duracao>4.44</Duracao>
+        <Popularidade>81</Popularidade>
+        <Album>My Head Is An Animal</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Of Monsters and Men</Cantores>
+    </item>
+    <item>
+        <Nome>Some Nights</Nome>
+        <Duracao>4.62</Duracao>
+        <Popularidade>69</Popularidade>
+        <Album>Some Nights</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:58Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
+    </item>
+    <item>
+        <Nome>Superheroes</Nome>
+        <Duracao>4.09</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>No Sound Without Silence</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2014-09-15</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
+    </item>
+    <item>
+        <Nome>We Are Young (feat. Janelle Monáe)</Nome>
+        <Duracao>4.18</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>Some Nights</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:59Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">fun., Janelle Monáe</Cantores>
     </item>
 </root>"

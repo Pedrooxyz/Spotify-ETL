@@ -1,221 +1,10 @@
 "JSON","XML"
 "[ {
-  ""Id Cantor"" : ""3FUY2gzHeIiaesXtOAdB7A"",
-  ""Nome Cantor"" : ""Train"",
-  ""Genero Cantor"" : "" soft pop "",
-  ""Popularidade Cantor"" : 70,
-  ""Seguidores"" : 4508901,
-  ""Id Musica"" : ""0KAiuUOrLTIkzkpfpn9jb9"",
-  ""Nome"" : ""Drive By"",
-  ""Duracao"" : 3.27,
-  ""Popularidade"" : 78,
-  ""Album"" : ""California 37"",
-  ""Data do Album"" : ""2012-04-17"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:52Z"",
-  ""Cantore(s)"" : ""Train""
-}, {
-  ""Id Cantor"" : ""6p5JxpTc7USNnBnLzctyd4"",
-  ""Nome Cantor"" : ""Phillip Phillips"",
-  ""Genero Cantor"" : "" folk pop "",
-  ""Popularidade Cantor"" : 59,
-  ""Seguidores"" : 1138030,
-  ""Id Musica"" : ""1J6bub4kiTe4h0RCo9IszE"",
-  ""Nome"" : ""Home"",
-  ""Duracao"" : 3.5,
-  ""Popularidade"" : 0,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:06Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
-}, {
-  ""Id Cantor"" : ""16oZKvXb6WkQlVAjwo2Wbg"",
-  ""Nome Cantor"" : ""The Lumineers"",
-  ""Genero Cantor"" : "" folk pop, indie folk "",
-  ""Popularidade Cantor"" : 76,
-  ""Seguidores"" : 5888313,
-  ""Id Musica"" : ""1K3LRUEcUz5FMtPYyg0F45"",
-  ""Nome"" : ""Ho Hey"",
-  ""Duracao"" : 2.72,
-  ""Popularidade"" : 6,
-  ""Album"" : ""The Lumineers (Deluxe Edition)"",
-  ""Data do Album"" : ""2012"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:04Z"",
-  ""Cantore(s)"" : ""The Lumineers""
-}, {
-  ""Id Cantor"" : ""3AQRLZ9PuTAozP28Skbq8V"",
-  ""Nome Cantor"" : ""The Script"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 74,
-  ""Seguidores"" : 8785050,
-  ""Id Musica"" : ""1X1DWw2pcNZ8zSub3uhlNz"",
-  ""Nome"" : ""Hall of Fame (feat. will.i.am)"",
-  ""Duracao"" : 3.38,
-  ""Popularidade"" : 68,
-  ""Album"" : ""#3"",
-  ""Data do Album"" : ""2012-09-10"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:09Z"",
-  ""Cantore(s)"" : ""The Script""
-}, {
-  ""Id Cantor"" : ""5PjekOABtfU2Kwo0AHVmci"",
-  ""Nome Cantor"" : ""Guy Sebastian"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 56,
-  ""Seguidores"" : 558512,
-  ""Id Musica"" : ""1hWYT0w2R0J19rlVkiez7X"",
-  ""Nome"" : ""Battle Scars (with Guy Sebastian)"",
-  ""Duracao"" : 4.17,
-  ""Popularidade"" : 64,
-  ""Album"" : ""Food & Liquor II: The Great American Rap Album, Pt. 1"",
-  ""Data do Album"" : ""2012-09-25"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:21Z"",
-  ""Cantore(s)"" : ""Guy Sebastian""
-}, {
-  ""Id Cantor"" : ""4dwdTW1Lfiq0cM8nBAqIIz"",
-  ""Nome Cantor"" : ""Of Monsters and Men"",
-  ""Genero Cantor"" : "" folk pop "",
-  ""Popularidade Cantor"" : 68,
-  ""Seguidores"" : 3609169,
-  ""Id Musica"" : ""2ihCaVdNZmnHZWt0fvAM7B"",
-  ""Nome"" : ""Little Talks"",
-  ""Duracao"" : 4.44,
-  ""Popularidade"" : 81,
-  ""Album"" : ""My Head Is An Animal"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:48Z"",
-  ""Cantore(s)"" : ""Of Monsters and Men""
-}, {
-  ""Id Cantor"" : ""6p5JxpTc7USNnBnLzctyd4"",
-  ""Nome Cantor"" : ""Phillip Phillips"",
-  ""Genero Cantor"" : "" folk pop "",
-  ""Popularidade Cantor"" : 59,
-  ""Seguidores"" : 1138030,
-  ""Id Musica"" : ""2qHiyBpxyOXnRGG3t2iE96"",
-  ""Nome"" : ""Gone, Gone, Gone"",
-  ""Duracao"" : 3.49,
-  ""Popularidade"" : 1,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:17Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
-}, {
-  ""Id Cantor"" : ""5Pwc4xIPtQLFEnJriah9YJ"",
-  ""Nome Cantor"" : ""OneRepublic"",
-  ""Genero Cantor"" : "" soft pop "",
-  ""Popularidade Cantor"" : 81,
-  ""Seguidores"" : 18644625,
-  ""Id Musica"" : ""2tpWsVSb9UEmDRxAl1zhX1"",
-  ""Nome"" : ""Counting Stars"",
-  ""Duracao"" : 4.29,
-  ""Popularidade"" : 87,
-  ""Album"" : ""Native"",
-  ""Data do Album"" : ""2013-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:21Z"",
-  ""Cantore(s)"" : ""OneRepublic""
-}, {
-  ""Id Cantor"" : ""3AQRLZ9PuTAozP28Skbq8V"",
-  ""Nome Cantor"" : ""The Script"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 74,
-  ""Seguidores"" : 8785050,
-  ""Id Musica"" : ""37sINbJZcFdHFAsVNsPq1i"",
-  ""Nome"" : ""Superheroes"",
-  ""Duracao"" : 4.09,
-  ""Popularidade"" : 76,
-  ""Album"" : ""No Sound Without Silence"",
-  ""Data do Album"" : ""2014-09-15"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:43Z"",
-  ""Cantore(s)"" : ""The Script""
-}, {
-  ""Id Cantor"" : ""3gd8FJtBJtkRxdfbTu19U2"",
+  ""Id"" : ""3gd8FJtBJtkRxdfbTu19U2"",
   ""Nome Cantor"" : ""Mumford & Sons"",
   ""Genero Cantor"" : "" folk, indie folk, folk rock "",
   ""Popularidade Cantor"" : 72,
-  ""Seguidores"" : 6600801,
-  ""Id Musica"" : ""4dfLrcSJpjvoRlgkHZEqz1"",
-  ""Nome"" : ""Hopeless Wanderer"",
-  ""Duracao"" : 5.13,
-  ""Popularidade"" : 53,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:14Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
-}, {
-  ""Id Cantor"" : ""3gd8FJtBJtkRxdfbTu19U2"",
-  ""Nome Cantor"" : ""Mumford & Sons"",
-  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
-  ""Popularidade Cantor"" : 72,
-  ""Seguidores"" : 6600801,
-  ""Id Musica"" : ""4kbYevkszYmMhoQcwnR7cZ"",
-  ""Nome"" : ""I Will Wait"",
-  ""Duracao"" : 4.61,
-  ""Popularidade"" : 51,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:00Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
-}, {
-  ""Id Cantor"" : ""0MlOPi3zIDMVrfA9R04Fe3"",
-  ""Nome Cantor"" : ""American Authors"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 62,
-  ""Seguidores"" : 1644441,
-  ""Id Musica"" : ""5Hroj5K7vLpIG4FNCRIjbP"",
-  ""Nome"" : ""Best Day Of My Life"",
-  ""Duracao"" : 3.24,
-  ""Popularidade"" : 78,
-  ""Album"" : ""Oh, What A Life"",
-  ""Data do Album"" : ""2014-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:14Z"",
-  ""Cantore(s)"" : ""American Authors""
-}, {
-  ""Id Cantor"" : ""6ueGR6SWhUJfvEhqkvMsVs"",
-  ""Nome Cantor"" : ""Janelle Monáe"",
-  ""Genero Cantor"" : "" alternative r&b "",
-  ""Popularidade Cantor"" : 64,
-  ""Seguidores"" : 1498334,
-  ""Id Musica"" : ""5rgy6ghBq1eRApCkeUdJXf"",
-  ""Nome"" : ""We Are Young (feat. Janelle Monáe)"",
-  ""Duracao"" : 4.18,
-  ""Popularidade"" : 78,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:59Z"",
-  ""Cantore(s)"" : ""Janelle Monáe""
-}, {
-  ""Id Cantor"" : ""5nCi3BB41mBaMH9gfr6Su0"",
-  ""Nome Cantor"" : ""fun."",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 65,
-  ""Seguidores"" : 3048506,
-  ""Id Musica"" : ""67WTwafOMgegV6ABnBQxcE"",
-  ""Nome"" : ""Some Nights"",
-  ""Duracao"" : 4.62,
-  ""Popularidade"" : 69,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:58Z"",
-  ""Cantore(s)"" : ""fun.""
-}, {
-  ""Id Cantor"" : ""5ndkK3dpZLKtBklKjxNQwT"",
-  ""Nome Cantor"" : ""B.o.B"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 74,
-  ""Seguidores"" : 2251948,
-  ""Id Musica"" : ""6lV2MSQmRIkycDScNtrBXO"",
-  ""Nome"" : ""Airplanes (feat. Hayley Williams of Paramore)"",
-  ""Duracao"" : 3.01,
-  ""Popularidade"" : 78,
-  ""Album"" : ""B.o.B Presents: The Adventures of Bobby Ray"",
-  ""Data do Album"" : ""2010-04-27"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:47Z"",
-  ""Cantore(s)"" : ""B.o.B""
-}, {
-  ""Id Cantor"" : ""3gd8FJtBJtkRxdfbTu19U2"",
-  ""Nome Cantor"" : ""Mumford & Sons"",
-  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
-  ""Popularidade Cantor"" : 72,
-  ""Seguidores"" : 6600801,
-  ""Id Musica"" : ""6ooLvXtEIjydgBzlsz7tgw"",
+  ""Seguidores"" : 6601964,
   ""Nome"" : ""Below My Feet - Live"",
   ""Duracao"" : 4.74,
   ""Popularidade"" : 29,
@@ -224,12 +13,50 @@
   ""Adicionado a:"" : ""2021-02-17T23:19:35Z"",
   ""Cantore(s)"" : ""Mumford & Sons""
 }, {
-  ""Id Cantor"" : ""4KzXObXgZI69NVseY1QYjT"",
+  ""Id"" : ""0MlOPi3zIDMVrfA9R04Fe3"",
+  ""Nome Cantor"" : ""American Authors"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 62,
+  ""Seguidores"" : 1644645,
+  ""Nome"" : ""Best Day Of My Life"",
+  ""Duracao"" : 3.24,
+  ""Popularidade"" : 78,
+  ""Album"" : ""Oh, What A Life"",
+  ""Data do Album"" : ""2014-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:14Z"",
+  ""Cantore(s)"" : ""American Authors""
+}, {
+  ""Id"" : ""5Pwc4xIPtQLFEnJriah9YJ"",
+  ""Nome Cantor"" : ""OneRepublic"",
+  ""Genero Cantor"" : "" soft pop "",
+  ""Popularidade Cantor"" : 81,
+  ""Seguidores"" : 18650866,
+  ""Nome"" : ""Counting Stars"",
+  ""Duracao"" : 4.29,
+  ""Popularidade"" : 87,
+  ""Album"" : ""Native"",
+  ""Data do Album"" : ""2013-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:21Z"",
+  ""Cantore(s)"" : ""OneRepublic""
+}, {
+  ""Id"" : ""3FUY2gzHeIiaesXtOAdB7A"",
+  ""Nome Cantor"" : ""Train"",
+  ""Genero Cantor"" : "" soft pop "",
+  ""Popularidade Cantor"" : 70,
+  ""Seguidores"" : 4509650,
+  ""Nome"" : ""Drive By"",
+  ""Duracao"" : 3.27,
+  ""Popularidade"" : 78,
+  ""Album"" : ""California 37"",
+  ""Data do Album"" : ""2012-04-17"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:52Z"",
+  ""Cantore(s)"" : ""Train""
+}, {
+  ""Id"" : ""4KzXObXgZI69NVseY1QYjT"",
   ""Nome Cantor"" : ""The Worst Cover Band Of The World"",
   ""Genero Cantor"" : "" "",
   ""Popularidade Cantor"" : 20,
-  ""Seguidores"" : 1829,
-  ""Id Musica"" : ""6xSzZ2CqIjpP78L3osGClx"",
+  ""Seguidores"" : 1827,
   ""Nome"" : ""Glad You Came (The Sun Goes Down the Stars Come Out)"",
   ""Duracao"" : 3.3,
   ""Popularidade"" : 37,
@@ -237,240 +64,118 @@
   ""Data do Album"" : ""2012-11-20"",
   ""Adicionado a:"" : ""2021-02-17T23:21:57Z"",
   ""Cantore(s)"" : ""The Worst Cover Band Of The World""
+}, {
+  ""Id"" : ""6p5JxpTc7USNnBnLzctyd4"",
+  ""Nome Cantor"" : ""Phillip Phillips"",
+  ""Genero Cantor"" : "" folk pop "",
+  ""Popularidade Cantor"" : 59,
+  ""Seguidores"" : 1138184,
+  ""Nome"" : ""Gone, Gone, Gone"",
+  ""Duracao"" : 3.49,
+  ""Popularidade"" : 1,
+  ""Album"" : ""The World From The Side Of The Moon"",
+  ""Data do Album"" : ""2012-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:20:17Z"",
+  ""Cantore(s)"" : ""Phillip Phillips""
+}, {
+  ""Id"" : ""16oZKvXb6WkQlVAjwo2Wbg"",
+  ""Nome Cantor"" : ""The Lumineers"",
+  ""Genero Cantor"" : "" folk pop, indie folk "",
+  ""Popularidade Cantor"" : 76,
+  ""Seguidores"" : 5890112,
+  ""Nome"" : ""Ho Hey"",
+  ""Duracao"" : 2.72,
+  ""Popularidade"" : 6,
+  ""Album"" : ""The Lumineers (Deluxe Edition)"",
+  ""Data do Album"" : ""2012"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:04Z"",
+  ""Cantore(s)"" : ""The Lumineers""
+}, {
+  ""Id"" : ""6p5JxpTc7USNnBnLzctyd4"",
+  ""Nome Cantor"" : ""Phillip Phillips"",
+  ""Genero Cantor"" : "" folk pop "",
+  ""Popularidade Cantor"" : 59,
+  ""Seguidores"" : 1138184,
+  ""Nome"" : ""Home"",
+  ""Duracao"" : 3.5,
+  ""Popularidade"" : 0,
+  ""Album"" : ""The World From The Side Of The Moon"",
+  ""Data do Album"" : ""2012-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:20:06Z"",
+  ""Cantore(s)"" : ""Phillip Phillips""
+}, {
+  ""Id"" : ""3gd8FJtBJtkRxdfbTu19U2"",
+  ""Nome Cantor"" : ""Mumford & Sons"",
+  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 6601964,
+  ""Nome"" : ""Hopeless Wanderer"",
+  ""Duracao"" : 5.13,
+  ""Popularidade"" : 53,
+  ""Album"" : ""Babel (Deluxe Version)"",
+  ""Data do Album"" : ""2012-09-21"",
+  ""Adicionado a:"" : ""2021-02-17T23:19:14Z"",
+  ""Cantore(s)"" : ""Mumford & Sons""
+}, {
+  ""Id"" : ""3gd8FJtBJtkRxdfbTu19U2"",
+  ""Nome Cantor"" : ""Mumford & Sons"",
+  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 6601964,
+  ""Nome"" : ""I Will Wait"",
+  ""Duracao"" : 4.61,
+  ""Popularidade"" : 51,
+  ""Album"" : ""Babel (Deluxe Version)"",
+  ""Data do Album"" : ""2012-09-21"",
+  ""Adicionado a:"" : ""2021-02-17T23:19:00Z"",
+  ""Cantore(s)"" : ""Mumford & Sons""
+}, {
+  ""Id"" : ""4dwdTW1Lfiq0cM8nBAqIIz"",
+  ""Nome Cantor"" : ""Of Monsters and Men"",
+  ""Genero Cantor"" : "" folk pop "",
+  ""Popularidade Cantor"" : 68,
+  ""Seguidores"" : 3609705,
+  ""Nome"" : ""Little Talks"",
+  ""Duracao"" : 4.44,
+  ""Popularidade"" : 81,
+  ""Album"" : ""My Head Is An Animal"",
+  ""Data do Album"" : ""2012-01-01"",
+  ""Adicionado a:"" : ""2021-02-17T23:18:48Z"",
+  ""Cantore(s)"" : ""Of Monsters and Men""
+}, {
+  ""Id"" : ""5nCi3BB41mBaMH9gfr6Su0"",
+  ""Nome Cantor"" : ""fun."",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 65,
+  ""Seguidores"" : 3048811,
+  ""Nome"" : ""Some Nights"",
+  ""Duracao"" : 4.62,
+  ""Popularidade"" : 69,
+  ""Album"" : ""Some Nights"",
+  ""Data do Album"" : ""2012-02-14"",
+  ""Adicionado a:"" : ""2021-02-17T23:17:58Z"",
+  ""Cantore(s)"" : ""fun.""
+}, {
+  ""Id"" : ""3AQRLZ9PuTAozP28Skbq8V"",
+  ""Nome Cantor"" : ""The Script"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 74,
+  ""Seguidores"" : 8787823,
+  ""Nome"" : ""Superheroes"",
+  ""Duracao"" : 4.09,
+  ""Popularidade"" : 76,
+  ""Album"" : ""No Sound Without Silence"",
+  ""Data do Album"" : ""2014-09-15"",
+  ""Adicionado a:"" : ""2021-02-17T23:16:43Z"",
+  ""Cantore(s)"" : ""The Script""
 } ]","<?xml version=""1.0"" encoding=""UTF-8""?>
 <root xmlns:ns=""http://www.knime.org/json2xml/originalKey/"">
     <item>
-        <IdCantor ns:originalKey=""Id Cantor"">3FUY2gzHeIiaesXtOAdB7A</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Train</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> soft pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">70</PopularidadeCantor>
-        <Seguidores>4508901</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">0KAiuUOrLTIkzkpfpn9jb9</IdMusica>
-        <Nome>Drive By</Nome>
-        <Duracao>3.27</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>California 37</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-04-17</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:52Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Train</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">6p5JxpTc7USNnBnLzctyd4</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Phillip Phillips</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
-        <Seguidores>1138030</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">1J6bub4kiTe4h0RCo9IszE</IdMusica>
-        <Nome>Home</Nome>
-        <Duracao>3.5</Duracao>
-        <Popularidade>0</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:06Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">16oZKvXb6WkQlVAjwo2Wbg</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">The Lumineers</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop, indie folk </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">76</PopularidadeCantor>
-        <Seguidores>5888313</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">1K3LRUEcUz5FMtPYyg0F45</IdMusica>
-        <Nome>Ho Hey</Nome>
-        <Duracao>2.72</Duracao>
-        <Popularidade>6</Popularidade>
-        <Album>The Lumineers (Deluxe Edition)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:04Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Lumineers</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">3AQRLZ9PuTAozP28Skbq8V</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">The Script</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">74</PopularidadeCantor>
-        <Seguidores>8785050</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">1X1DWw2pcNZ8zSub3uhlNz</IdMusica>
-        <Nome>Hall of Fame (feat. will.i.am)</Nome>
-        <Duracao>3.38</Duracao>
-        <Popularidade>68</Popularidade>
-        <Album>#3</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-10</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:09Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">5PjekOABtfU2Kwo0AHVmci</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Guy Sebastian</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">56</PopularidadeCantor>
-        <Seguidores>558512</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">1hWYT0w2R0J19rlVkiez7X</IdMusica>
-        <Nome>Battle Scars (with Guy Sebastian)</Nome>
-        <Duracao>4.17</Duracao>
-        <Popularidade>64</Popularidade>
-        <Album>Food &amp; Liquor II: The Great American Rap Album, Pt. 1</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-25</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Guy Sebastian</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">4dwdTW1Lfiq0cM8nBAqIIz</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Of Monsters and Men</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">68</PopularidadeCantor>
-        <Seguidores>3609169</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">2ihCaVdNZmnHZWt0fvAM7B</IdMusica>
-        <Nome>Little Talks</Nome>
-        <Duracao>4.44</Duracao>
-        <Popularidade>81</Popularidade>
-        <Album>My Head Is An Animal</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:48Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Of Monsters and Men</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">6p5JxpTc7USNnBnLzctyd4</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Phillip Phillips</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
-        <Seguidores>1138030</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">2qHiyBpxyOXnRGG3t2iE96</IdMusica>
-        <Nome>Gone, Gone, Gone</Nome>
-        <Duracao>3.49</Duracao>
-        <Popularidade>1</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:17Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">5Pwc4xIPtQLFEnJriah9YJ</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">OneRepublic</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> soft pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">81</PopularidadeCantor>
-        <Seguidores>18644625</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">2tpWsVSb9UEmDRxAl1zhX1</IdMusica>
-        <Nome>Counting Stars</Nome>
-        <Duracao>4.29</Duracao>
-        <Popularidade>87</Popularidade>
-        <Album>Native</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2013-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">OneRepublic</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">3AQRLZ9PuTAozP28Skbq8V</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">The Script</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">74</PopularidadeCantor>
-        <Seguidores>8785050</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">37sINbJZcFdHFAsVNsPq1i</IdMusica>
-        <Nome>Superheroes</Nome>
-        <Duracao>4.09</Duracao>
-        <Popularidade>76</Popularidade>
-        <Album>No Sound Without Silence</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-09-15</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:43Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">3gd8FJtBJtkRxdfbTu19U2</IdCantor>
+        <Id>3gd8FJtBJtkRxdfbTu19U2</Id>
         <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
         <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
-        <Seguidores>6600801</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">4dfLrcSJpjvoRlgkHZEqz1</IdMusica>
-        <Nome>Hopeless Wanderer</Nome>
-        <Duracao>5.13</Duracao>
-        <Popularidade>53</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">3gd8FJtBJtkRxdfbTu19U2</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
-        <Seguidores>6600801</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">4kbYevkszYmMhoQcwnR7cZ</IdMusica>
-        <Nome>I Will Wait</Nome>
-        <Duracao>4.61</Duracao>
-        <Popularidade>51</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:00Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">0MlOPi3zIDMVrfA9R04Fe3</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">American Authors</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">62</PopularidadeCantor>
-        <Seguidores>1644441</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">5Hroj5K7vLpIG4FNCRIjbP</IdMusica>
-        <Nome>Best Day Of My Life</Nome>
-        <Duracao>3.24</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>Oh, What A Life</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">American Authors</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">6ueGR6SWhUJfvEhqkvMsVs</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Janelle Monáe</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> alternative r&amp;b </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">64</PopularidadeCantor>
-        <Seguidores>1498334</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">5rgy6ghBq1eRApCkeUdJXf</IdMusica>
-        <Nome>We Are Young (feat. Janelle Monáe)</Nome>
-        <Duracao>4.18</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:59Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Janelle Monáe</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">5nCi3BB41mBaMH9gfr6Su0</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">fun.</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">65</PopularidadeCantor>
-        <Seguidores>3048506</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">67WTwafOMgegV6ABnBQxcE</IdMusica>
-        <Nome>Some Nights</Nome>
-        <Duracao>4.62</Duracao>
-        <Popularidade>69</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:58Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">5ndkK3dpZLKtBklKjxNQwT</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">B.o.B</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">74</PopularidadeCantor>
-        <Seguidores>2251948</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">6lV2MSQmRIkycDScNtrBXO</IdMusica>
-        <Nome>Airplanes (feat. Hayley Williams of Paramore)</Nome>
-        <Duracao>3.01</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>B.o.B Presents: The Adventures of Bobby Ray</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2010-04-27</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:47Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">B.o.B</Cantores>
-    </item>
-    <item>
-        <IdCantor ns:originalKey=""Id Cantor"">3gd8FJtBJtkRxdfbTu19U2</IdCantor>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
-        <Seguidores>6600801</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">6ooLvXtEIjydgBzlsz7tgw</IdMusica>
+        <Seguidores>6601964</Seguidores>
         <Nome>Below My Feet - Live</Nome>
         <Duracao>4.74</Duracao>
         <Popularidade>29</Popularidade>
@@ -480,12 +185,53 @@
         <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
     </item>
     <item>
-        <IdCantor ns:originalKey=""Id Cantor"">4KzXObXgZI69NVseY1QYjT</IdCantor>
+        <Id>0MlOPi3zIDMVrfA9R04Fe3</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">American Authors</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">62</PopularidadeCantor>
+        <Seguidores>1644645</Seguidores>
+        <Nome>Best Day Of My Life</Nome>
+        <Duracao>3.24</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>Oh, What A Life</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2014-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:14Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">American Authors</Cantores>
+    </item>
+    <item>
+        <Id>5Pwc4xIPtQLFEnJriah9YJ</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">OneRepublic</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft pop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">81</PopularidadeCantor>
+        <Seguidores>18650866</Seguidores>
+        <Nome>Counting Stars</Nome>
+        <Duracao>4.29</Duracao>
+        <Popularidade>87</Popularidade>
+        <Album>Native</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2013-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:21Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">OneRepublic</Cantores>
+    </item>
+    <item>
+        <Id>3FUY2gzHeIiaesXtOAdB7A</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Train</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft pop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">70</PopularidadeCantor>
+        <Seguidores>4509650</Seguidores>
+        <Nome>Drive By</Nome>
+        <Duracao>3.27</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>California 37</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-04-17</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Train</Cantores>
+    </item>
+    <item>
+        <Id>4KzXObXgZI69NVseY1QYjT</Id>
         <NomeCantor ns:originalKey=""Nome Cantor"">The Worst Cover Band Of The World</NomeCantor>
         <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">20</PopularidadeCantor>
-        <Seguidores>1829</Seguidores>
-        <IdMusica ns:originalKey=""Id Musica"">6xSzZ2CqIjpP78L3osGClx</IdMusica>
+        <Seguidores>1827</Seguidores>
         <Nome>Glad You Came (The Sun Goes Down the Stars Come Out)</Nome>
         <Duracao>3.3</Duracao>
         <Popularidade>37</Popularidade>
@@ -493,5 +239,117 @@
         <DatadoAlbum ns:originalKey=""Data do Album"">2012-11-20</DatadoAlbum>
         <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:21:57Z</Adicionadoa>
         <Cantores ns:originalKey=""Cantore(s)"">The Worst Cover Band Of The World</Cantores>
+    </item>
+    <item>
+        <Id>6p5JxpTc7USNnBnLzctyd4</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Phillip Phillips</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
+        <Seguidores>1138184</Seguidores>
+        <Nome>Gone, Gone, Gone</Nome>
+        <Duracao>3.49</Duracao>
+        <Popularidade>1</Popularidade>
+        <Album>The World From The Side Of The Moon</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:17Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
+    </item>
+    <item>
+        <Id>16oZKvXb6WkQlVAjwo2Wbg</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Lumineers</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop, indie folk </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">76</PopularidadeCantor>
+        <Seguidores>5890112</Seguidores>
+        <Nome>Ho Hey</Nome>
+        <Duracao>2.72</Duracao>
+        <Popularidade>6</Popularidade>
+        <Album>The Lumineers (Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:04Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Lumineers</Cantores>
+    </item>
+    <item>
+        <Id>6p5JxpTc7USNnBnLzctyd4</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Phillip Phillips</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
+        <Seguidores>1138184</Seguidores>
+        <Nome>Home</Nome>
+        <Duracao>3.5</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>The World From The Side Of The Moon</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:06Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
+    </item>
+    <item>
+        <Id>3gd8FJtBJtkRxdfbTu19U2</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>6601964</Seguidores>
+        <Nome>Hopeless Wanderer</Nome>
+        <Duracao>5.13</Duracao>
+        <Popularidade>53</Popularidade>
+        <Album>Babel (Deluxe Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:14Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+    </item>
+    <item>
+        <Id>3gd8FJtBJtkRxdfbTu19U2</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>6601964</Seguidores>
+        <Nome>I Will Wait</Nome>
+        <Duracao>4.61</Duracao>
+        <Popularidade>51</Popularidade>
+        <Album>Babel (Deluxe Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:00Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+    </item>
+    <item>
+        <Id>4dwdTW1Lfiq0cM8nBAqIIz</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Of Monsters and Men</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">68</PopularidadeCantor>
+        <Seguidores>3609705</Seguidores>
+        <Nome>Little Talks</Nome>
+        <Duracao>4.44</Duracao>
+        <Popularidade>81</Popularidade>
+        <Album>My Head Is An Animal</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Of Monsters and Men</Cantores>
+    </item>
+    <item>
+        <Id>5nCi3BB41mBaMH9gfr6Su0</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">fun.</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">65</PopularidadeCantor>
+        <Seguidores>3048811</Seguidores>
+        <Nome>Some Nights</Nome>
+        <Duracao>4.62</Duracao>
+        <Popularidade>69</Popularidade>
+        <Album>Some Nights</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:58Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
+    </item>
+    <item>
+        <Id>3AQRLZ9PuTAozP28Skbq8V</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Script</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">74</PopularidadeCantor>
+        <Seguidores>8787823</Seguidores>
+        <Nome>Superheroes</Nome>
+        <Duracao>4.09</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>No Sound Without Silence</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2014-09-15</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
     </item>
 </root>"
