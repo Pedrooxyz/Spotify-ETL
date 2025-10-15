@@ -23,11 +23,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="CONFIGURED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="ERROR"/>
-        <entry key="message" type="xstring" value="Contains one node with execution failure (Send Email #61)"/>
-        <entry key="issue" type="xstring" value="Send Email #61: This error occurred while communicating with the SMTP server: &quot;javax.mail.MessagingException: Could not convert socket to TLS;%%00010  nested exception is:%%00010%%00009javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target&quot;."/>
-    </config>
     <entry key="workflow-file" type="xstring" value="workflow.knime"/>
     <entry key="virtual-in-ID" type="xint" value="1"/>
     <config key="inports"/>

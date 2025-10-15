@@ -20,6 +20,24 @@
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="https://api.spotify.com/v1/playlists/4tkqf01Oh4BvsnOgBjety8?si=f2bc34033eb14210"/>
         </config>
+        <config key="Variable_3">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="flow_accesstoken"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="Bearer BQCXRK6Lo2I73oy2nbDsXlsXxsv7sSHZnMoHMF4ViHYW1tTCnMR69kmiZBQU4giEng_nD0D-_WQKO2IyViyt5oBc_tDEOi9d0KEcceQSn1ARAVUYrOBL2hsgeE6ubiV3ewh9PY2U694"/>
+        </config>
+        <config key="Variable_4">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="linkalbum"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="https://api.spotify.com/v1/albums/6dVIqQ8qmQ5GBnJ9shOYGE?si=OcAhkTBoSFiJMXgRuUscZw"/>
+        </config>
+        <config key="Variable_5">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="new column"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="https://api.spotify.com/v1/playlists/4tkqf01Oh4BvsnOgBjety8?si=f2bc34033eb14210"/>
+        </config>
     </config>
     <config key="internal_node_subsettings">
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
@@ -56,7 +74,7 @@
         <entry key="sub-node-description" type="xstring" value=""/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="isDeletable" type="xboolean" value="false"/>
     <entry key="factory" type="xstring" value="org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeInputNodeFactory"/>
     <entry key="node-name" type="xstring" value="Component Input"/>
@@ -78,16 +96,21 @@
         </config>
     </config>
     <entry key="name" type="xstring" value="Component Input"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
+            <entry key="port_object_summary" type="xstring" value="Variables connection"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="75fcbeb1-7663-42ba-a293-593d55ead110"/>
     </config>
 </config>
