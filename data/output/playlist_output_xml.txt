@@ -1,293 +1,1228 @@
 "JSON","XML"
 "[ {
-  ""Nome"" : ""Airplanes (feat. Hayley Williams of Paramore)"",
-  ""Duracao"" : 3.01,
-  ""Popularidade"" : 78,
-  ""Album"" : ""B.o.B Presents: The Adventures of Bobby Ray"",
-  ""Data do Album"" : ""2010-04-27"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:47Z"",
-  ""Cantore(s)"" : ""B.o.B, Hayley Williams""
+  ""Nome"" : ""(I Just) Died In Your Arms"",
+  ""Duracao"" : 4.67,
+  ""Popularidade"" : 79,
+  ""Album"" : ""Broadcast"",
+  ""Data do Album"" : ""1986-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""Cutting Crew""
 }, {
-  ""Nome"" : ""Battle Scars (with Guy Sebastian)"",
-  ""Duracao"" : 4.17,
-  ""Popularidade"" : 63,
-  ""Album"" : ""Food & Liquor II: The Great American Rap Album, Pt. 1"",
-  ""Data do Album"" : ""2012-09-25"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:21Z"",
-  ""Cantore(s)"" : ""Lupe Fiasco, Guy Sebastian""
+  ""Nome"" : ""Africa"",
+  ""Duracao"" : 4.93,
+  ""Popularidade"" : 86,
+  ""Album"" : ""Toto IV"",
+  ""Data do Album"" : ""1982-04-08"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:46Z"",
+  ""Cantore(s)"" : ""TOTO""
 }, {
-  ""Nome"" : ""Below My Feet - Live"",
-  ""Duracao"" : 4.74,
-  ""Popularidade"" : 29,
-  ""Album"" : ""The Road To Red Rocks Live"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:35Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
+  ""Nome"" : ""All Night Long (All Night) - Single Version"",
+  ""Duracao"" : 4.31,
+  ""Popularidade"" : 42,
+  ""Album"" : ""80s Pop #1s"",
+  ""Data do Album"" : ""2007-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Lionel Richie""
 }, {
-  ""Nome"" : ""Best Day Of My Life"",
-  ""Duracao"" : 3.24,
-  ""Popularidade"" : 78,
-  ""Album"" : ""Oh, What A Life"",
-  ""Data do Album"" : ""2014-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:14Z"",
-  ""Cantore(s)"" : ""American Authors""
-}, {
-  ""Nome"" : ""Counting Stars"",
-  ""Duracao"" : 4.29,
-  ""Popularidade"" : 87,
-  ""Album"" : ""Native"",
-  ""Data do Album"" : ""2013-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:21Z"",
-  ""Cantore(s)"" : ""OneRepublic""
-}, {
-  ""Nome"" : ""Drive By"",
-  ""Duracao"" : 3.27,
-  ""Popularidade"" : 78,
-  ""Album"" : ""California 37"",
-  ""Data do Album"" : ""2012-04-17"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:52Z"",
-  ""Cantore(s)"" : ""Train""
-}, {
-  ""Nome"" : ""Glad You Came (The Sun Goes Down the Stars Come Out)"",
-  ""Duracao"" : 3.3,
-  ""Popularidade"" : 37,
-  ""Album"" : ""On Tour (Since More Than 100 Years and Locked Out of Heaven)"",
-  ""Data do Album"" : ""2012-11-20"",
-  ""Adicionado a:"" : ""2021-02-17T23:21:57Z"",
-  ""Cantore(s)"" : ""The Worst Cover Band Of The World""
-}, {
-  ""Nome"" : ""Gone, Gone, Gone"",
-  ""Duracao"" : 3.49,
-  ""Popularidade"" : 1,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:17Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
-}, {
-  ""Nome"" : ""Hall of Fame (feat. will.i.am)"",
-  ""Duracao"" : 3.38,
-  ""Popularidade"" : 68,
-  ""Album"" : ""#3"",
-  ""Data do Album"" : ""2012-09-10"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:09Z"",
-  ""Cantore(s)"" : ""The Script, will.i.am""
-}, {
-  ""Nome"" : ""Ho Hey"",
-  ""Duracao"" : 2.72,
-  ""Popularidade"" : 6,
-  ""Album"" : ""The Lumineers (Deluxe Edition)"",
-  ""Data do Album"" : ""2012"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:04Z"",
-  ""Cantore(s)"" : ""The Lumineers""
-}, {
-  ""Nome"" : ""Home"",
-  ""Duracao"" : 3.5,
+  ""Nome"" : ""Another Day In Paradise"",
+  ""Duracao"" : 5.37,
   ""Popularidade"" : 0,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:06Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
+  ""Album"" : ""...But Seriously"",
+  ""Data do Album"" : ""1989-11-10"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:39Z"",
+  ""Cantore(s)"" : ""Phil Collins""
 }, {
-  ""Nome"" : ""Hopeless Wanderer"",
-  ""Duracao"" : 5.13,
-  ""Popularidade"" : 53,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:14Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
-}, {
-  ""Nome"" : ""I Will Wait"",
-  ""Duracao"" : 4.61,
-  ""Popularidade"" : 51,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:00Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
-}, {
-  ""Nome"" : ""Little Talks"",
-  ""Duracao"" : 4.44,
+  ""Nome"" : ""Another One Bites The Dust - Remastered 2011"",
+  ""Duracao"" : 3.58,
   ""Popularidade"" : 81,
-  ""Album"" : ""My Head Is An Animal"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:48Z"",
-  ""Cantore(s)"" : ""Of Monsters and Men""
+  ""Album"" : ""The Game (2011 Remaster)"",
+  ""Data do Album"" : ""1980-06-27"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""Queen""
 }, {
-  ""Nome"" : ""Some Nights"",
-  ""Duracao"" : 4.62,
-  ""Popularidade"" : 69,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:58Z"",
-  ""Cantore(s)"" : ""fun.""
+  ""Nome"" : ""Are You Gonna Go My Way"",
+  ""Duracao"" : 3.53,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Are You Gonna Go My Way"",
+  ""Data do Album"" : ""1993-03-09"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Lenny Kravitz""
 }, {
-  ""Nome"" : ""Superheroes"",
-  ""Duracao"" : 4.09,
+  ""Nome"" : ""Brother Louie"",
+  ""Duracao"" : 3.71,
   ""Popularidade"" : 76,
-  ""Album"" : ""No Sound Without Silence"",
-  ""Data do Album"" : ""2014-09-15"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:43Z"",
-  ""Cantore(s)"" : ""The Script""
+  ""Album"" : ""Ready For Romance"",
+  ""Data do Album"" : ""1986"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Modern Talking""
 }, {
-  ""Nome"" : ""We Are Young (feat. Janelle Monáe)"",
-  ""Duracao"" : 4.18,
+  ""Nome"" : ""Careless Whisper"",
+  ""Duracao"" : 5.0,
+  ""Popularidade"" : 10,
+  ""Album"" : ""Ladies And Gentlemen... The Best Of George Michael"",
+  ""Data do Album"" : ""1998-11-09"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""George Michael""
+}, {
+  ""Nome"" : ""Caribbean Queen (No More Love On the Run)"",
+  ""Duracao"" : 4.07,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Here You Are: The Best of Billy Ocean"",
+  ""Data do Album"" : ""2016-04-29"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:49Z"",
+  ""Cantore(s)"" : ""Billy Ocean""
+}, {
+  ""Nome"" : ""Celebration"",
+  ""Duracao"" : 4.98,
+  ""Popularidade"" : 71,
+  ""Album"" : ""Celebrate!"",
+  ""Data do Album"" : ""1980-09-29"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:53Z"",
+  ""Cantore(s)"" : ""Kool & The Gang""
+}, {
+  ""Nome"" : ""Cherish"",
+  ""Duracao"" : 3.98,
+  ""Popularidade"" : 56,
+  ""Album"" : ""The Very Best Of Kool & The Gang"",
+  ""Data do Album"" : ""1999-03-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:53Z"",
+  ""Cantore(s)"" : ""Kool & The Gang""
+}, {
+  ""Nome"" : ""Da Ya Think I'm Sexy?"",
+  ""Duracao"" : 5.52,
+  ""Popularidade"" : 74,
+  ""Album"" : ""Blondes Have More Fun"",
+  ""Data do Album"" : ""1978-11-24"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""Rod Stewart""
+}, {
+  ""Nome"" : ""Dancing In the Dark"",
+  ""Duracao"" : 4.02,
+  ""Popularidade"" : 82,
+  ""Album"" : ""Born In The U.S.A."",
+  ""Data do Album"" : ""1984-06-04"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""Bruce Springsteen""
+}, {
+  ""Nome"" : ""Dancing With Myself - 2001 Digital Remaster"",
+  ""Duracao"" : 3.28,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Billy Idol"",
+  ""Data do Album"" : ""1982"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:39Z"",
+  ""Cantore(s)"" : ""Billy Idol, Generation X""
+}, {
+  ""Nome"" : ""De Do Do Do, De Da Da Da - Remastered 2003"",
+  ""Duracao"" : 4.14,
+  ""Popularidade"" : 45,
+  ""Album"" : ""The Police"",
+  ""Data do Album"" : ""2007-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""The Police""
+}, {
+  ""Nome"" : ""Do You Really Want To Hurt Me - Remastered 2002"",
+  ""Duracao"" : 4.39,
+  ""Popularidade"" : 49,
+  ""Album"" : ""Culture Club (Deluxe Edition)"",
+  ""Data do Album"" : ""2002-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Culture Club""
+}, {
+  ""Nome"" : ""Don't You (Forget About Me)"",
+  ""Duracao"" : 4.35,
+  ""Popularidade"" : 0,
+  ""Album"" : ""The Breakfast Club (Original Motion Picture Soundtrack)"",
+  ""Data do Album"" : ""1985-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Simple Minds""
+}, {
+  ""Nome"" : ""Don't You Want Me"",
+  ""Duracao"" : 3.95,
   ""Popularidade"" : 78,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:59Z"",
-  ""Cantore(s)"" : ""fun., Janelle Monáe""
+  ""Album"" : ""Dare!"",
+  ""Data do Album"" : ""1981"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:46Z"",
+  ""Cantore(s)"" : ""The Human League""
+}, {
+  ""Nome"" : ""Down Under"",
+  ""Duracao"" : 3.68,
+  ""Popularidade"" : 68,
+  ""Album"" : ""The Best Of Men At Work: Contraband"",
+  ""Data do Album"" : ""1996-02-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""Men At Work""
+}, {
+  ""Nome"" : ""Drive - 2017 Remaster"",
+  ""Duracao"" : 3.91,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Heartbeat City (Expanded Edition)"",
+  ""Data do Album"" : ""1984"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:49Z"",
+  ""Cantore(s)"" : ""The Cars""
+}, {
+  ""Nome"" : ""Easy Lover"",
+  ""Duracao"" : 5.1,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Chinese Wall (Expanded Edition)"",
+  ""Data do Album"" : ""1984-10-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Philip Bailey, Phil Collins""
+}, {
+  ""Nome"" : ""Enola Gay - 2003 Remastered Version"",
+  ""Duracao"" : 3.49,
+  ""Popularidade"" : 32,
+  ""Album"" : ""Cuéntame Los 80"",
+  ""Data do Album"" : ""2011-10-18"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""Orchestral Manoeuvres In The Dark""
+}, {
+  ""Nome"" : ""Every Breath You Take - Remastered 2003"",
+  ""Duracao"" : 4.22,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Synchronicity (Remastered)"",
+  ""Data do Album"" : ""1983-06-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""The Police""
+}, {
+  ""Nome"" : ""Every Time You Go Away - Radio Edit"",
+  ""Duracao"" : 4.45,
+  ""Popularidade"" : 73,
+  ""Album"" : ""From Time To Time - The Singles Collection"",
+  ""Data do Album"" : ""1991-09-07"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""Paul Young""
+}, {
+  ""Nome"" : ""Everybody Wants To Rule The World"",
+  ""Duracao"" : 4.19,
+  ""Popularidade"" : 3,
+  ""Album"" : ""Songs From The Big Chair"",
+  ""Data do Album"" : ""1985-02-25"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Tears For Fears""
+}, {
+  ""Nome"" : ""Feel"",
+  ""Duracao"" : 4.4,
+  ""Popularidade"" : 77,
+  ""Album"" : ""Escapology"",
+  ""Data do Album"" : ""2002"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Robbie Williams""
+}, {
+  ""Nome"" : ""Fresh"",
+  ""Duracao"" : 4.44,
+  ""Popularidade"" : 68,
+  ""Album"" : ""Emergency (Reissue)"",
+  ""Data do Album"" : ""1984-11-15"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""Kool & The Gang""
+}, {
+  ""Nome"" : ""Funky Town"",
+  ""Duracao"" : 3.99,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Paradas Continuas"",
+  ""Data do Album"" : ""2009-10-20"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Lipps Inc.""
+}, {
+  ""Nome"" : ""Gangsta's Paradise (feat. L.V.)"",
+  ""Duracao"" : 4.03,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Gangstas Paradise"",
+  ""Data do Album"" : ""1995-11-07"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""Coolio, L.V.""
+}, {
+  ""Nome"" : ""Get Down On It - Single Version"",
+  ""Duracao"" : 3.55,
+  ""Popularidade"" : 62,
+  ""Album"" : ""The Very Best Of Kool & The Gang"",
+  ""Data do Album"" : ""1999-03-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:53Z"",
+  ""Cantore(s)"" : ""Kool & The Gang""
+}, {
+  ""Nome"" : ""Hard to Say I'm Sorry / Get Away - 2006 Remaster"",
+  ""Duracao"" : 5.07,
+  ""Popularidade"" : 72,
+  ""Album"" : ""Chicago 16 (Expanded & Remastered)"",
+  ""Data do Album"" : ""1982-06-07"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""Chicago""
+}, {
+  ""Nome"" : ""Heart Of Glass - Special Mix"",
+  ""Duracao"" : 4.6,
+  ""Popularidade"" : 67,
+  ""Album"" : ""Best Of Blondie"",
+  ""Data do Album"" : ""1981-10-31"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Blondie""
+}, {
+  ""Nome"" : ""Hold the Line"",
+  ""Duracao"" : 3.93,
+  ""Popularidade"" : 83,
+  ""Album"" : ""Toto"",
+  ""Data do Album"" : ""1978-10-10"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""TOTO""
+}, {
+  ""Nome"" : ""I Want To Break Free - Remastered 2011"",
+  ""Duracao"" : 4.3,
+  ""Popularidade"" : 62,
+  ""Album"" : ""The Works (Deluxe Remastered Version)"",
+  ""Data do Album"" : ""1984-02-27"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:44Z"",
+  ""Cantore(s)"" : ""Queen""
+}, {
+  ""Nome"" : ""I Want to Know What Love Is - 1999 Remaster"",
+  ""Duracao"" : 5.08,
+  ""Popularidade"" : 83,
+  ""Album"" : ""Agent Provocateur"",
+  ""Data do Album"" : ""1984"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Foreigner""
+}, {
+  ""Nome"" : ""It Ain't Over 'Til It's Over"",
+  ""Duracao"" : 4.04,
+  ""Popularidade"" : 52,
+  ""Album"" : ""Greatest Hits"",
+  ""Data do Album"" : ""2000"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Lenny Kravitz""
+}, {
+  ""Nome"" : ""La Isla Bonita"",
+  ""Duracao"" : 4.05,
+  ""Popularidade"" : 75,
+  ""Album"" : ""True Blue"",
+  ""Data do Album"" : ""1986-06-30"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Madonna""
+}, {
+  ""Nome"" : ""Lessons In Love"",
+  ""Duracao"" : 4.1,
+  ""Popularidade"" : 68,
+  ""Album"" : ""Running In The Family"",
+  ""Data do Album"" : ""1987"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Level 42""
+}, {
+  ""Nome"" : ""Live And Let Die"",
+  ""Duracao"" : 3.07,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Use Your Illusion I"",
+  ""Data do Album"" : ""1991-09-17"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:44Z"",
+  ""Cantore(s)"" : ""Guns N' Roses""
+}, {
+  ""Nome"" : ""Losing My Religion"",
+  ""Duracao"" : 4.47,
+  ""Popularidade"" : 85,
+  ""Album"" : ""Out Of Time (25th Anniversary Edition)"",
+  ""Data do Album"" : ""1991-03-12"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""R.E.M.""
+}, {
+  ""Nome"" : ""Major Tom (Coming Home)"",
+  ""Duracao"" : 5.02,
+  ""Popularidade"" : 64,
+  ""Album"" : ""The Different Story (World Of Lust And Crime)"",
+  ""Data do Album"" : ""1989-04-11"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""Peter Schilling""
+}, {
+  ""Nome"" : ""Maneater"",
+  ""Duracao"" : 4.55,
+  ""Popularidade"" : 82,
+  ""Album"" : ""H2O"",
+  ""Data do Album"" : ""1982-10-04"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:51Z"",
+  ""Cantore(s)"" : ""Daryl Hall & John Oates""
+}, {
+  ""Nome"" : ""Never Gonna Give You Up"",
+  ""Duracao"" : 3.56,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Whenever You Need Somebody"",
+  ""Data do Album"" : ""1987-11-12"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""Rick Astley""
+}, {
+  ""Nome"" : ""Overkill"",
+  ""Duracao"" : 3.82,
+  ""Popularidade"" : 65,
+  ""Album"" : ""Cargo"",
+  ""Data do Album"" : ""1983"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Men At Work""
+}, {
+  ""Nome"" : ""Owner Of A Lonely Heart"",
+  ""Duracao"" : 4.5,
+  ""Popularidade"" : 46,
+  ""Album"" : ""Highlights: The Very Best Of Yes"",
+  ""Data do Album"" : ""1993-09-21"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""Yes""
+}, {
+  ""Nome"" : ""Part-Time Lover"",
+  ""Duracao"" : 4.21,
+  ""Popularidade"" : 72,
+  ""Album"" : ""In Square Circle"",
+  ""Data do Album"" : ""1985-09-13"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Stevie Wonder""
+}, {
+  ""Nome"" : ""Rosanna"",
+  ""Duracao"" : 5.47,
+  ""Popularidade"" : 19,
+  ""Album"" : ""Simply the Best 80s"",
+  ""Data do Album"" : ""2014-05-06"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""TOTO""
+}, {
+  ""Nome"" : ""Rosanna"",
+  ""Duracao"" : 5.52,
+  ""Popularidade"" : 76,
+  ""Album"" : ""Toto IV"",
+  ""Data do Album"" : ""1982-04-08"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""TOTO""
+}, {
+  ""Nome"" : ""Sailing"",
+  ""Duracao"" : 4.27,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Christopher Cross"",
+  ""Data do Album"" : ""1979"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Christopher Cross""
+}, {
+  ""Nome"" : ""Self Control"",
+  ""Duracao"" : 4.11,
+  ""Popularidade"" : 78,
+  ""Album"" : ""Self Control"",
+  ""Data do Album"" : ""1984"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:49Z"",
+  ""Cantore(s)"" : ""Laura Branigan""
+}, {
+  ""Nome"" : ""September"",
+  ""Duracao"" : 3.58,
+  ""Popularidade"" : 76,
+  ""Album"" : ""The Best Of Earth, Wind & Fire Vol. 1"",
+  ""Data do Album"" : ""1978-11-23"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:53Z"",
+  ""Cantore(s)"" : ""Earth, Wind & Fire""
+}, {
+  ""Nome"" : ""Shape Of My Heart"",
+  ""Duracao"" : 4.65,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Ten Summoners Tales"",
+  ""Data do Album"" : ""1993-03-09"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:51Z"",
+  ""Cantore(s)"" : ""Sting""
+}, {
+  ""Nome"" : ""Shattered Dreams - Remastered 2008"",
+  ""Duracao"" : 3.46,
+  ""Popularidade"" : 66,
+  ""Album"" : ""Turn Back The Clock"",
+  ""Data do Album"" : ""1988"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Johnny Hates Jazz""
+}, {
+  ""Nome"" : ""She Drives Me Crazy"",
+  ""Duracao"" : 3.6,
+  ""Popularidade"" : 77,
+  ""Album"" : ""The Raw & The Cooked"",
+  ""Data do Album"" : ""1988-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:51Z"",
+  ""Cantore(s)"" : ""Fine Young Cannibals""
+}, {
+  ""Nome"" : ""Shout"",
+  ""Duracao"" : 6.54,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Songs From The Big Chair (Super Deluxe Edition)"",
+  ""Data do Album"" : ""1985-02-25"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""Tears For Fears""
+}, {
+  ""Nome"" : ""Somebody's Watching Me - Single Version"",
+  ""Duracao"" : 3.96,
+  ""Popularidade"" : 1,
+  ""Album"" : ""Scream"",
+  ""Data do Album"" : ""2017-09-27"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""Rockwell""
+}, {
+  ""Nome"" : ""Sunglasses At Night"",
+  ""Duracao"" : 5.34,
+  ""Popularidade"" : 60,
+  ""Album"" : ""The Singles"",
+  ""Data do Album"" : ""1992-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:44Z"",
+  ""Cantore(s)"" : ""Corey Hart""
+}, {
+  ""Nome"" : ""Sweet Child O' Mine"",
+  ""Duracao"" : 5.91,
+  ""Popularidade"" : 12,
+  ""Album"" : ""Appetite For Destruction"",
+  ""Data do Album"" : ""1987-07-21"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:39Z"",
+  ""Cantore(s)"" : ""Guns N' Roses""
+}, {
+  ""Nome"" : ""Sweet Dreams (Are Made of This) - 2005 Remaster"",
+  ""Duracao"" : 3.62,
+  ""Popularidade"" : 84,
+  ""Album"" : ""Sweet Dreams (Are Made Of This)"",
+  ""Data do Album"" : ""1983-01-04"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""Eurythmics, Annie Lennox, Dave Stewart""
+}, {
+  ""Nome"" : ""Tainted Love"",
+  ""Duracao"" : 2.71,
+  ""Popularidade"" : 2,
+  ""Album"" : ""The Singles"",
+  ""Data do Album"" : ""1986-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""Soft Cell""
+}, {
+  ""Nome"" : ""Take on Me"",
+  ""Duracao"" : 3.75,
+  ""Popularidade"" : 86,
+  ""Album"" : ""Hunting High and Low"",
+  ""Data do Album"" : ""1985-06-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:46Z"",
+  ""Cantore(s)"" : ""a-ha""
+}, {
+  ""Nome"" : ""Talking In Your Sleep (2023 Remaster)"",
+  ""Duracao"" : 3.94,
+  ""Popularidade"" : 70,
+  ""Album"" : ""In Heat (2023 Remaster)"",
+  ""Data do Album"" : ""1983-02-14"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""The Romantics""
+}, {
+  ""Nome"" : ""Tarzan Boy"",
+  ""Duracao"" : 6.32,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Living In The Background"",
+  ""Data do Album"" : ""1985-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Baltimora""
+}, {
+  ""Nome"" : ""The Look"",
+  ""Duracao"" : 3.96,
+  ""Popularidade"" : 2,
+  ""Album"" : ""Look Sharp! (2009 Version)"",
+  ""Data do Album"" : ""1988-10-19"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""Roxette""
+}, {
+  ""Nome"" : ""Together Forever"",
+  ""Duracao"" : 3.43,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Whenever You Need Somebody"",
+  ""Data do Album"" : ""1987-11-12"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Rick Astley""
+}, {
+  ""Nome"" : ""True - Single Edit"",
+  ""Duracao"" : 5.49,
+  ""Popularidade"" : 69,
+  ""Album"" : ""True - The Digital E.P."",
+  ""Data do Album"" : ""2008-04-25"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""Spandau Ballet""
+}, {
+  ""Nome"" : ""Wake Me Up Before You Go-Go"",
+  ""Duracao"" : 3.86,
+  ""Popularidade"" : 79,
+  ""Album"" : ""Make It Big"",
+  ""Data do Album"" : ""1984-10-23"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""Wham!""
+}, {
+  ""Nome"" : ""Who Can It Be Now?"",
+  ""Duracao"" : 3.42,
+  ""Popularidade"" : 61,
+  ""Album"" : ""Business As Usual"",
+  ""Data do Album"" : ""1981"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Men At Work""
+}, {
+  ""Nome"" : ""You Can't Hurry Love - 2016 Remaster"",
+  ""Duracao"" : 2.93,
+  ""Popularidade"" : 76,
+  ""Album"" : ""Hello, I Must Be Going! (Deluxe Edition)"",
+  ""Data do Album"" : ""1982-11-05"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Phil Collins""
+}, {
+  ""Nome"" : ""You Spin Me Round (Like a Record)"",
+  ""Duracao"" : 3.33,
+  ""Popularidade"" : 3,
+  ""Album"" : ""Youthquake"",
+  ""Data do Album"" : ""1985-03-26"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Dead Or Alive""
+}, {
+  ""Nome"" : ""Young Turks - 2008 Remaster"",
+  ""Duracao"" : 5.04,
+  ""Popularidade"" : 62,
+  ""Album"" : ""Some Guys Have All the Luck"",
+  ""Data do Album"" : ""2008-11-16"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Rod Stewart""
+}, {
+  ""Nome"" : ""Your Love"",
+  ""Duracao"" : 3.61,
+  ""Popularidade"" : 5,
+  ""Album"" : ""Play Deep"",
+  ""Data do Album"" : ""1985-06-29"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""The Outfield""
 } ]","<?xml version=""1.0"" encoding=""UTF-8""?>
 <root xmlns:ns=""http://www.knime.org/json2xml/originalKey/"">
     <item>
-        <Nome>Airplanes (feat. Hayley Williams of Paramore)</Nome>
-        <Duracao>3.01</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>B.o.B Presents: The Adventures of Bobby Ray</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2010-04-27</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:47Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">B.o.B, Hayley Williams</Cantores>
+        <Nome>(I Just) Died In Your Arms</Nome>
+        <Duracao>4.67</Duracao>
+        <Popularidade>79</Popularidade>
+        <Album>Broadcast</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Cutting Crew</Cantores>
     </item>
     <item>
-        <Nome>Battle Scars (with Guy Sebastian)</Nome>
-        <Duracao>4.17</Duracao>
-        <Popularidade>63</Popularidade>
-        <Album>Food &amp; Liquor II: The Great American Rap Album, Pt. 1</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-25</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Lupe Fiasco, Guy Sebastian</Cantores>
+        <Nome>Africa</Nome>
+        <Duracao>4.93</Duracao>
+        <Popularidade>86</Popularidade>
+        <Album>Toto IV</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-04-08</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:46Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
     </item>
     <item>
-        <Nome>Below My Feet - Live</Nome>
-        <Duracao>4.74</Duracao>
-        <Popularidade>29</Popularidade>
-        <Album>The Road To Red Rocks Live</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:35Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+        <Nome>All Night Long (All Night) - Single Version</Nome>
+        <Duracao>4.31</Duracao>
+        <Popularidade>42</Popularidade>
+        <Album>80s Pop #1s</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2007-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lionel Richie</Cantores>
     </item>
     <item>
-        <Nome>Best Day Of My Life</Nome>
-        <Duracao>3.24</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>Oh, What A Life</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">American Authors</Cantores>
-    </item>
-    <item>
-        <Nome>Counting Stars</Nome>
-        <Duracao>4.29</Duracao>
-        <Popularidade>87</Popularidade>
-        <Album>Native</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2013-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">OneRepublic</Cantores>
-    </item>
-    <item>
-        <Nome>Drive By</Nome>
-        <Duracao>3.27</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>California 37</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-04-17</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:52Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Train</Cantores>
-    </item>
-    <item>
-        <Nome>Glad You Came (The Sun Goes Down the Stars Come Out)</Nome>
-        <Duracao>3.3</Duracao>
-        <Popularidade>37</Popularidade>
-        <Album>On Tour (Since More Than 100 Years and Locked Out of Heaven)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-11-20</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:21:57Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Worst Cover Band Of The World</Cantores>
-    </item>
-    <item>
-        <Nome>Gone, Gone, Gone</Nome>
-        <Duracao>3.49</Duracao>
-        <Popularidade>1</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:17Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
-    </item>
-    <item>
-        <Nome>Hall of Fame (feat. will.i.am)</Nome>
-        <Duracao>3.38</Duracao>
-        <Popularidade>68</Popularidade>
-        <Album>#3</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-10</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:09Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script, will.i.am</Cantores>
-    </item>
-    <item>
-        <Nome>Ho Hey</Nome>
-        <Duracao>2.72</Duracao>
-        <Popularidade>6</Popularidade>
-        <Album>The Lumineers (Deluxe Edition)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:04Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Lumineers</Cantores>
-    </item>
-    <item>
-        <Nome>Home</Nome>
-        <Duracao>3.5</Duracao>
+        <Nome>Another Day In Paradise</Nome>
+        <Duracao>5.37</Duracao>
         <Popularidade>0</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:06Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
+        <Album>...But Seriously</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1989-11-10</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:39Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phil Collins</Cantores>
     </item>
     <item>
-        <Nome>Hopeless Wanderer</Nome>
-        <Duracao>5.13</Duracao>
-        <Popularidade>53</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
-    </item>
-    <item>
-        <Nome>I Will Wait</Nome>
-        <Duracao>4.61</Duracao>
-        <Popularidade>51</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:00Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
-    </item>
-    <item>
-        <Nome>Little Talks</Nome>
-        <Duracao>4.44</Duracao>
+        <Nome>Another One Bites The Dust - Remastered 2011</Nome>
+        <Duracao>3.58</Duracao>
         <Popularidade>81</Popularidade>
-        <Album>My Head Is An Animal</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:48Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Of Monsters and Men</Cantores>
+        <Album>The Game (2011 Remaster)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1980-06-27</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Queen</Cantores>
     </item>
     <item>
-        <Nome>Some Nights</Nome>
-        <Duracao>4.62</Duracao>
-        <Popularidade>69</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:58Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
+        <Nome>Are You Gonna Go My Way</Nome>
+        <Duracao>3.53</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Are You Gonna Go My Way</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1993-03-09</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lenny Kravitz</Cantores>
     </item>
     <item>
-        <Nome>Superheroes</Nome>
-        <Duracao>4.09</Duracao>
+        <Nome>Brother Louie</Nome>
+        <Duracao>3.71</Duracao>
         <Popularidade>76</Popularidade>
-        <Album>No Sound Without Silence</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-09-15</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:43Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
+        <Album>Ready For Romance</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Modern Talking</Cantores>
     </item>
     <item>
-        <Nome>We Are Young (feat. Janelle Monáe)</Nome>
-        <Duracao>4.18</Duracao>
+        <Nome>Careless Whisper</Nome>
+        <Duracao>5</Duracao>
+        <Popularidade>10</Popularidade>
+        <Album>Ladies And Gentlemen... The Best Of George Michael</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1998-11-09</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">George Michael</Cantores>
+    </item>
+    <item>
+        <Nome>Caribbean Queen (No More Love On the Run)</Nome>
+        <Duracao>4.07</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Here You Are: The Best of Billy Ocean</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2016-04-29</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:49Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Billy Ocean</Cantores>
+    </item>
+    <item>
+        <Nome>Celebration</Nome>
+        <Duracao>4.98</Duracao>
+        <Popularidade>71</Popularidade>
+        <Album>Celebrate!</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1980-09-29</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:53Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Kool &amp; The Gang</Cantores>
+    </item>
+    <item>
+        <Nome>Cherish</Nome>
+        <Duracao>3.98</Duracao>
+        <Popularidade>56</Popularidade>
+        <Album>The Very Best Of Kool &amp; The Gang</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1999-03-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:53Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Kool &amp; The Gang</Cantores>
+    </item>
+    <item>
+        <Nome>Da Ya Think I'm Sexy?</Nome>
+        <Duracao>5.52</Duracao>
+        <Popularidade>74</Popularidade>
+        <Album>Blondes Have More Fun</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1978-11-24</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rod Stewart</Cantores>
+    </item>
+    <item>
+        <Nome>Dancing In the Dark</Nome>
+        <Duracao>4.02</Duracao>
+        <Popularidade>82</Popularidade>
+        <Album>Born In The U.S.A.</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-06-04</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Bruce Springsteen</Cantores>
+    </item>
+    <item>
+        <Nome>Dancing With Myself - 2001 Digital Remaster</Nome>
+        <Duracao>3.28</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Billy Idol</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:39Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Billy Idol, Generation X</Cantores>
+    </item>
+    <item>
+        <Nome>De Do Do Do, De Da Da Da - Remastered 2003</Nome>
+        <Duracao>4.14</Duracao>
+        <Popularidade>45</Popularidade>
+        <Album>The Police</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2007-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Police</Cantores>
+    </item>
+    <item>
+        <Nome>Do You Really Want To Hurt Me - Remastered 2002</Nome>
+        <Duracao>4.39</Duracao>
+        <Popularidade>49</Popularidade>
+        <Album>Culture Club (Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2002-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Culture Club</Cantores>
+    </item>
+    <item>
+        <Nome>Don't You (Forget About Me)</Nome>
+        <Duracao>4.35</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>The Breakfast Club (Original Motion Picture Soundtrack)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Simple Minds</Cantores>
+    </item>
+    <item>
+        <Nome>Don't You Want Me</Nome>
+        <Duracao>3.95</Duracao>
         <Popularidade>78</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:59Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">fun., Janelle Monáe</Cantores>
+        <Album>Dare!</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1981</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:46Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Human League</Cantores>
+    </item>
+    <item>
+        <Nome>Down Under</Nome>
+        <Duracao>3.68</Duracao>
+        <Popularidade>68</Popularidade>
+        <Album>The Best Of Men At Work: Contraband</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1996-02-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Men At Work</Cantores>
+    </item>
+    <item>
+        <Nome>Drive - 2017 Remaster</Nome>
+        <Duracao>3.91</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Heartbeat City (Expanded Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:49Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Cars</Cantores>
+    </item>
+    <item>
+        <Nome>Easy Lover</Nome>
+        <Duracao>5.1</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Chinese Wall (Expanded Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-10-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Philip Bailey, Phil Collins</Cantores>
+    </item>
+    <item>
+        <Nome>Enola Gay - 2003 Remastered Version</Nome>
+        <Duracao>3.49</Duracao>
+        <Popularidade>32</Popularidade>
+        <Album>Cuéntame Los 80</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2011-10-18</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Orchestral Manoeuvres In The Dark</Cantores>
+    </item>
+    <item>
+        <Nome>Every Breath You Take - Remastered 2003</Nome>
+        <Duracao>4.22</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Synchronicity (Remastered)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983-06-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Police</Cantores>
+    </item>
+    <item>
+        <Nome>Every Time You Go Away - Radio Edit</Nome>
+        <Duracao>4.45</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>From Time To Time - The Singles Collection</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1991-09-07</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Paul Young</Cantores>
+    </item>
+    <item>
+        <Nome>Everybody Wants To Rule The World</Nome>
+        <Duracao>4.19</Duracao>
+        <Popularidade>3</Popularidade>
+        <Album>Songs From The Big Chair</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-02-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Tears For Fears</Cantores>
+    </item>
+    <item>
+        <Nome>Feel</Nome>
+        <Duracao>4.4</Duracao>
+        <Popularidade>77</Popularidade>
+        <Album>Escapology</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2002</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Robbie Williams</Cantores>
+    </item>
+    <item>
+        <Nome>Fresh</Nome>
+        <Duracao>4.44</Duracao>
+        <Popularidade>68</Popularidade>
+        <Album>Emergency (Reissue)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-11-15</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Kool &amp; The Gang</Cantores>
+    </item>
+    <item>
+        <Nome>Funky Town</Nome>
+        <Duracao>3.99</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Paradas Continuas</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2009-10-20</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lipps Inc.</Cantores>
+    </item>
+    <item>
+        <Nome>Gangsta's Paradise (feat. L.V.)</Nome>
+        <Duracao>4.03</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Gangstas Paradise</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1995-11-07</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Coolio, L.V.</Cantores>
+    </item>
+    <item>
+        <Nome>Get Down On It - Single Version</Nome>
+        <Duracao>3.55</Duracao>
+        <Popularidade>62</Popularidade>
+        <Album>The Very Best Of Kool &amp; The Gang</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1999-03-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:53Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Kool &amp; The Gang</Cantores>
+    </item>
+    <item>
+        <Nome>Hard to Say I'm Sorry / Get Away - 2006 Remaster</Nome>
+        <Duracao>5.07</Duracao>
+        <Popularidade>72</Popularidade>
+        <Album>Chicago 16 (Expanded &amp; Remastered)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-06-07</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Chicago</Cantores>
+    </item>
+    <item>
+        <Nome>Heart Of Glass - Special Mix</Nome>
+        <Duracao>4.6</Duracao>
+        <Popularidade>67</Popularidade>
+        <Album>Best Of Blondie</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1981-10-31</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Blondie</Cantores>
+    </item>
+    <item>
+        <Nome>Hold the Line</Nome>
+        <Duracao>3.93</Duracao>
+        <Popularidade>83</Popularidade>
+        <Album>Toto</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1978-10-10</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
+    </item>
+    <item>
+        <Nome>I Want To Break Free - Remastered 2011</Nome>
+        <Duracao>4.3</Duracao>
+        <Popularidade>62</Popularidade>
+        <Album>The Works (Deluxe Remastered Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-02-27</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:44Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Queen</Cantores>
+    </item>
+    <item>
+        <Nome>I Want to Know What Love Is - 1999 Remaster</Nome>
+        <Duracao>5.08</Duracao>
+        <Popularidade>83</Popularidade>
+        <Album>Agent Provocateur</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Foreigner</Cantores>
+    </item>
+    <item>
+        <Nome>It Ain't Over 'Til It's Over</Nome>
+        <Duracao>4.04</Duracao>
+        <Popularidade>52</Popularidade>
+        <Album>Greatest Hits</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2000</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lenny Kravitz</Cantores>
+    </item>
+    <item>
+        <Nome>La Isla Bonita</Nome>
+        <Duracao>4.05</Duracao>
+        <Popularidade>75</Popularidade>
+        <Album>True Blue</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986-06-30</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Madonna</Cantores>
+    </item>
+    <item>
+        <Nome>Lessons In Love</Nome>
+        <Duracao>4.1</Duracao>
+        <Popularidade>68</Popularidade>
+        <Album>Running In The Family</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Level 42</Cantores>
+    </item>
+    <item>
+        <Nome>Live And Let Die</Nome>
+        <Duracao>3.07</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Use Your Illusion I</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1991-09-17</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:44Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Guns N' Roses</Cantores>
+    </item>
+    <item>
+        <Nome>Losing My Religion</Nome>
+        <Duracao>4.47</Duracao>
+        <Popularidade>85</Popularidade>
+        <Album>Out Of Time (25th Anniversary Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1991-03-12</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">R.E.M.</Cantores>
+    </item>
+    <item>
+        <Nome>Major Tom (Coming Home)</Nome>
+        <Duracao>5.02</Duracao>
+        <Popularidade>64</Popularidade>
+        <Album>The Different Story (World Of Lust And Crime)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1989-04-11</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Peter Schilling</Cantores>
+    </item>
+    <item>
+        <Nome>Maneater</Nome>
+        <Duracao>4.55</Duracao>
+        <Popularidade>82</Popularidade>
+        <Album>H2O</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-10-04</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:51Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Daryl Hall &amp; John Oates</Cantores>
+    </item>
+    <item>
+        <Nome>Never Gonna Give You Up</Nome>
+        <Duracao>3.56</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Whenever You Need Somebody</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987-11-12</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rick Astley</Cantores>
+    </item>
+    <item>
+        <Nome>Overkill</Nome>
+        <Duracao>3.82</Duracao>
+        <Popularidade>65</Popularidade>
+        <Album>Cargo</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Men At Work</Cantores>
+    </item>
+    <item>
+        <Nome>Owner Of A Lonely Heart</Nome>
+        <Duracao>4.5</Duracao>
+        <Popularidade>46</Popularidade>
+        <Album>Highlights: The Very Best Of Yes</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1993-09-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Yes</Cantores>
+    </item>
+    <item>
+        <Nome>Part-Time Lover</Nome>
+        <Duracao>4.21</Duracao>
+        <Popularidade>72</Popularidade>
+        <Album>In Square Circle</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-09-13</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Stevie Wonder</Cantores>
+    </item>
+    <item>
+        <Nome>Rosanna</Nome>
+        <Duracao>5.47</Duracao>
+        <Popularidade>19</Popularidade>
+        <Album>Simply the Best 80s</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2014-05-06</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
+    </item>
+    <item>
+        <Nome>Rosanna</Nome>
+        <Duracao>5.52</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>Toto IV</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-04-08</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
+    </item>
+    <item>
+        <Nome>Sailing</Nome>
+        <Duracao>4.27</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Christopher Cross</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1979</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Christopher Cross</Cantores>
+    </item>
+    <item>
+        <Nome>Self Control</Nome>
+        <Duracao>4.11</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>Self Control</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:49Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Laura Branigan</Cantores>
+    </item>
+    <item>
+        <Nome>September</Nome>
+        <Duracao>3.58</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>The Best Of Earth, Wind &amp; Fire Vol. 1</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1978-11-23</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:53Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Earth, Wind &amp; Fire</Cantores>
+    </item>
+    <item>
+        <Nome>Shape Of My Heart</Nome>
+        <Duracao>4.65</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Ten Summoners Tales</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1993-03-09</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:51Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Sting</Cantores>
+    </item>
+    <item>
+        <Nome>Shattered Dreams - Remastered 2008</Nome>
+        <Duracao>3.46</Duracao>
+        <Popularidade>66</Popularidade>
+        <Album>Turn Back The Clock</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1988</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Johnny Hates Jazz</Cantores>
+    </item>
+    <item>
+        <Nome>She Drives Me Crazy</Nome>
+        <Duracao>3.6</Duracao>
+        <Popularidade>77</Popularidade>
+        <Album>The Raw &amp; The Cooked</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1988-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:51Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Fine Young Cannibals</Cantores>
+    </item>
+    <item>
+        <Nome>Shout</Nome>
+        <Duracao>6.54</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Songs From The Big Chair (Super Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-02-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Tears For Fears</Cantores>
+    </item>
+    <item>
+        <Nome>Somebody's Watching Me - Single Version</Nome>
+        <Duracao>3.96</Duracao>
+        <Popularidade>1</Popularidade>
+        <Album>Scream</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2017-09-27</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rockwell</Cantores>
+    </item>
+    <item>
+        <Nome>Sunglasses At Night</Nome>
+        <Duracao>5.34</Duracao>
+        <Popularidade>60</Popularidade>
+        <Album>The Singles</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1992-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:44Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Corey Hart</Cantores>
+    </item>
+    <item>
+        <Nome>Sweet Child O' Mine</Nome>
+        <Duracao>5.91</Duracao>
+        <Popularidade>12</Popularidade>
+        <Album>Appetite For Destruction</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987-07-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:39Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Guns N' Roses</Cantores>
+    </item>
+    <item>
+        <Nome>Sweet Dreams (Are Made of This) - 2005 Remaster</Nome>
+        <Duracao>3.62</Duracao>
+        <Popularidade>84</Popularidade>
+        <Album>Sweet Dreams (Are Made Of This)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983-01-04</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Eurythmics, Annie Lennox, Dave Stewart</Cantores>
+    </item>
+    <item>
+        <Nome>Tainted Love</Nome>
+        <Duracao>2.71</Duracao>
+        <Popularidade>2</Popularidade>
+        <Album>The Singles</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Soft Cell</Cantores>
+    </item>
+    <item>
+        <Nome>Take on Me</Nome>
+        <Duracao>3.75</Duracao>
+        <Popularidade>86</Popularidade>
+        <Album>Hunting High and Low</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-06-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:46Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">a-ha</Cantores>
+    </item>
+    <item>
+        <Nome>Talking In Your Sleep (2023 Remaster)</Nome>
+        <Duracao>3.94</Duracao>
+        <Popularidade>70</Popularidade>
+        <Album>In Heat (2023 Remaster)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983-02-14</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Romantics</Cantores>
+    </item>
+    <item>
+        <Nome>Tarzan Boy</Nome>
+        <Duracao>6.32</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Living In The Background</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Baltimora</Cantores>
+    </item>
+    <item>
+        <Nome>The Look</Nome>
+        <Duracao>3.96</Duracao>
+        <Popularidade>2</Popularidade>
+        <Album>Look Sharp! (2009 Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1988-10-19</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Roxette</Cantores>
+    </item>
+    <item>
+        <Nome>Together Forever</Nome>
+        <Duracao>3.43</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Whenever You Need Somebody</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987-11-12</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rick Astley</Cantores>
+    </item>
+    <item>
+        <Nome>True - Single Edit</Nome>
+        <Duracao>5.49</Duracao>
+        <Popularidade>69</Popularidade>
+        <Album>True - The Digital E.P.</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2008-04-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Spandau Ballet</Cantores>
+    </item>
+    <item>
+        <Nome>Wake Me Up Before You Go-Go</Nome>
+        <Duracao>3.86</Duracao>
+        <Popularidade>79</Popularidade>
+        <Album>Make It Big</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-10-23</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Wham!</Cantores>
+    </item>
+    <item>
+        <Nome>Who Can It Be Now?</Nome>
+        <Duracao>3.42</Duracao>
+        <Popularidade>61</Popularidade>
+        <Album>Business As Usual</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1981</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Men At Work</Cantores>
+    </item>
+    <item>
+        <Nome>You Can't Hurry Love - 2016 Remaster</Nome>
+        <Duracao>2.93</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>Hello, I Must Be Going! (Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-11-05</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phil Collins</Cantores>
+    </item>
+    <item>
+        <Nome>You Spin Me Round (Like a Record)</Nome>
+        <Duracao>3.33</Duracao>
+        <Popularidade>3</Popularidade>
+        <Album>Youthquake</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-03-26</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Dead Or Alive</Cantores>
+    </item>
+    <item>
+        <Nome>Young Turks - 2008 Remaster</Nome>
+        <Duracao>5.04</Duracao>
+        <Popularidade>62</Popularidade>
+        <Album>Some Guys Have All the Luck</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2008-11-16</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rod Stewart</Cantores>
+    </item>
+    <item>
+        <Nome>Your Love</Nome>
+        <Duracao>3.61</Duracao>
+        <Popularidade>5</Popularidade>
+        <Album>Play Deep</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-06-29</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Outfield</Cantores>
     </item>
 </root>"

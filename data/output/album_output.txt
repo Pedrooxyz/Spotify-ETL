@@ -1,13 +1,13 @@
-"id","Nome","Numero","Duracao"
-"1","Airbag",1,4.8
-"2","Paranoid Android",2,6.45
-"3","Subterranean Homesick Alien",3,4.46
-"4","Exit Music (For A Film)",4,4.45
-"5","Let Down",5,4.99
-"6","Karma Police",6,4.4
-"7","Fitter Happier",7,1.96
-"8","Electioneering",8,3.84
-"9","Climbing Up the Walls",9,4.75
-"10","No Surprises",10,3.82
-"11","Lucky",11,4.31
-"12","The Tourist",12,5.44
+"Numero","Nome","Duracao"
+1,"Airbag",4.8
+2,"Paranoid Android",6.45
+3,"Subterranean Homesick Alien",4.46
+4,"Exit Music (For A Film)",4.45
+5,"Let Down",4.99
+6,"Karma Police",4.4
+7,"Fitter Happier",1.96
+8,"Electioneering",3.84
+9,"Climbing Up the Walls",4.75
+10,"No Surprises",3.82
+11,"Lucky",4.31
+12,"The Tourist",5.44

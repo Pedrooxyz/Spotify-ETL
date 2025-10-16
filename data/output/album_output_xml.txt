@@ -1,136 +1,112 @@
 "JSON","XML"
 "[ {
-  ""id"" : ""1"",
-  ""Nome"" : ""Airbag"",
   ""Numero"" : 1,
+  ""Nome"" : ""Airbag"",
   ""Duracao"" : 4.8
 }, {
-  ""id"" : ""2"",
-  ""Nome"" : ""Paranoid Android"",
   ""Numero"" : 2,
+  ""Nome"" : ""Paranoid Android"",
   ""Duracao"" : 6.45
 }, {
-  ""id"" : ""3"",
-  ""Nome"" : ""Subterranean Homesick Alien"",
   ""Numero"" : 3,
+  ""Nome"" : ""Subterranean Homesick Alien"",
   ""Duracao"" : 4.46
 }, {
-  ""id"" : ""4"",
-  ""Nome"" : ""Exit Music (For A Film)"",
   ""Numero"" : 4,
+  ""Nome"" : ""Exit Music (For A Film)"",
   ""Duracao"" : 4.45
 }, {
-  ""id"" : ""5"",
-  ""Nome"" : ""Let Down"",
   ""Numero"" : 5,
+  ""Nome"" : ""Let Down"",
   ""Duracao"" : 4.99
 }, {
-  ""id"" : ""6"",
-  ""Nome"" : ""Karma Police"",
   ""Numero"" : 6,
+  ""Nome"" : ""Karma Police"",
   ""Duracao"" : 4.4
 }, {
-  ""id"" : ""7"",
-  ""Nome"" : ""Fitter Happier"",
   ""Numero"" : 7,
+  ""Nome"" : ""Fitter Happier"",
   ""Duracao"" : 1.96
 }, {
-  ""id"" : ""8"",
-  ""Nome"" : ""Electioneering"",
   ""Numero"" : 8,
+  ""Nome"" : ""Electioneering"",
   ""Duracao"" : 3.84
 }, {
-  ""id"" : ""9"",
-  ""Nome"" : ""Climbing Up the Walls"",
   ""Numero"" : 9,
+  ""Nome"" : ""Climbing Up the Walls"",
   ""Duracao"" : 4.75
 }, {
-  ""id"" : ""10"",
-  ""Nome"" : ""No Surprises"",
   ""Numero"" : 10,
+  ""Nome"" : ""No Surprises"",
   ""Duracao"" : 3.82
 }, {
-  ""id"" : ""11"",
-  ""Nome"" : ""Lucky"",
   ""Numero"" : 11,
+  ""Nome"" : ""Lucky"",
   ""Duracao"" : 4.31
 }, {
-  ""id"" : ""12"",
-  ""Nome"" : ""The Tourist"",
   ""Numero"" : 12,
+  ""Nome"" : ""The Tourist"",
   ""Duracao"" : 5.44
 } ]","<?xml version=""1.0"" encoding=""UTF-8""?>
 <root>
     <item>
-        <id>1</id>
-        <Nome>Airbag</Nome>
         <Numero>1</Numero>
+        <Nome>Airbag</Nome>
         <Duracao>4.8</Duracao>
     </item>
     <item>
-        <id>2</id>
-        <Nome>Paranoid Android</Nome>
         <Numero>2</Numero>
+        <Nome>Paranoid Android</Nome>
         <Duracao>6.45</Duracao>
     </item>
     <item>
-        <id>3</id>
-        <Nome>Subterranean Homesick Alien</Nome>
         <Numero>3</Numero>
+        <Nome>Subterranean Homesick Alien</Nome>
         <Duracao>4.46</Duracao>
     </item>
     <item>
-        <id>4</id>
-        <Nome>Exit Music (For A Film)</Nome>
         <Numero>4</Numero>
+        <Nome>Exit Music (For A Film)</Nome>
         <Duracao>4.45</Duracao>
     </item>
     <item>
-        <id>5</id>
-        <Nome>Let Down</Nome>
         <Numero>5</Numero>
+        <Nome>Let Down</Nome>
         <Duracao>4.99</Duracao>
     </item>
     <item>
-        <id>6</id>
-        <Nome>Karma Police</Nome>
         <Numero>6</Numero>
+        <Nome>Karma Police</Nome>
         <Duracao>4.4</Duracao>
     </item>
     <item>
-        <id>7</id>
-        <Nome>Fitter Happier</Nome>
         <Numero>7</Numero>
+        <Nome>Fitter Happier</Nome>
         <Duracao>1.96</Duracao>
     </item>
     <item>
-        <id>8</id>
-        <Nome>Electioneering</Nome>
         <Numero>8</Numero>
+        <Nome>Electioneering</Nome>
         <Duracao>3.84</Duracao>
     </item>
     <item>
-        <id>9</id>
-        <Nome>Climbing Up the Walls</Nome>
         <Numero>9</Numero>
+        <Nome>Climbing Up the Walls</Nome>
         <Duracao>4.75</Duracao>
     </item>
     <item>
-        <id>10</id>
-        <Nome>No Surprises</Nome>
         <Numero>10</Numero>
+        <Nome>No Surprises</Nome>
         <Duracao>3.82</Duracao>
     </item>
     <item>
-        <id>11</id>
-        <Nome>Lucky</Nome>
         <Numero>11</Numero>
+        <Nome>Lucky</Nome>
         <Duracao>4.31</Duracao>
     </item>
     <item>
-        <id>12</id>
-        <Nome>The Tourist</Nome>
         <Numero>12</Numero>
+        <Nome>The Tourist</Nome>
         <Duracao>5.44</Duracao>
     </item>
 </root>"

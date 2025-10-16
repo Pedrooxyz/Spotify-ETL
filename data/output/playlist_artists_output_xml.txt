@@ -1,355 +1,1705 @@
 "JSON","XML"
 "[ {
-  ""Id"" : ""3gd8FJtBJtkRxdfbTu19U2"",
-  ""Nome Cantor"" : ""Mumford & Sons"",
-  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
-  ""Popularidade Cantor"" : 72,
-  ""Seguidores"" : 6601964,
-  ""Nome"" : ""Below My Feet - Live"",
-  ""Duracao"" : 4.74,
-  ""Popularidade"" : 29,
-  ""Album"" : ""The Road To Red Rocks Live"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:35Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
+  ""Id"" : ""3cniTumSiUysiPWXapGx1i"",
+  ""Nome Cantor"" : ""Cutting Crew"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 61,
+  ""Seguidores"" : 521109,
+  ""Nome"" : ""(I Just) Died In Your Arms"",
+  ""Duracao"" : 4.67,
+  ""Popularidade"" : 79,
+  ""Album"" : ""Broadcast"",
+  ""Data do Album"" : ""1986-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""Cutting Crew""
 }, {
-  ""Id"" : ""0MlOPi3zIDMVrfA9R04Fe3"",
-  ""Nome Cantor"" : ""American Authors"",
+  ""Id"" : ""0PFtn5NtBbbUNbU9EAmIWF"",
+  ""Nome Cantor"" : ""TOTO"",
+  ""Genero Cantor"" : "" yacht rock, soft rock "",
+  ""Popularidade Cantor"" : 73,
+  ""Seguidores"" : 3691142,
+  ""Nome"" : ""Africa"",
+  ""Duracao"" : 4.93,
+  ""Popularidade"" : 86,
+  ""Album"" : ""Toto IV"",
+  ""Data do Album"" : ""1982-04-08"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:46Z"",
+  ""Cantore(s)"" : ""TOTO""
+}, {
+  ""Id"" : ""3gMaNLQm7D9MornNILzdSl"",
+  ""Nome Cantor"" : ""Lionel Richie"",
+  ""Genero Cantor"" : "" motown "",
+  ""Popularidade Cantor"" : 69,
+  ""Seguidores"" : 4489687,
+  ""Nome"" : ""All Night Long (All Night) - Single Version"",
+  ""Duracao"" : 4.31,
+  ""Popularidade"" : 42,
+  ""Album"" : ""80s Pop #1s"",
+  ""Data do Album"" : ""2007-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Lionel Richie""
+}, {
+  ""Id"" : ""4lxfqrEsLX6N1N4OCSkILp"",
+  ""Nome Cantor"" : ""Phil Collins"",
+  ""Genero Cantor"" : "" soft rock "",
+  ""Popularidade Cantor"" : 75,
+  ""Seguidores"" : 7293264,
+  ""Nome"" : ""Another Day In Paradise"",
+  ""Duracao"" : 5.37,
+  ""Popularidade"" : 0,
+  ""Album"" : ""...But Seriously"",
+  ""Data do Album"" : ""1989-11-10"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:39Z"",
+  ""Cantore(s)"" : ""Phil Collins""
+}, {
+  ""Id"" : ""1dfeR4HaWDbWqFHLkxsg1d"",
+  ""Nome Cantor"" : ""Queen"",
+  ""Genero Cantor"" : "" classic rock, rock, glam rock "",
+  ""Popularidade Cantor"" : 82,
+  ""Seguidores"" : 55075068,
+  ""Nome"" : ""Another One Bites The Dust - Remastered 2011"",
+  ""Duracao"" : 3.58,
+  ""Popularidade"" : 81,
+  ""Album"" : ""The Game (2011 Remaster)"",
+  ""Data do Album"" : ""1980-06-27"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""Queen""
+}, {
+  ""Id"" : ""5gznATMVO85ZcLTkE9ULU7"",
+  ""Nome Cantor"" : ""Lenny Kravitz"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 70,
+  ""Seguidores"" : 3597726,
+  ""Nome"" : ""Are You Gonna Go My Way"",
+  ""Duracao"" : 3.53,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Are You Gonna Go My Way"",
+  ""Data do Album"" : ""1993-03-09"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Lenny Kravitz""
+}, {
+  ""Id"" : ""79bxUQsBIXO8nVLB9fYKf7"",
+  ""Nome Cantor"" : ""Modern Talking"",
+  ""Genero Cantor"" : "" europop, italo disco, eurodance "",
+  ""Popularidade Cantor"" : 69,
+  ""Seguidores"" : 2154844,
+  ""Nome"" : ""Brother Louie"",
+  ""Duracao"" : 3.71,
+  ""Popularidade"" : 76,
+  ""Album"" : ""Ready For Romance"",
+  ""Data do Album"" : ""1986"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Modern Talking""
+}, {
+  ""Id"" : ""19ra5tSw0tWufvUp8GotLo"",
+  ""Nome Cantor"" : ""George Michael"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 71,
+  ""Seguidores"" : 5632721,
+  ""Nome"" : ""Careless Whisper"",
+  ""Duracao"" : 5.0,
+  ""Popularidade"" : 10,
+  ""Album"" : ""Ladies And Gentlemen... The Best Of George Michael"",
+  ""Data do Album"" : ""1998-11-09"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""George Michael""
+}, {
+  ""Id"" : ""5IDs1CK15HegSAhGEbSYXo"",
+  ""Nome Cantor"" : ""Billy Ocean"",
+  ""Genero Cantor"" : "" yacht rock "",
+  ""Popularidade Cantor"" : 62,
+  ""Seguidores"" : 1298959,
+  ""Nome"" : ""Caribbean Queen (No More Love On the Run)"",
+  ""Duracao"" : 4.07,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Here You Are: The Best of Billy Ocean"",
+  ""Data do Album"" : ""2016-04-29"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:49Z"",
+  ""Cantore(s)"" : ""Billy Ocean""
+}, {
+  ""Id"" : ""2y8Jo9CKhJvtfeKOsYzRdT"",
+  ""Nome Cantor"" : ""Rod Stewart"",
+  ""Genero Cantor"" : "" soft rock "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 5541570,
+  ""Nome"" : ""Da Ya Think I'm Sexy?"",
+  ""Duracao"" : 5.52,
+  ""Popularidade"" : 74,
+  ""Album"" : ""Blondes Have More Fun"",
+  ""Data do Album"" : ""1978-11-24"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""Rod Stewart""
+}, {
+  ""Id"" : ""3eqjTLE0HfPfh78zjh6TqT"",
+  ""Nome Cantor"" : ""Bruce Springsteen"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 75,
+  ""Seguidores"" : 7276974,
+  ""Nome"" : ""Dancing In the Dark"",
+  ""Duracao"" : 4.02,
+  ""Popularidade"" : 82,
+  ""Album"" : ""Born In The U.S.A."",
+  ""Data do Album"" : ""1984-06-04"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""Bruce Springsteen""
+}, {
+  ""Id"" : ""5NGO30tJxFlKixkPSgXcFE"",
+  ""Nome Cantor"" : ""The Police"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 76,
+  ""Seguidores"" : 7519467,
+  ""Nome"" : ""De Do Do Do, De Da Da Da - Remastered 2003"",
+  ""Duracao"" : 4.14,
+  ""Popularidade"" : 45,
+  ""Album"" : ""The Police"",
+  ""Data do Album"" : ""2007-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""The Police""
+}, {
+  ""Id"" : ""6kz53iCdBSqhQCZ21CoLcc"",
+  ""Nome Cantor"" : ""Culture Club"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 61,
+  ""Seguidores"" : 1789384,
+  ""Nome"" : ""Do You Really Want To Hurt Me - Remastered 2002"",
+  ""Duracao"" : 4.39,
+  ""Popularidade"" : 49,
+  ""Album"" : ""Culture Club (Deluxe Edition)"",
+  ""Data do Album"" : ""2002-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Culture Club""
+}, {
+  ""Id"" : ""6hN9F0iuULZYWXppob22Aj"",
+  ""Nome Cantor"" : ""Simple Minds"",
+  ""Genero Cantor"" : "" new wave "",
+  ""Popularidade Cantor"" : 65,
+  ""Seguidores"" : 2325034,
+  ""Nome"" : ""Don't You (Forget About Me)"",
+  ""Duracao"" : 4.35,
+  ""Popularidade"" : 0,
+  ""Album"" : ""The Breakfast Club (Original Motion Picture Soundtrack)"",
+  ""Data do Album"" : ""1985-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Simple Minds""
+}, {
+  ""Id"" : ""1aX2dmV8XoHYCOQRxjPESG"",
+  ""Nome Cantor"" : ""The Human League"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
+  ""Popularidade Cantor"" : 61,
+  ""Seguidores"" : 1274853,
+  ""Nome"" : ""Don't You Want Me"",
+  ""Duracao"" : 3.95,
+  ""Popularidade"" : 78,
+  ""Album"" : ""Dare!"",
+  ""Data do Album"" : ""1981"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:46Z"",
+  ""Cantore(s)"" : ""The Human League""
+}, {
+  ""Id"" : ""0f3EsoviYnRKTkmayI3cux"",
+  ""Nome Cantor"" : ""Men At Work"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 67,
+  ""Seguidores"" : 1563232,
+  ""Nome"" : ""Down Under"",
+  ""Duracao"" : 3.68,
+  ""Popularidade"" : 68,
+  ""Album"" : ""The Best Of Men At Work: Contraband"",
+  ""Data do Album"" : ""1996-02-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""Men At Work""
+}, {
+  ""Id"" : ""6DCIj8jNaNpBz8e5oKFPtp"",
+  ""Nome Cantor"" : ""The Cars"",
+  ""Genero Cantor"" : "" power pop, new wave, classic rock "",
+  ""Popularidade Cantor"" : 64,
+  ""Seguidores"" : 2033287,
+  ""Nome"" : ""Drive - 2017 Remaster"",
+  ""Duracao"" : 3.91,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Heartbeat City (Expanded Edition)"",
+  ""Data do Album"" : ""1984"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:49Z"",
+  ""Cantore(s)"" : ""The Cars""
+}, {
+  ""Id"" : ""7wJ9NwdRWtN92NunmXuwBk"",
+  ""Nome Cantor"" : ""Orchestral Manoeuvres In The Dark"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
+  ""Popularidade Cantor"" : 59,
+  ""Seguidores"" : 887412,
+  ""Nome"" : ""Enola Gay - 2003 Remastered Version"",
+  ""Duracao"" : 3.49,
+  ""Popularidade"" : 32,
+  ""Album"" : ""Cuéntame Los 80"",
+  ""Data do Album"" : ""2011-10-18"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""Orchestral Manoeuvres In The Dark""
+}, {
+  ""Id"" : ""5NGO30tJxFlKixkPSgXcFE"",
+  ""Nome Cantor"" : ""The Police"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 76,
+  ""Seguidores"" : 7519467,
+  ""Nome"" : ""Every Breath You Take - Remastered 2003"",
+  ""Duracao"" : 4.22,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Synchronicity (Remastered)"",
+  ""Data do Album"" : ""1983-06-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""The Police""
+}, {
+  ""Id"" : ""6rqU9HQ57NYGBnBzbrY3a4"",
+  ""Nome Cantor"" : ""Paul Young"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 59,
+  ""Seguidores"" : 1071995,
+  ""Nome"" : ""Every Time You Go Away - Radio Edit"",
+  ""Duracao"" : 4.45,
+  ""Popularidade"" : 73,
+  ""Album"" : ""From Time To Time - The Singles Collection"",
+  ""Data do Album"" : ""1991-09-07"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""Paul Young""
+}, {
+  ""Id"" : ""4bthk9UfsYUYdcFyqxmSUU"",
+  ""Nome Cantor"" : ""Tears For Fears"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 4078435,
+  ""Nome"" : ""Everybody Wants To Rule The World"",
+  ""Duracao"" : 4.19,
+  ""Popularidade"" : 3,
+  ""Album"" : ""Songs From The Big Chair"",
+  ""Data do Album"" : ""1985-02-25"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Tears For Fears""
+}, {
+  ""Id"" : ""2HcwFjNelS49kFbfvMxQYw"",
+  ""Nome Cantor"" : ""Robbie Williams"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 71,
+  ""Seguidores"" : 3306414,
+  ""Nome"" : ""Feel"",
+  ""Duracao"" : 4.4,
+  ""Popularidade"" : 77,
+  ""Album"" : ""Escapology"",
+  ""Data do Album"" : ""2002"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Robbie Williams""
+}, {
+  ""Id"" : ""0lwRI7lvmlRY5DiA5Xa6wQ"",
+  ""Nome Cantor"" : ""Lipps Inc."",
+  ""Genero Cantor"" : "" disco "",
+  ""Popularidade Cantor"" : 57,
+  ""Seguidores"" : 191301,
+  ""Nome"" : ""Funky Town"",
+  ""Duracao"" : 3.99,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Paradas Continuas"",
+  ""Data do Album"" : ""2009-10-20"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Lipps Inc.""
+}, {
+  ""Id"" : ""3iDD7bnsjL9J4fO298r0L0"",
+  ""Nome Cantor"" : ""Chicago"",
+  ""Genero Cantor"" : "" yacht rock, soft rock "",
+  ""Popularidade Cantor"" : 69,
+  ""Seguidores"" : 4677862,
+  ""Nome"" : ""Hard to Say I'm Sorry / Get Away - 2006 Remaster"",
+  ""Duracao"" : 5.07,
+  ""Popularidade"" : 72,
+  ""Album"" : ""Chicago 16 (Expanded & Remastered)"",
+  ""Data do Album"" : ""1982-06-07"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:43Z"",
+  ""Cantore(s)"" : ""Chicago""
+}, {
+  ""Id"" : ""4tpUmLEVLCGFr93o8hFFIB"",
+  ""Nome Cantor"" : ""Blondie"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 69,
+  ""Seguidores"" : 1875003,
+  ""Nome"" : ""Heart Of Glass - Special Mix"",
+  ""Duracao"" : 4.6,
+  ""Popularidade"" : 67,
+  ""Album"" : ""Best Of Blondie"",
+  ""Data do Album"" : ""1981-10-31"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Blondie""
+}, {
+  ""Id"" : ""0PFtn5NtBbbUNbU9EAmIWF"",
+  ""Nome Cantor"" : ""TOTO"",
+  ""Genero Cantor"" : "" yacht rock, soft rock "",
+  ""Popularidade Cantor"" : 73,
+  ""Seguidores"" : 3691142,
+  ""Nome"" : ""Hold the Line"",
+  ""Duracao"" : 3.93,
+  ""Popularidade"" : 83,
+  ""Album"" : ""Toto"",
+  ""Data do Album"" : ""1978-10-10"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""TOTO""
+}, {
+  ""Id"" : ""1dfeR4HaWDbWqFHLkxsg1d"",
+  ""Nome Cantor"" : ""Queen"",
+  ""Genero Cantor"" : "" classic rock, rock, glam rock "",
+  ""Popularidade Cantor"" : 82,
+  ""Seguidores"" : 55075068,
+  ""Nome"" : ""I Want To Break Free - Remastered 2011"",
+  ""Duracao"" : 4.3,
+  ""Popularidade"" : 62,
+  ""Album"" : ""The Works (Deluxe Remastered Version)"",
+  ""Data do Album"" : ""1984-02-27"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:44Z"",
+  ""Cantore(s)"" : ""Queen""
+}, {
+  ""Id"" : ""6IRouO5mvvfcyxtPDKMYFN"",
+  ""Nome Cantor"" : ""Foreigner"",
+  ""Genero Cantor"" : "" aor, classic rock "",
+  ""Popularidade Cantor"" : 71,
+  ""Seguidores"" : 3813033,
+  ""Nome"" : ""I Want to Know What Love Is - 1999 Remaster"",
+  ""Duracao"" : 5.08,
+  ""Popularidade"" : 83,
+  ""Album"" : ""Agent Provocateur"",
+  ""Data do Album"" : ""1984"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Foreigner""
+}, {
+  ""Id"" : ""5gznATMVO85ZcLTkE9ULU7"",
+  ""Nome Cantor"" : ""Lenny Kravitz"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 70,
+  ""Seguidores"" : 3597726,
+  ""Nome"" : ""It Ain't Over 'Til It's Over"",
+  ""Duracao"" : 4.04,
+  ""Popularidade"" : 52,
+  ""Album"" : ""Greatest Hits"",
+  ""Data do Album"" : ""2000"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:45Z"",
+  ""Cantore(s)"" : ""Lenny Kravitz""
+}, {
+  ""Id"" : ""6tbjWDEIzxoDsBA1FuhfPW"",
+  ""Nome Cantor"" : ""Madonna"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 77,
+  ""Seguidores"" : 8769393,
+  ""Nome"" : ""La Isla Bonita"",
+  ""Duracao"" : 4.05,
+  ""Popularidade"" : 75,
+  ""Album"" : ""True Blue"",
+  ""Data do Album"" : ""1986-06-30"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Madonna""
+}, {
+  ""Id"" : ""0L9xkvBPcEp1nrhDrodxc5"",
+  ""Nome Cantor"" : ""Level 42"",
+  ""Genero Cantor"" : "" synthpop "",
+  ""Popularidade Cantor"" : 57,
+  ""Seguidores"" : 753641,
+  ""Nome"" : ""Lessons In Love"",
+  ""Duracao"" : 4.1,
+  ""Popularidade"" : 68,
+  ""Album"" : ""Running In The Family"",
+  ""Data do Album"" : ""1987"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Level 42""
+}, {
+  ""Id"" : ""3qm84nBOXUEQ2vnTfUTTFC"",
+  ""Nome Cantor"" : ""Guns N' Roses"",
+  ""Genero Cantor"" : "" rock, glam metal, hard rock, classic rock "",
+  ""Popularidade Cantor"" : 79,
+  ""Seguidores"" : 35060685,
+  ""Nome"" : ""Live And Let Die"",
+  ""Duracao"" : 3.07,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Use Your Illusion I"",
+  ""Data do Album"" : ""1991-09-17"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:44Z"",
+  ""Cantore(s)"" : ""Guns N' Roses""
+}, {
+  ""Id"" : ""4KWTAlx2RvbpseOGMEmROg"",
+  ""Nome Cantor"" : ""R.E.M."",
+  ""Genero Cantor"" : "" jangle pop, alternative rock, rock "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 5344793,
+  ""Nome"" : ""Losing My Religion"",
+  ""Duracao"" : 4.47,
+  ""Popularidade"" : 85,
+  ""Album"" : ""Out Of Time (25th Anniversary Edition)"",
+  ""Data do Album"" : ""1991-03-12"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""R.E.M.""
+}, {
+  ""Id"" : ""7ip3CWlgPZbQHvgJpmcGSS"",
+  ""Nome Cantor"" : ""Peter Schilling"",
+  ""Genero Cantor"" : "" neue deutsche welle, synthpop "",
+  ""Popularidade Cantor"" : 56,
+  ""Seguidores"" : 167549,
+  ""Nome"" : ""Major Tom (Coming Home)"",
+  ""Duracao"" : 5.02,
+  ""Popularidade"" : 64,
+  ""Album"" : ""The Different Story (World Of Lust And Crime)"",
+  ""Data do Album"" : ""1989-04-11"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:55Z"",
+  ""Cantore(s)"" : ""Peter Schilling""
+}, {
+  ""Id"" : ""77tT1kLj6mCWtFNqiOmP9H"",
+  ""Nome Cantor"" : ""Daryl Hall & John Oates"",
+  ""Genero Cantor"" : "" yacht rock, soft rock "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 2839087,
+  ""Nome"" : ""Maneater"",
+  ""Duracao"" : 4.55,
+  ""Popularidade"" : 82,
+  ""Album"" : ""H2O"",
+  ""Data do Album"" : ""1982-10-04"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:51Z"",
+  ""Cantore(s)"" : ""Daryl Hall & John Oates""
+}, {
+  ""Id"" : ""0gxyHStUsqpMadRV0Di1Qt"",
+  ""Nome Cantor"" : ""Rick Astley"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 63,
+  ""Seguidores"" : 1468951,
+  ""Nome"" : ""Never Gonna Give You Up"",
+  ""Duracao"" : 3.56,
+  ""Popularidade"" : 4,
+  ""Album"" : ""Whenever You Need Somebody"",
+  ""Data do Album"" : ""1987-11-12"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""Rick Astley""
+}, {
+  ""Id"" : ""0f3EsoviYnRKTkmayI3cux"",
+  ""Nome Cantor"" : ""Men At Work"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 67,
+  ""Seguidores"" : 1563232,
+  ""Nome"" : ""Overkill"",
+  ""Duracao"" : 3.82,
+  ""Popularidade"" : 65,
+  ""Album"" : ""Cargo"",
+  ""Data do Album"" : ""1983"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Men At Work""
+}, {
+  ""Id"" : ""7AC976RDJzL2asmZuz7qil"",
+  ""Nome Cantor"" : ""Yes"",
+  ""Genero Cantor"" : "" progressive rock, art rock, aor "",
+  ""Popularidade Cantor"" : 60,
+  ""Seguidores"" : 2076051,
+  ""Nome"" : ""Owner Of A Lonely Heart"",
+  ""Duracao"" : 4.5,
+  ""Popularidade"" : 46,
+  ""Album"" : ""Highlights: The Very Best Of Yes"",
+  ""Data do Album"" : ""1993-09-21"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""Yes""
+}, {
+  ""Id"" : ""7guDJrEfX3qb6FEbdPA5qi"",
+  ""Nome Cantor"" : ""Stevie Wonder"",
+  ""Genero Cantor"" : "" motown, classic soul, soul "",
+  ""Popularidade Cantor"" : 73,
+  ""Seguidores"" : 7118167,
+  ""Nome"" : ""Part-Time Lover"",
+  ""Duracao"" : 4.21,
+  ""Popularidade"" : 72,
+  ""Album"" : ""In Square Circle"",
+  ""Data do Album"" : ""1985-09-13"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Stevie Wonder""
+}, {
+  ""Id"" : ""0PFtn5NtBbbUNbU9EAmIWF"",
+  ""Nome Cantor"" : ""TOTO"",
+  ""Genero Cantor"" : "" yacht rock, soft rock "",
+  ""Popularidade Cantor"" : 73,
+  ""Seguidores"" : 3691142,
+  ""Nome"" : ""Rosanna"",
+  ""Duracao"" : 5.47,
+  ""Popularidade"" : 19,
+  ""Album"" : ""Simply the Best 80s"",
+  ""Data do Album"" : ""2014-05-06"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""TOTO""
+}, {
+  ""Id"" : ""695W5F2Ih8dYahLdjVOIoH"",
+  ""Nome Cantor"" : ""Christopher Cross"",
+  ""Genero Cantor"" : "" yacht rock, soft rock "",
+  ""Popularidade Cantor"" : 66,
+  ""Seguidores"" : 1189469,
+  ""Nome"" : ""Sailing"",
+  ""Duracao"" : 4.27,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Christopher Cross"",
+  ""Data do Album"" : ""1979"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:57Z"",
+  ""Cantore(s)"" : ""Christopher Cross""
+}, {
+  ""Id"" : ""4463nfFMmK1cwAWBQDwT5e"",
+  ""Nome Cantor"" : ""Laura Branigan"",
   ""Genero Cantor"" : "" "",
   ""Popularidade Cantor"" : 62,
-  ""Seguidores"" : 1644645,
-  ""Nome"" : ""Best Day Of My Life"",
-  ""Duracao"" : 3.24,
+  ""Seguidores"" : 864425,
+  ""Nome"" : ""Self Control"",
+  ""Duracao"" : 4.11,
   ""Popularidade"" : 78,
-  ""Album"" : ""Oh, What A Life"",
-  ""Data do Album"" : ""2014-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:14Z"",
-  ""Cantore(s)"" : ""American Authors""
+  ""Album"" : ""Self Control"",
+  ""Data do Album"" : ""1984"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:49Z"",
+  ""Cantore(s)"" : ""Laura Branigan""
 }, {
-  ""Id"" : ""5Pwc4xIPtQLFEnJriah9YJ"",
-  ""Nome Cantor"" : ""OneRepublic"",
-  ""Genero Cantor"" : "" soft pop "",
-  ""Popularidade Cantor"" : 81,
-  ""Seguidores"" : 18650866,
-  ""Nome"" : ""Counting Stars"",
-  ""Duracao"" : 4.29,
-  ""Popularidade"" : 87,
-  ""Album"" : ""Native"",
-  ""Data do Album"" : ""2013-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:21Z"",
-  ""Cantore(s)"" : ""OneRepublic""
+  ""Id"" : ""4QQgXkCYTt3BlENzhyNETg"",
+  ""Nome Cantor"" : ""Earth, Wind & Fire"",
+  ""Genero Cantor"" : "" funk, disco "",
+  ""Popularidade Cantor"" : 73,
+  ""Seguidores"" : 5052012,
+  ""Nome"" : ""September"",
+  ""Duracao"" : 3.58,
+  ""Popularidade"" : 76,
+  ""Album"" : ""The Best Of Earth, Wind & Fire Vol. 1"",
+  ""Data do Album"" : ""1978-11-23"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:53Z"",
+  ""Cantore(s)"" : ""Earth, Wind & Fire""
 }, {
-  ""Id"" : ""3FUY2gzHeIiaesXtOAdB7A"",
-  ""Nome Cantor"" : ""Train"",
-  ""Genero Cantor"" : "" soft pop "",
+  ""Id"" : ""0Ty63ceoRnnJKVEYP0VQpk"",
+  ""Nome Cantor"" : ""Sting"",
+  ""Genero Cantor"" : "" soft rock "",
   ""Popularidade Cantor"" : 70,
-  ""Seguidores"" : 4509650,
-  ""Nome"" : ""Drive By"",
-  ""Duracao"" : 3.27,
-  ""Popularidade"" : 78,
-  ""Album"" : ""California 37"",
-  ""Data do Album"" : ""2012-04-17"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:52Z"",
-  ""Cantore(s)"" : ""Train""
-}, {
-  ""Id"" : ""4KzXObXgZI69NVseY1QYjT"",
-  ""Nome Cantor"" : ""The Worst Cover Band Of The World"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 20,
-  ""Seguidores"" : 1827,
-  ""Nome"" : ""Glad You Came (The Sun Goes Down the Stars Come Out)"",
-  ""Duracao"" : 3.3,
-  ""Popularidade"" : 37,
-  ""Album"" : ""On Tour (Since More Than 100 Years and Locked Out of Heaven)"",
-  ""Data do Album"" : ""2012-11-20"",
-  ""Adicionado a:"" : ""2021-02-17T23:21:57Z"",
-  ""Cantore(s)"" : ""The Worst Cover Band Of The World""
-}, {
-  ""Id"" : ""6p5JxpTc7USNnBnLzctyd4"",
-  ""Nome Cantor"" : ""Phillip Phillips"",
-  ""Genero Cantor"" : "" folk pop "",
-  ""Popularidade Cantor"" : 59,
-  ""Seguidores"" : 1138184,
-  ""Nome"" : ""Gone, Gone, Gone"",
-  ""Duracao"" : 3.49,
-  ""Popularidade"" : 1,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:17Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
-}, {
-  ""Id"" : ""16oZKvXb6WkQlVAjwo2Wbg"",
-  ""Nome Cantor"" : ""The Lumineers"",
-  ""Genero Cantor"" : "" folk pop, indie folk "",
-  ""Popularidade Cantor"" : 76,
-  ""Seguidores"" : 5890112,
-  ""Nome"" : ""Ho Hey"",
-  ""Duracao"" : 2.72,
-  ""Popularidade"" : 6,
-  ""Album"" : ""The Lumineers (Deluxe Edition)"",
-  ""Data do Album"" : ""2012"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:04Z"",
-  ""Cantore(s)"" : ""The Lumineers""
-}, {
-  ""Id"" : ""6p5JxpTc7USNnBnLzctyd4"",
-  ""Nome Cantor"" : ""Phillip Phillips"",
-  ""Genero Cantor"" : "" folk pop "",
-  ""Popularidade Cantor"" : 59,
-  ""Seguidores"" : 1138184,
-  ""Nome"" : ""Home"",
-  ""Duracao"" : 3.5,
+  ""Seguidores"" : 3841605,
+  ""Nome"" : ""Shape Of My Heart"",
+  ""Duracao"" : 4.65,
   ""Popularidade"" : 0,
-  ""Album"" : ""The World From The Side Of The Moon"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:20:06Z"",
-  ""Cantore(s)"" : ""Phillip Phillips""
+  ""Album"" : ""Ten Summoners Tales"",
+  ""Data do Album"" : ""1993-03-09"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:51Z"",
+  ""Cantore(s)"" : ""Sting""
 }, {
-  ""Id"" : ""3gd8FJtBJtkRxdfbTu19U2"",
-  ""Nome Cantor"" : ""Mumford & Sons"",
-  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
+  ""Id"" : ""6zpPKMhpOoG646kJgZ7RKf"",
+  ""Nome Cantor"" : ""Johnny Hates Jazz"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
+  ""Popularidade Cantor"" : 52,
+  ""Seguidores"" : 233546,
+  ""Nome"" : ""Shattered Dreams - Remastered 2008"",
+  ""Duracao"" : 3.46,
+  ""Popularidade"" : 66,
+  ""Album"" : ""Turn Back The Clock"",
+  ""Data do Album"" : ""1988"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Johnny Hates Jazz""
+}, {
+  ""Id"" : ""20p5D2KrE8CGuOjHtxsyTp"",
+  ""Nome Cantor"" : ""Fine Young Cannibals"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 60,
+  ""Seguidores"" : 955231,
+  ""Nome"" : ""She Drives Me Crazy"",
+  ""Duracao"" : 3.6,
+  ""Popularidade"" : 77,
+  ""Album"" : ""The Raw & The Cooked"",
+  ""Data do Album"" : ""1988-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:51Z"",
+  ""Cantore(s)"" : ""Fine Young Cannibals""
+}, {
+  ""Id"" : ""4bthk9UfsYUYdcFyqxmSUU"",
+  ""Nome Cantor"" : ""Tears For Fears"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
   ""Popularidade Cantor"" : 72,
-  ""Seguidores"" : 6601964,
-  ""Nome"" : ""Hopeless Wanderer"",
-  ""Duracao"" : 5.13,
-  ""Popularidade"" : 53,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:14Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
+  ""Seguidores"" : 4078435,
+  ""Nome"" : ""Shout"",
+  ""Duracao"" : 6.54,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Songs From The Big Chair (Super Deluxe Edition)"",
+  ""Data do Album"" : ""1985-02-25"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:40Z"",
+  ""Cantore(s)"" : ""Tears For Fears""
 }, {
-  ""Id"" : ""3gd8FJtBJtkRxdfbTu19U2"",
-  ""Nome Cantor"" : ""Mumford & Sons"",
-  ""Genero Cantor"" : "" folk, indie folk, folk rock "",
+  ""Id"" : ""3xs0LEzcPXtgNfMNcHzLIP"",
+  ""Nome Cantor"" : ""Rockwell"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 60,
+  ""Seguidores"" : 115427,
+  ""Nome"" : ""Somebody's Watching Me - Single Version"",
+  ""Duracao"" : 3.96,
+  ""Popularidade"" : 1,
+  ""Album"" : ""Scream"",
+  ""Data do Album"" : ""2017-09-27"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""Rockwell""
+}, {
+  ""Id"" : ""0smy8yDrRoI4CnhpOuthg0"",
+  ""Nome Cantor"" : ""Corey Hart"",
+  ""Genero Cantor"" : "" synthpop "",
+  ""Popularidade Cantor"" : 48,
+  ""Seguidores"" : 307010,
+  ""Nome"" : ""Sunglasses At Night"",
+  ""Duracao"" : 5.34,
+  ""Popularidade"" : 60,
+  ""Album"" : ""The Singles"",
+  ""Data do Album"" : ""1992-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:44Z"",
+  ""Cantore(s)"" : ""Corey Hart""
+}, {
+  ""Id"" : ""3qm84nBOXUEQ2vnTfUTTFC"",
+  ""Nome Cantor"" : ""Guns N' Roses"",
+  ""Genero Cantor"" : "" rock, glam metal, hard rock, classic rock "",
+  ""Popularidade Cantor"" : 79,
+  ""Seguidores"" : 35060685,
+  ""Nome"" : ""Sweet Child O' Mine"",
+  ""Duracao"" : 5.91,
+  ""Popularidade"" : 12,
+  ""Album"" : ""Appetite For Destruction"",
+  ""Data do Album"" : ""1987-07-21"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:39Z"",
+  ""Cantore(s)"" : ""Guns N' Roses""
+}, {
+  ""Id"" : ""6aq8T2RcspxVOGgMrTzjWc"",
+  ""Nome Cantor"" : ""Soft Cell"",
+  ""Genero Cantor"" : "" synthpop, new wave "",
+  ""Popularidade Cantor"" : 60,
+  ""Seguidores"" : 788782,
+  ""Nome"" : ""Tainted Love"",
+  ""Duracao"" : 2.71,
+  ""Popularidade"" : 2,
+  ""Album"" : ""The Singles"",
+  ""Data do Album"" : ""1986-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:41Z"",
+  ""Cantore(s)"" : ""Soft Cell""
+}, {
+  ""Id"" : ""2jzc5TC5TVFLXQlBNiIUzE"",
+  ""Nome Cantor"" : ""a-ha"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
+  ""Popularidade Cantor"" : 70,
+  ""Seguidores"" : 2891192,
+  ""Nome"" : ""Take on Me"",
+  ""Duracao"" : 3.75,
+  ""Popularidade"" : 86,
+  ""Album"" : ""Hunting High and Low"",
+  ""Data do Album"" : ""1985-06-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:46Z"",
+  ""Cantore(s)"" : ""a-ha""
+}, {
+  ""Id"" : ""3daM7asS0gCFvyLemNx2EE"",
+  ""Nome Cantor"" : ""The Romantics"",
+  ""Genero Cantor"" : "" power pop "",
+  ""Popularidade Cantor"" : 54,
+  ""Seguidores"" : 460661,
+  ""Nome"" : ""Talking In Your Sleep (2023 Remaster)"",
+  ""Duracao"" : 3.94,
+  ""Popularidade"" : 70,
+  ""Album"" : ""In Heat (2023 Remaster)"",
+  ""Data do Album"" : ""1983-02-14"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""The Romantics""
+}, {
+  ""Id"" : ""6czfQ8MjHVmvJKA4LAnviG"",
+  ""Nome Cantor"" : ""Baltimora"",
+  ""Genero Cantor"" : "" italo disco "",
+  ""Popularidade Cantor"" : 55,
+  ""Seguidores"" : 139632,
+  ""Nome"" : ""Tarzan Boy"",
+  ""Duracao"" : 6.32,
+  ""Popularidade"" : 73,
+  ""Album"" : ""Living In The Background"",
+  ""Data do Album"" : ""1985-01-01"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Baltimora""
+}, {
+  ""Id"" : ""2SHhfs4BiDxGQ3oxqf0UHY"",
+  ""Nome Cantor"" : ""Roxette"",
+  ""Genero Cantor"" : "" swedish pop "",
   ""Popularidade Cantor"" : 72,
-  ""Seguidores"" : 6601964,
-  ""Nome"" : ""I Will Wait"",
-  ""Duracao"" : 4.61,
-  ""Popularidade"" : 51,
-  ""Album"" : ""Babel (Deluxe Version)"",
-  ""Data do Album"" : ""2012-09-21"",
-  ""Adicionado a:"" : ""2021-02-17T23:19:00Z"",
-  ""Cantore(s)"" : ""Mumford & Sons""
+  ""Seguidores"" : 2832274,
+  ""Nome"" : ""The Look"",
+  ""Duracao"" : 3.96,
+  ""Popularidade"" : 2,
+  ""Album"" : ""Look Sharp! (2009 Version)"",
+  ""Data do Album"" : ""1988-10-19"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:52Z"",
+  ""Cantore(s)"" : ""Roxette""
 }, {
-  ""Id"" : ""4dwdTW1Lfiq0cM8nBAqIIz"",
-  ""Nome Cantor"" : ""Of Monsters and Men"",
-  ""Genero Cantor"" : "" folk pop "",
-  ""Popularidade Cantor"" : 68,
-  ""Seguidores"" : 3609705,
-  ""Nome"" : ""Little Talks"",
-  ""Duracao"" : 4.44,
-  ""Popularidade"" : 81,
-  ""Album"" : ""My Head Is An Animal"",
-  ""Data do Album"" : ""2012-01-01"",
-  ""Adicionado a:"" : ""2021-02-17T23:18:48Z"",
-  ""Cantore(s)"" : ""Of Monsters and Men""
+  ""Id"" : ""0gxyHStUsqpMadRV0Di1Qt"",
+  ""Nome Cantor"" : ""Rick Astley"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 63,
+  ""Seguidores"" : 1468951,
+  ""Nome"" : ""Together Forever"",
+  ""Duracao"" : 3.43,
+  ""Popularidade"" : 0,
+  ""Album"" : ""Whenever You Need Somebody"",
+  ""Data do Album"" : ""1987-11-12"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Rick Astley""
 }, {
-  ""Id"" : ""5nCi3BB41mBaMH9gfr6Su0"",
-  ""Nome Cantor"" : ""fun."",
+  ""Id"" : ""2urZrEdsq72kx0UzfYN8Yv"",
+  ""Nome Cantor"" : ""Spandau Ballet"",
+  ""Genero Cantor"" : "" new wave, synthpop "",
+  ""Popularidade Cantor"" : 64,
+  ""Seguidores"" : 1458207,
+  ""Nome"" : ""True - Single Edit"",
+  ""Duracao"" : 5.49,
+  ""Popularidade"" : 69,
+  ""Album"" : ""True - The Digital E.P."",
+  ""Data do Album"" : ""2008-04-25"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""Spandau Ballet""
+}, {
+  ""Id"" : ""5lpH0xAS4fVfLkACg9DAuM"",
+  ""Nome Cantor"" : ""Wham!"",
+  ""Genero Cantor"" : "" christmas "",
+  ""Popularidade Cantor"" : 66,
+  ""Seguidores"" : 3134432,
+  ""Nome"" : ""Wake Me Up Before You Go-Go"",
+  ""Duracao"" : 3.86,
+  ""Popularidade"" : 79,
+  ""Album"" : ""Make It Big"",
+  ""Data do Album"" : ""1984-10-23"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:48Z"",
+  ""Cantore(s)"" : ""Wham!""
+}, {
+  ""Id"" : ""0f3EsoviYnRKTkmayI3cux"",
+  ""Nome Cantor"" : ""Men At Work"",
+  ""Genero Cantor"" : "" "",
+  ""Popularidade Cantor"" : 67,
+  ""Seguidores"" : 1563232,
+  ""Nome"" : ""Who Can It Be Now?"",
+  ""Duracao"" : 3.42,
+  ""Popularidade"" : 61,
+  ""Album"" : ""Business As Usual"",
+  ""Data do Album"" : ""1981"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:54Z"",
+  ""Cantore(s)"" : ""Men At Work""
+}, {
+  ""Id"" : ""4lxfqrEsLX6N1N4OCSkILp"",
+  ""Nome Cantor"" : ""Phil Collins"",
+  ""Genero Cantor"" : "" soft rock "",
+  ""Popularidade Cantor"" : 75,
+  ""Seguidores"" : 7293264,
+  ""Nome"" : ""You Can't Hurry Love - 2016 Remaster"",
+  ""Duracao"" : 2.93,
+  ""Popularidade"" : 76,
+  ""Album"" : ""Hello, I Must Be Going! (Deluxe Edition)"",
+  ""Data do Album"" : ""1982-11-05"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:42Z"",
+  ""Cantore(s)"" : ""Phil Collins""
+}, {
+  ""Id"" : ""5WWSL6rElJeUk3Uc1S2RyD"",
+  ""Nome Cantor"" : ""Dead Or Alive"",
+  ""Genero Cantor"" : "" hi-nrg, synthpop "",
+  ""Popularidade Cantor"" : 57,
+  ""Seguidores"" : 441353,
+  ""Nome"" : ""You Spin Me Round (Like a Record)"",
+  ""Duracao"" : 3.33,
+  ""Popularidade"" : 3,
+  ""Album"" : ""Youthquake"",
+  ""Data do Album"" : ""1985-03-26"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:50Z"",
+  ""Cantore(s)"" : ""Dead Or Alive""
+}, {
+  ""Id"" : ""2y8Jo9CKhJvtfeKOsYzRdT"",
+  ""Nome Cantor"" : ""Rod Stewart"",
+  ""Genero Cantor"" : "" soft rock "",
+  ""Popularidade Cantor"" : 72,
+  ""Seguidores"" : 5541570,
+  ""Nome"" : ""Young Turks - 2008 Remaster"",
+  ""Duracao"" : 5.04,
+  ""Popularidade"" : 62,
+  ""Album"" : ""Some Guys Have All the Luck"",
+  ""Data do Album"" : ""2008-11-16"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:56Z"",
+  ""Cantore(s)"" : ""Rod Stewart""
+}, {
+  ""Id"" : ""1zxDewzd2j1ZdSBGaYcr0y"",
+  ""Nome Cantor"" : ""The Outfield"",
   ""Genero Cantor"" : "" "",
   ""Popularidade Cantor"" : 65,
-  ""Seguidores"" : 3048811,
-  ""Nome"" : ""Some Nights"",
-  ""Duracao"" : 4.62,
-  ""Popularidade"" : 69,
-  ""Album"" : ""Some Nights"",
-  ""Data do Album"" : ""2012-02-14"",
-  ""Adicionado a:"" : ""2021-02-17T23:17:58Z"",
-  ""Cantore(s)"" : ""fun.""
-}, {
-  ""Id"" : ""3AQRLZ9PuTAozP28Skbq8V"",
-  ""Nome Cantor"" : ""The Script"",
-  ""Genero Cantor"" : "" "",
-  ""Popularidade Cantor"" : 74,
-  ""Seguidores"" : 8787823,
-  ""Nome"" : ""Superheroes"",
-  ""Duracao"" : 4.09,
-  ""Popularidade"" : 76,
-  ""Album"" : ""No Sound Without Silence"",
-  ""Data do Album"" : ""2014-09-15"",
-  ""Adicionado a:"" : ""2021-02-17T23:16:43Z"",
-  ""Cantore(s)"" : ""The Script""
+  ""Seguidores"" : 783077,
+  ""Nome"" : ""Your Love"",
+  ""Duracao"" : 3.61,
+  ""Popularidade"" : 5,
+  ""Album"" : ""Play Deep"",
+  ""Data do Album"" : ""1985-06-29"",
+  ""Adicionado a:"" : ""2023-04-14T20:43:47Z"",
+  ""Cantore(s)"" : ""The Outfield""
 } ]","<?xml version=""1.0"" encoding=""UTF-8""?>
 <root xmlns:ns=""http://www.knime.org/json2xml/originalKey/"">
     <item>
-        <Id>3gd8FJtBJtkRxdfbTu19U2</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
-        <Seguidores>6601964</Seguidores>
-        <Nome>Below My Feet - Live</Nome>
-        <Duracao>4.74</Duracao>
-        <Popularidade>29</Popularidade>
-        <Album>The Road To Red Rocks Live</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:35Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+        <Id>3cniTumSiUysiPWXapGx1i</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Cutting Crew</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">61</PopularidadeCantor>
+        <Seguidores>521109</Seguidores>
+        <Nome>(I Just) Died In Your Arms</Nome>
+        <Duracao>4.67</Duracao>
+        <Popularidade>79</Popularidade>
+        <Album>Broadcast</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Cutting Crew</Cantores>
     </item>
     <item>
-        <Id>0MlOPi3zIDMVrfA9R04Fe3</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">American Authors</NomeCantor>
+        <Id>0PFtn5NtBbbUNbU9EAmIWF</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">TOTO</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock, soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">73</PopularidadeCantor>
+        <Seguidores>3691142</Seguidores>
+        <Nome>Africa</Nome>
+        <Duracao>4.93</Duracao>
+        <Popularidade>86</Popularidade>
+        <Album>Toto IV</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-04-08</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:46Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
+    </item>
+    <item>
+        <Id>3gMaNLQm7D9MornNILzdSl</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Lionel Richie</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> motown </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">69</PopularidadeCantor>
+        <Seguidores>4489687</Seguidores>
+        <Nome>All Night Long (All Night) - Single Version</Nome>
+        <Duracao>4.31</Duracao>
+        <Popularidade>42</Popularidade>
+        <Album>80s Pop #1s</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2007-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lionel Richie</Cantores>
+    </item>
+    <item>
+        <Id>4lxfqrEsLX6N1N4OCSkILp</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Phil Collins</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">75</PopularidadeCantor>
+        <Seguidores>7293264</Seguidores>
+        <Nome>Another Day In Paradise</Nome>
+        <Duracao>5.37</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>...But Seriously</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1989-11-10</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:39Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phil Collins</Cantores>
+    </item>
+    <item>
+        <Id>1dfeR4HaWDbWqFHLkxsg1d</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Queen</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> classic rock, rock, glam rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">82</PopularidadeCantor>
+        <Seguidores>55075068</Seguidores>
+        <Nome>Another One Bites The Dust - Remastered 2011</Nome>
+        <Duracao>3.58</Duracao>
+        <Popularidade>81</Popularidade>
+        <Album>The Game (2011 Remaster)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1980-06-27</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Queen</Cantores>
+    </item>
+    <item>
+        <Id>5gznATMVO85ZcLTkE9ULU7</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Lenny Kravitz</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">70</PopularidadeCantor>
+        <Seguidores>3597726</Seguidores>
+        <Nome>Are You Gonna Go My Way</Nome>
+        <Duracao>3.53</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Are You Gonna Go My Way</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1993-03-09</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lenny Kravitz</Cantores>
+    </item>
+    <item>
+        <Id>79bxUQsBIXO8nVLB9fYKf7</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Modern Talking</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> europop, italo disco, eurodance </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">69</PopularidadeCantor>
+        <Seguidores>2154844</Seguidores>
+        <Nome>Brother Louie</Nome>
+        <Duracao>3.71</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>Ready For Romance</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Modern Talking</Cantores>
+    </item>
+    <item>
+        <Id>19ra5tSw0tWufvUp8GotLo</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">George Michael</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">71</PopularidadeCantor>
+        <Seguidores>5632721</Seguidores>
+        <Nome>Careless Whisper</Nome>
+        <Duracao>5</Duracao>
+        <Popularidade>10</Popularidade>
+        <Album>Ladies And Gentlemen... The Best Of George Michael</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1998-11-09</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">George Michael</Cantores>
+    </item>
+    <item>
+        <Id>5IDs1CK15HegSAhGEbSYXo</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Billy Ocean</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">62</PopularidadeCantor>
+        <Seguidores>1298959</Seguidores>
+        <Nome>Caribbean Queen (No More Love On the Run)</Nome>
+        <Duracao>4.07</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Here You Are: The Best of Billy Ocean</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2016-04-29</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:49Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Billy Ocean</Cantores>
+    </item>
+    <item>
+        <Id>2y8Jo9CKhJvtfeKOsYzRdT</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Rod Stewart</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>5541570</Seguidores>
+        <Nome>Da Ya Think I'm Sexy?</Nome>
+        <Duracao>5.52</Duracao>
+        <Popularidade>74</Popularidade>
+        <Album>Blondes Have More Fun</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1978-11-24</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rod Stewart</Cantores>
+    </item>
+    <item>
+        <Id>3eqjTLE0HfPfh78zjh6TqT</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Bruce Springsteen</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">75</PopularidadeCantor>
+        <Seguidores>7276974</Seguidores>
+        <Nome>Dancing In the Dark</Nome>
+        <Duracao>4.02</Duracao>
+        <Popularidade>82</Popularidade>
+        <Album>Born In The U.S.A.</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-06-04</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Bruce Springsteen</Cantores>
+    </item>
+    <item>
+        <Id>5NGO30tJxFlKixkPSgXcFE</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Police</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">76</PopularidadeCantor>
+        <Seguidores>7519467</Seguidores>
+        <Nome>De Do Do Do, De Da Da Da - Remastered 2003</Nome>
+        <Duracao>4.14</Duracao>
+        <Popularidade>45</Popularidade>
+        <Album>The Police</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2007-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Police</Cantores>
+    </item>
+    <item>
+        <Id>6kz53iCdBSqhQCZ21CoLcc</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Culture Club</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">61</PopularidadeCantor>
+        <Seguidores>1789384</Seguidores>
+        <Nome>Do You Really Want To Hurt Me - Remastered 2002</Nome>
+        <Duracao>4.39</Duracao>
+        <Popularidade>49</Popularidade>
+        <Album>Culture Club (Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2002-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Culture Club</Cantores>
+    </item>
+    <item>
+        <Id>6hN9F0iuULZYWXppob22Aj</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Simple Minds</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">65</PopularidadeCantor>
+        <Seguidores>2325034</Seguidores>
+        <Nome>Don't You (Forget About Me)</Nome>
+        <Duracao>4.35</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>The Breakfast Club (Original Motion Picture Soundtrack)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Simple Minds</Cantores>
+    </item>
+    <item>
+        <Id>1aX2dmV8XoHYCOQRxjPESG</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Human League</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">61</PopularidadeCantor>
+        <Seguidores>1274853</Seguidores>
+        <Nome>Don't You Want Me</Nome>
+        <Duracao>3.95</Duracao>
+        <Popularidade>78</Popularidade>
+        <Album>Dare!</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1981</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:46Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Human League</Cantores>
+    </item>
+    <item>
+        <Id>0f3EsoviYnRKTkmayI3cux</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Men At Work</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">67</PopularidadeCantor>
+        <Seguidores>1563232</Seguidores>
+        <Nome>Down Under</Nome>
+        <Duracao>3.68</Duracao>
+        <Popularidade>68</Popularidade>
+        <Album>The Best Of Men At Work: Contraband</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1996-02-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Men At Work</Cantores>
+    </item>
+    <item>
+        <Id>6DCIj8jNaNpBz8e5oKFPtp</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Cars</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> power pop, new wave, classic rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">64</PopularidadeCantor>
+        <Seguidores>2033287</Seguidores>
+        <Nome>Drive - 2017 Remaster</Nome>
+        <Duracao>3.91</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Heartbeat City (Expanded Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:49Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Cars</Cantores>
+    </item>
+    <item>
+        <Id>7wJ9NwdRWtN92NunmXuwBk</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Orchestral Manoeuvres In The Dark</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
+        <Seguidores>887412</Seguidores>
+        <Nome>Enola Gay - 2003 Remastered Version</Nome>
+        <Duracao>3.49</Duracao>
+        <Popularidade>32</Popularidade>
+        <Album>Cuéntame Los 80</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2011-10-18</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Orchestral Manoeuvres In The Dark</Cantores>
+    </item>
+    <item>
+        <Id>5NGO30tJxFlKixkPSgXcFE</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Police</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">76</PopularidadeCantor>
+        <Seguidores>7519467</Seguidores>
+        <Nome>Every Breath You Take - Remastered 2003</Nome>
+        <Duracao>4.22</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Synchronicity (Remastered)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983-06-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Police</Cantores>
+    </item>
+    <item>
+        <Id>6rqU9HQ57NYGBnBzbrY3a4</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Paul Young</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
+        <Seguidores>1071995</Seguidores>
+        <Nome>Every Time You Go Away - Radio Edit</Nome>
+        <Duracao>4.45</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>From Time To Time - The Singles Collection</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1991-09-07</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Paul Young</Cantores>
+    </item>
+    <item>
+        <Id>4bthk9UfsYUYdcFyqxmSUU</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Tears For Fears</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>4078435</Seguidores>
+        <Nome>Everybody Wants To Rule The World</Nome>
+        <Duracao>4.19</Duracao>
+        <Popularidade>3</Popularidade>
+        <Album>Songs From The Big Chair</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-02-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Tears For Fears</Cantores>
+    </item>
+    <item>
+        <Id>2HcwFjNelS49kFbfvMxQYw</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Robbie Williams</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">71</PopularidadeCantor>
+        <Seguidores>3306414</Seguidores>
+        <Nome>Feel</Nome>
+        <Duracao>4.4</Duracao>
+        <Popularidade>77</Popularidade>
+        <Album>Escapology</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2002</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Robbie Williams</Cantores>
+    </item>
+    <item>
+        <Id>0lwRI7lvmlRY5DiA5Xa6wQ</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Lipps Inc.</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> disco </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">57</PopularidadeCantor>
+        <Seguidores>191301</Seguidores>
+        <Nome>Funky Town</Nome>
+        <Duracao>3.99</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Paradas Continuas</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2009-10-20</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lipps Inc.</Cantores>
+    </item>
+    <item>
+        <Id>3iDD7bnsjL9J4fO298r0L0</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Chicago</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock, soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">69</PopularidadeCantor>
+        <Seguidores>4677862</Seguidores>
+        <Nome>Hard to Say I'm Sorry / Get Away - 2006 Remaster</Nome>
+        <Duracao>5.07</Duracao>
+        <Popularidade>72</Popularidade>
+        <Album>Chicago 16 (Expanded &amp; Remastered)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-06-07</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:43Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Chicago</Cantores>
+    </item>
+    <item>
+        <Id>4tpUmLEVLCGFr93o8hFFIB</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Blondie</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">69</PopularidadeCantor>
+        <Seguidores>1875003</Seguidores>
+        <Nome>Heart Of Glass - Special Mix</Nome>
+        <Duracao>4.6</Duracao>
+        <Popularidade>67</Popularidade>
+        <Album>Best Of Blondie</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1981-10-31</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Blondie</Cantores>
+    </item>
+    <item>
+        <Id>0PFtn5NtBbbUNbU9EAmIWF</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">TOTO</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock, soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">73</PopularidadeCantor>
+        <Seguidores>3691142</Seguidores>
+        <Nome>Hold the Line</Nome>
+        <Duracao>3.93</Duracao>
+        <Popularidade>83</Popularidade>
+        <Album>Toto</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1978-10-10</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
+    </item>
+    <item>
+        <Id>1dfeR4HaWDbWqFHLkxsg1d</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Queen</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> classic rock, rock, glam rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">82</PopularidadeCantor>
+        <Seguidores>55075068</Seguidores>
+        <Nome>I Want To Break Free - Remastered 2011</Nome>
+        <Duracao>4.3</Duracao>
+        <Popularidade>62</Popularidade>
+        <Album>The Works (Deluxe Remastered Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-02-27</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:44Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Queen</Cantores>
+    </item>
+    <item>
+        <Id>6IRouO5mvvfcyxtPDKMYFN</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Foreigner</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> aor, classic rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">71</PopularidadeCantor>
+        <Seguidores>3813033</Seguidores>
+        <Nome>I Want to Know What Love Is - 1999 Remaster</Nome>
+        <Duracao>5.08</Duracao>
+        <Popularidade>83</Popularidade>
+        <Album>Agent Provocateur</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Foreigner</Cantores>
+    </item>
+    <item>
+        <Id>5gznATMVO85ZcLTkE9ULU7</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Lenny Kravitz</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">70</PopularidadeCantor>
+        <Seguidores>3597726</Seguidores>
+        <Nome>It Ain't Over 'Til It's Over</Nome>
+        <Duracao>4.04</Duracao>
+        <Popularidade>52</Popularidade>
+        <Album>Greatest Hits</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2000</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:45Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Lenny Kravitz</Cantores>
+    </item>
+    <item>
+        <Id>6tbjWDEIzxoDsBA1FuhfPW</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Madonna</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">77</PopularidadeCantor>
+        <Seguidores>8769393</Seguidores>
+        <Nome>La Isla Bonita</Nome>
+        <Duracao>4.05</Duracao>
+        <Popularidade>75</Popularidade>
+        <Album>True Blue</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986-06-30</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Madonna</Cantores>
+    </item>
+    <item>
+        <Id>0L9xkvBPcEp1nrhDrodxc5</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Level 42</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">57</PopularidadeCantor>
+        <Seguidores>753641</Seguidores>
+        <Nome>Lessons In Love</Nome>
+        <Duracao>4.1</Duracao>
+        <Popularidade>68</Popularidade>
+        <Album>Running In The Family</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Level 42</Cantores>
+    </item>
+    <item>
+        <Id>3qm84nBOXUEQ2vnTfUTTFC</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Guns N' Roses</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> rock, glam metal, hard rock, classic rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">79</PopularidadeCantor>
+        <Seguidores>35060685</Seguidores>
+        <Nome>Live And Let Die</Nome>
+        <Duracao>3.07</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Use Your Illusion I</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1991-09-17</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:44Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Guns N' Roses</Cantores>
+    </item>
+    <item>
+        <Id>4KWTAlx2RvbpseOGMEmROg</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">R.E.M.</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> jangle pop, alternative rock, rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>5344793</Seguidores>
+        <Nome>Losing My Religion</Nome>
+        <Duracao>4.47</Duracao>
+        <Popularidade>85</Popularidade>
+        <Album>Out Of Time (25th Anniversary Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1991-03-12</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">R.E.M.</Cantores>
+    </item>
+    <item>
+        <Id>7ip3CWlgPZbQHvgJpmcGSS</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Peter Schilling</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> neue deutsche welle, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">56</PopularidadeCantor>
+        <Seguidores>167549</Seguidores>
+        <Nome>Major Tom (Coming Home)</Nome>
+        <Duracao>5.02</Duracao>
+        <Popularidade>64</Popularidade>
+        <Album>The Different Story (World Of Lust And Crime)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1989-04-11</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:55Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Peter Schilling</Cantores>
+    </item>
+    <item>
+        <Id>77tT1kLj6mCWtFNqiOmP9H</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Daryl Hall &amp; John Oates</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock, soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>2839087</Seguidores>
+        <Nome>Maneater</Nome>
+        <Duracao>4.55</Duracao>
+        <Popularidade>82</Popularidade>
+        <Album>H2O</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-10-04</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:51Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Daryl Hall &amp; John Oates</Cantores>
+    </item>
+    <item>
+        <Id>0gxyHStUsqpMadRV0Di1Qt</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Rick Astley</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">63</PopularidadeCantor>
+        <Seguidores>1468951</Seguidores>
+        <Nome>Never Gonna Give You Up</Nome>
+        <Duracao>3.56</Duracao>
+        <Popularidade>4</Popularidade>
+        <Album>Whenever You Need Somebody</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987-11-12</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rick Astley</Cantores>
+    </item>
+    <item>
+        <Id>0f3EsoviYnRKTkmayI3cux</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Men At Work</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">67</PopularidadeCantor>
+        <Seguidores>1563232</Seguidores>
+        <Nome>Overkill</Nome>
+        <Duracao>3.82</Duracao>
+        <Popularidade>65</Popularidade>
+        <Album>Cargo</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Men At Work</Cantores>
+    </item>
+    <item>
+        <Id>7AC976RDJzL2asmZuz7qil</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Yes</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> progressive rock, art rock, aor </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">60</PopularidadeCantor>
+        <Seguidores>2076051</Seguidores>
+        <Nome>Owner Of A Lonely Heart</Nome>
+        <Duracao>4.5</Duracao>
+        <Popularidade>46</Popularidade>
+        <Album>Highlights: The Very Best Of Yes</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1993-09-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Yes</Cantores>
+    </item>
+    <item>
+        <Id>7guDJrEfX3qb6FEbdPA5qi</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Stevie Wonder</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> motown, classic soul, soul </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">73</PopularidadeCantor>
+        <Seguidores>7118167</Seguidores>
+        <Nome>Part-Time Lover</Nome>
+        <Duracao>4.21</Duracao>
+        <Popularidade>72</Popularidade>
+        <Album>In Square Circle</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-09-13</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Stevie Wonder</Cantores>
+    </item>
+    <item>
+        <Id>0PFtn5NtBbbUNbU9EAmIWF</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">TOTO</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock, soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">73</PopularidadeCantor>
+        <Seguidores>3691142</Seguidores>
+        <Nome>Rosanna</Nome>
+        <Duracao>5.47</Duracao>
+        <Popularidade>19</Popularidade>
+        <Album>Simply the Best 80s</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2014-05-06</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">TOTO</Cantores>
+    </item>
+    <item>
+        <Id>695W5F2Ih8dYahLdjVOIoH</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Christopher Cross</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> yacht rock, soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">66</PopularidadeCantor>
+        <Seguidores>1189469</Seguidores>
+        <Nome>Sailing</Nome>
+        <Duracao>4.27</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Christopher Cross</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1979</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:57Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Christopher Cross</Cantores>
+    </item>
+    <item>
+        <Id>4463nfFMmK1cwAWBQDwT5e</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Laura Branigan</NomeCantor>
         <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">62</PopularidadeCantor>
-        <Seguidores>1644645</Seguidores>
-        <Nome>Best Day Of My Life</Nome>
-        <Duracao>3.24</Duracao>
+        <Seguidores>864425</Seguidores>
+        <Nome>Self Control</Nome>
+        <Duracao>4.11</Duracao>
         <Popularidade>78</Popularidade>
-        <Album>Oh, What A Life</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">American Authors</Cantores>
+        <Album>Self Control</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:49Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Laura Branigan</Cantores>
     </item>
     <item>
-        <Id>5Pwc4xIPtQLFEnJriah9YJ</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">OneRepublic</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> soft pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">81</PopularidadeCantor>
-        <Seguidores>18650866</Seguidores>
-        <Nome>Counting Stars</Nome>
-        <Duracao>4.29</Duracao>
-        <Popularidade>87</Popularidade>
-        <Album>Native</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2013-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:21Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">OneRepublic</Cantores>
+        <Id>4QQgXkCYTt3BlENzhyNETg</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Earth, Wind &amp; Fire</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> funk, disco </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">73</PopularidadeCantor>
+        <Seguidores>5052012</Seguidores>
+        <Nome>September</Nome>
+        <Duracao>3.58</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>The Best Of Earth, Wind &amp; Fire Vol. 1</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1978-11-23</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:53Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Earth, Wind &amp; Fire</Cantores>
     </item>
     <item>
-        <Id>3FUY2gzHeIiaesXtOAdB7A</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Train</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> soft pop </GeneroCantor>
+        <Id>0Ty63ceoRnnJKVEYP0VQpk</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Sting</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft rock </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">70</PopularidadeCantor>
-        <Seguidores>4509650</Seguidores>
-        <Nome>Drive By</Nome>
-        <Duracao>3.27</Duracao>
-        <Popularidade>78</Popularidade>
-        <Album>California 37</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-04-17</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:52Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Train</Cantores>
-    </item>
-    <item>
-        <Id>4KzXObXgZI69NVseY1QYjT</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">The Worst Cover Band Of The World</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">20</PopularidadeCantor>
-        <Seguidores>1827</Seguidores>
-        <Nome>Glad You Came (The Sun Goes Down the Stars Come Out)</Nome>
-        <Duracao>3.3</Duracao>
-        <Popularidade>37</Popularidade>
-        <Album>On Tour (Since More Than 100 Years and Locked Out of Heaven)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-11-20</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:21:57Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Worst Cover Band Of The World</Cantores>
-    </item>
-    <item>
-        <Id>6p5JxpTc7USNnBnLzctyd4</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Phillip Phillips</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
-        <Seguidores>1138184</Seguidores>
-        <Nome>Gone, Gone, Gone</Nome>
-        <Duracao>3.49</Duracao>
-        <Popularidade>1</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:17Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
-    </item>
-    <item>
-        <Id>16oZKvXb6WkQlVAjwo2Wbg</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">The Lumineers</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop, indie folk </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">76</PopularidadeCantor>
-        <Seguidores>5890112</Seguidores>
-        <Nome>Ho Hey</Nome>
-        <Duracao>2.72</Duracao>
-        <Popularidade>6</Popularidade>
-        <Album>The Lumineers (Deluxe Edition)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:04Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Lumineers</Cantores>
-    </item>
-    <item>
-        <Id>6p5JxpTc7USNnBnLzctyd4</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Phillip Phillips</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">59</PopularidadeCantor>
-        <Seguidores>1138184</Seguidores>
-        <Nome>Home</Nome>
-        <Duracao>3.5</Duracao>
+        <Seguidores>3841605</Seguidores>
+        <Nome>Shape Of My Heart</Nome>
+        <Duracao>4.65</Duracao>
         <Popularidade>0</Popularidade>
-        <Album>The World From The Side Of The Moon</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:20:06Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Phillip Phillips</Cantores>
+        <Album>Ten Summoners Tales</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1993-03-09</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:51Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Sting</Cantores>
     </item>
     <item>
-        <Id>3gd8FJtBJtkRxdfbTu19U2</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
+        <Id>6zpPKMhpOoG646kJgZ7RKf</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Johnny Hates Jazz</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">52</PopularidadeCantor>
+        <Seguidores>233546</Seguidores>
+        <Nome>Shattered Dreams - Remastered 2008</Nome>
+        <Duracao>3.46</Duracao>
+        <Popularidade>66</Popularidade>
+        <Album>Turn Back The Clock</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1988</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Johnny Hates Jazz</Cantores>
+    </item>
+    <item>
+        <Id>20p5D2KrE8CGuOjHtxsyTp</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Fine Young Cannibals</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">60</PopularidadeCantor>
+        <Seguidores>955231</Seguidores>
+        <Nome>She Drives Me Crazy</Nome>
+        <Duracao>3.6</Duracao>
+        <Popularidade>77</Popularidade>
+        <Album>The Raw &amp; The Cooked</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1988-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:51Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Fine Young Cannibals</Cantores>
+    </item>
+    <item>
+        <Id>4bthk9UfsYUYdcFyqxmSUU</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Tears For Fears</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
-        <Seguidores>6601964</Seguidores>
-        <Nome>Hopeless Wanderer</Nome>
-        <Duracao>5.13</Duracao>
-        <Popularidade>53</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:14Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+        <Seguidores>4078435</Seguidores>
+        <Nome>Shout</Nome>
+        <Duracao>6.54</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Songs From The Big Chair (Super Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-02-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:40Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Tears For Fears</Cantores>
     </item>
     <item>
-        <Id>3gd8FJtBJtkRxdfbTu19U2</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Mumford &amp; Sons</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk, indie folk, folk rock </GeneroCantor>
+        <Id>3xs0LEzcPXtgNfMNcHzLIP</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Rockwell</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">60</PopularidadeCantor>
+        <Seguidores>115427</Seguidores>
+        <Nome>Somebody's Watching Me - Single Version</Nome>
+        <Duracao>3.96</Duracao>
+        <Popularidade>1</Popularidade>
+        <Album>Scream</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2017-09-27</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rockwell</Cantores>
+    </item>
+    <item>
+        <Id>0smy8yDrRoI4CnhpOuthg0</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Corey Hart</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">48</PopularidadeCantor>
+        <Seguidores>307010</Seguidores>
+        <Nome>Sunglasses At Night</Nome>
+        <Duracao>5.34</Duracao>
+        <Popularidade>60</Popularidade>
+        <Album>The Singles</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1992-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:44Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Corey Hart</Cantores>
+    </item>
+    <item>
+        <Id>3qm84nBOXUEQ2vnTfUTTFC</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Guns N' Roses</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> rock, glam metal, hard rock, classic rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">79</PopularidadeCantor>
+        <Seguidores>35060685</Seguidores>
+        <Nome>Sweet Child O' Mine</Nome>
+        <Duracao>5.91</Duracao>
+        <Popularidade>12</Popularidade>
+        <Album>Appetite For Destruction</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987-07-21</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:39Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Guns N' Roses</Cantores>
+    </item>
+    <item>
+        <Id>6aq8T2RcspxVOGgMrTzjWc</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Soft Cell</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> synthpop, new wave </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">60</PopularidadeCantor>
+        <Seguidores>788782</Seguidores>
+        <Nome>Tainted Love</Nome>
+        <Duracao>2.71</Duracao>
+        <Popularidade>2</Popularidade>
+        <Album>The Singles</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1986-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:41Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Soft Cell</Cantores>
+    </item>
+    <item>
+        <Id>2jzc5TC5TVFLXQlBNiIUzE</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">a-ha</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">70</PopularidadeCantor>
+        <Seguidores>2891192</Seguidores>
+        <Nome>Take on Me</Nome>
+        <Duracao>3.75</Duracao>
+        <Popularidade>86</Popularidade>
+        <Album>Hunting High and Low</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-06-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:46Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">a-ha</Cantores>
+    </item>
+    <item>
+        <Id>3daM7asS0gCFvyLemNx2EE</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Romantics</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> power pop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">54</PopularidadeCantor>
+        <Seguidores>460661</Seguidores>
+        <Nome>Talking In Your Sleep (2023 Remaster)</Nome>
+        <Duracao>3.94</Duracao>
+        <Popularidade>70</Popularidade>
+        <Album>In Heat (2023 Remaster)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1983-02-14</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Romantics</Cantores>
+    </item>
+    <item>
+        <Id>6czfQ8MjHVmvJKA4LAnviG</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Baltimora</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> italo disco </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">55</PopularidadeCantor>
+        <Seguidores>139632</Seguidores>
+        <Nome>Tarzan Boy</Nome>
+        <Duracao>6.32</Duracao>
+        <Popularidade>73</Popularidade>
+        <Album>Living In The Background</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-01-01</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Baltimora</Cantores>
+    </item>
+    <item>
+        <Id>2SHhfs4BiDxGQ3oxqf0UHY</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Roxette</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> swedish pop </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
-        <Seguidores>6601964</Seguidores>
-        <Nome>I Will Wait</Nome>
-        <Duracao>4.61</Duracao>
-        <Popularidade>51</Popularidade>
-        <Album>Babel (Deluxe Version)</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-09-21</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:19:00Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Mumford &amp; Sons</Cantores>
+        <Seguidores>2832274</Seguidores>
+        <Nome>The Look</Nome>
+        <Duracao>3.96</Duracao>
+        <Popularidade>2</Popularidade>
+        <Album>Look Sharp! (2009 Version)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1988-10-19</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:52Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Roxette</Cantores>
     </item>
     <item>
-        <Id>4dwdTW1Lfiq0cM8nBAqIIz</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">Of Monsters and Men</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> folk pop </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">68</PopularidadeCantor>
-        <Seguidores>3609705</Seguidores>
-        <Nome>Little Talks</Nome>
-        <Duracao>4.44</Duracao>
-        <Popularidade>81</Popularidade>
-        <Album>My Head Is An Animal</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-01-01</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:18:48Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">Of Monsters and Men</Cantores>
+        <Id>0gxyHStUsqpMadRV0Di1Qt</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Rick Astley</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">63</PopularidadeCantor>
+        <Seguidores>1468951</Seguidores>
+        <Nome>Together Forever</Nome>
+        <Duracao>3.43</Duracao>
+        <Popularidade>0</Popularidade>
+        <Album>Whenever You Need Somebody</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1987-11-12</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rick Astley</Cantores>
     </item>
     <item>
-        <Id>5nCi3BB41mBaMH9gfr6Su0</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">fun.</NomeCantor>
+        <Id>2urZrEdsq72kx0UzfYN8Yv</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Spandau Ballet</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> new wave, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">64</PopularidadeCantor>
+        <Seguidores>1458207</Seguidores>
+        <Nome>True - Single Edit</Nome>
+        <Duracao>5.49</Duracao>
+        <Popularidade>69</Popularidade>
+        <Album>True - The Digital E.P.</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2008-04-25</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Spandau Ballet</Cantores>
+    </item>
+    <item>
+        <Id>5lpH0xAS4fVfLkACg9DAuM</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Wham!</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> christmas </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">66</PopularidadeCantor>
+        <Seguidores>3134432</Seguidores>
+        <Nome>Wake Me Up Before You Go-Go</Nome>
+        <Duracao>3.86</Duracao>
+        <Popularidade>79</Popularidade>
+        <Album>Make It Big</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1984-10-23</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:48Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Wham!</Cantores>
+    </item>
+    <item>
+        <Id>0f3EsoviYnRKTkmayI3cux</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Men At Work</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">67</PopularidadeCantor>
+        <Seguidores>1563232</Seguidores>
+        <Nome>Who Can It Be Now?</Nome>
+        <Duracao>3.42</Duracao>
+        <Popularidade>61</Popularidade>
+        <Album>Business As Usual</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1981</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:54Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Men At Work</Cantores>
+    </item>
+    <item>
+        <Id>4lxfqrEsLX6N1N4OCSkILp</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Phil Collins</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">75</PopularidadeCantor>
+        <Seguidores>7293264</Seguidores>
+        <Nome>You Can't Hurry Love - 2016 Remaster</Nome>
+        <Duracao>2.93</Duracao>
+        <Popularidade>76</Popularidade>
+        <Album>Hello, I Must Be Going! (Deluxe Edition)</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1982-11-05</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:42Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Phil Collins</Cantores>
+    </item>
+    <item>
+        <Id>5WWSL6rElJeUk3Uc1S2RyD</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Dead Or Alive</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> hi-nrg, synthpop </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">57</PopularidadeCantor>
+        <Seguidores>441353</Seguidores>
+        <Nome>You Spin Me Round (Like a Record)</Nome>
+        <Duracao>3.33</Duracao>
+        <Popularidade>3</Popularidade>
+        <Album>Youthquake</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-03-26</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:50Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Dead Or Alive</Cantores>
+    </item>
+    <item>
+        <Id>2y8Jo9CKhJvtfeKOsYzRdT</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">Rod Stewart</NomeCantor>
+        <GeneroCantor ns:originalKey=""Genero Cantor""> soft rock </GeneroCantor>
+        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">72</PopularidadeCantor>
+        <Seguidores>5541570</Seguidores>
+        <Nome>Young Turks - 2008 Remaster</Nome>
+        <Duracao>5.04</Duracao>
+        <Popularidade>62</Popularidade>
+        <Album>Some Guys Have All the Luck</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">2008-11-16</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:56Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">Rod Stewart</Cantores>
+    </item>
+    <item>
+        <Id>1zxDewzd2j1ZdSBGaYcr0y</Id>
+        <NomeCantor ns:originalKey=""Nome Cantor"">The Outfield</NomeCantor>
         <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
         <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">65</PopularidadeCantor>
-        <Seguidores>3048811</Seguidores>
-        <Nome>Some Nights</Nome>
-        <Duracao>4.62</Duracao>
-        <Popularidade>69</Popularidade>
-        <Album>Some Nights</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2012-02-14</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:17:58Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">fun.</Cantores>
-    </item>
-    <item>
-        <Id>3AQRLZ9PuTAozP28Skbq8V</Id>
-        <NomeCantor ns:originalKey=""Nome Cantor"">The Script</NomeCantor>
-        <GeneroCantor ns:originalKey=""Genero Cantor""> </GeneroCantor>
-        <PopularidadeCantor ns:originalKey=""Popularidade Cantor"">74</PopularidadeCantor>
-        <Seguidores>8787823</Seguidores>
-        <Nome>Superheroes</Nome>
-        <Duracao>4.09</Duracao>
-        <Popularidade>76</Popularidade>
-        <Album>No Sound Without Silence</Album>
-        <DatadoAlbum ns:originalKey=""Data do Album"">2014-09-15</DatadoAlbum>
-        <Adicionadoa ns:originalKey=""Adicionado a:"">2021-02-17T23:16:43Z</Adicionadoa>
-        <Cantores ns:originalKey=""Cantore(s)"">The Script</Cantores>
+        <Seguidores>783077</Seguidores>
+        <Nome>Your Love</Nome>
+        <Duracao>3.61</Duracao>
+        <Popularidade>5</Popularidade>
+        <Album>Play Deep</Album>
+        <DatadoAlbum ns:originalKey=""Data do Album"">1985-06-29</DatadoAlbum>
+        <Adicionadoa ns:originalKey=""Adicionado a:"">2023-04-14T20:43:47Z</Adicionadoa>
+        <Cantores ns:originalKey=""Cantore(s)"">The Outfield</Cantores>
     </item>
 </root>"
